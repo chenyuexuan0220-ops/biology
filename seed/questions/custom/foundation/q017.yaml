@@ -1,0 +1,30 @@
+source_question_no: 17
+question_type: SINGLE_CHOICE
+stem: 两组叶片长度均值分别为 5.1 和 5.3 cm，但组内变异很大。最合理的判断是？
+options:
+  A: 差异必定有生物学意义
+  B: 均值不同就能证明因果
+  C: 必须结合样本量和变异评估差异证据
+  D: 只比较最大的叶片
+answer:
+- C
+explanation: 均值差异需要结合样本量、变异和研究设计解释，不能仅凭均值确定显著性或因果。
+knowledge_points:
+- BIO.SCIENCE.002
+prerequisites: []
+competencies:
+- DATA_INTERPRETATION
+difficulty:
+  learning: 4
+  competition: 4
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 生物学观察
+  cognitive_level: 4
+  target_grade: 11
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

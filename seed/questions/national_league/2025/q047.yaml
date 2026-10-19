@@ -1,0 +1,48 @@
+source_question_no: 47
+question_type: COMPREHENSIVE
+stem: '为了研究肝脏与骨骼肌中糖原代谢的不同调节，研究人员采用了各种技术。关于不同方法适用于比较这两
+
+  种组织之间糖原合成调节机制的适用性，请对以下陈述进行正误判断： 国'
+options:
+  A: '利用13C–葡萄糖进行稳定同位素示踪，以量化组织特异性糖原合成速率，可以直接测量肝脏和肌肉中不同
+
+    调节策略的功能结果'
+  B: '通过 RNA-seq 比较糖原合酶同工型（肌肉中的 GYS1，肝脏中的 GYS2）的 mRNA 表达水平，可以全
+
+    面了解这些组织中糖原合成活性的差异调节'
+  C: '测量葡萄糖给药后培养的原代肝细胞和肌管中糖原合酶 (GYS) 的磷酸化状态，可以直接评估控制酶活性
+
+    的关键翻译后调节机制'
+  D: 使用过碘酸-希夫反应(PAS)糖原染色进行组织学分析可以精确量化肝脏和肌肉组织切片中的糖原合成速率
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.325
+prerequisites:
+- BIO.BIOCHEM.013
+- BIO.EXP.001
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: C
+reasoning_patterns:
+- 方法选择
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 8
+  raw_text: "为了研究肝脏与骨骼肌中糖原代谢的不同调节，研究人员采用了各种技术。关于不同方法适用于比较这两\n种组织之间糖原合成调节机制的适用性，请对以下陈述进行正误判断：\
+    \ 国 A. 利用13C–葡萄糖进行稳定同位素示踪，以量化组织特异性糖原合成速率，可以直接测量肝脏和肌肉中不同\n调节策略的功能结果\n B. 通过 RNA-seq\
+    \ 比较糖原合酶同工型（肌肉中的 GYS1，肝脏中的 GYS2）的 mRNA 表达水平，可以全\n面了解这些组织中糖原合成活性的差异调节\n C. 测量葡萄糖给药后培养的原代肝细胞和肌管中糖原合酶\
+    \ (GYS) 的磷酸化状态，可以直接评估控制酶活性\n的关键翻译后调节机制\n D. 使用过碘酸-希夫反应(PAS)糖原染色进行组织学分析可以精确量化肝脏和肌肉组织切片中的糖原合成速率"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M1

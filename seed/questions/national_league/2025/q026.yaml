@@ -1,0 +1,44 @@
+source_question_no: 26
+question_type: COMPREHENSIVE
+stem: "表皮是植物体表面的初生保护组织，执行多种生理功能。请对下列关于表皮功能的陈述进行正误判断：\n\n\n                       \
+  \                           4"
+options:
+  A: 植物地上部分的所有表皮细胞都均匀覆盖着角质层，且都具备调节水分蒸腾的能力
+  B: 表皮实现其保护功能，主要是依赖于其细胞壁的完全木质化和形成周皮结构
+  C: '气体交换所需的气孔结构由两个普通的、无叶绿体的表皮细胞特化形
+
+    成'
+  D: 表皮细胞是植物从环境中吸收必需矿质元素的主要途径
+answer: null
+explanation: null
+knowledge_points:
+- BIO.PLANT.009
+- BIO.PLANT.011
+- BIO.PLANT.010
+prerequisites:
+- BIO.BRIDGE.298
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 结构功能
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 4
+  raw_text: "表皮是植物体表面的初生保护组织，执行多种生理功能。请对下列关于表皮功能的陈述进行正误判断：\n\n\n                 \
+    \                                 4\n A. 植物地上部分的所有表皮细胞都均匀覆盖着角质层，且都具备调节水分蒸腾的能力\n\
+    \ B. 表皮实现其保护功能，主要是依赖于其细胞壁的完全木质化和形成周皮结构\n C. 气体交换所需的气孔结构由两个普通的、无叶绿体的表皮细胞特化形\n成\n\
+    \ D. 表皮细胞是植物从环境中吸收必需矿质元素的主要途径"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

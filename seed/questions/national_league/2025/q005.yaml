@@ -1,0 +1,45 @@
+source_question_no: 5
+question_type: COMPREHENSIVE
+stem: '溶菌酶活性中心的谷氨酸35(Glu35)和天冬氨酸52(Asp52)对其催化活性至关重要。pKa 值是描述氨基酸质子
+
+  化和去质子化平衡的重要参数。已知在特定条件下，Glu35 羧基侧链的pKa 约为5.9，Asp52 羧基侧链的pKa 约
+
+  为4.5。对以下关于当环境pH 为5.2 时这两个氨基酸残基侧链主要电离状态的陈述，进行正误判断： 国'
+options:
+  A: 在pH 5.2 时，Glu35 的羧基侧链主要处于质子化状态(COOH)
+  B: 在pH 5.2 时，Asp52 的羧基侧链主要处于质子化状态(COOH)
+  C: 在pH 5.2 时，Glu35 的羧基侧链主要处于去质子化状态(COO–)
+  D: 在pH 5.2 时，Asp52 的羧基侧链主要处于去质子化状态(COO–)
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.272
+prerequisites:
+- BIO.BRIDGE.273
+- BIO.BRIDGE.274
+- BIO.BIOCHEM.010
+competencies:
+- QUANTITATIVE_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: D
+reasoning_patterns:
+- 定量推理
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 1
+  raw_text: "溶菌酶活性中心的谷氨酸35(Glu35)和天冬氨酸52(Asp52)对其催化活性至关重要。pKa 值是描述氨基酸质子\n化和去质子化平衡的重要参数。已知在特定条件下，Glu35\
+    \ 羧基侧链的pKa 约为5.9，Asp52 羧基侧链的pKa 约\n为4.5。对以下关于当环境pH 为5.2 时这两个氨基酸残基侧链主要电离状态的陈述，进行正误判断：\
+    \ 国\n A. 在pH 5.2 时，Glu35 的羧基侧链主要处于质子化状态(COOH)\n B. 在pH 5.2 时，Asp52 的羧基侧链主要处于质子化状态(COOH)\n\
+    \ C. 在pH 5.2 时，Glu35 的羧基侧链主要处于去质子化状态(COO–)\n D. 在pH 5.2 时，Asp52 的羧基侧链主要处于去质子化状态(COO–)"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: 暂缓

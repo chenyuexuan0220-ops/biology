@@ -1,0 +1,45 @@
+source_question_no: 58
+question_type: COMPREHENSIVE
+stem: '某基因座A 有n 个等位基因（n≥4）。个体基因型可分为纯合子（如AiAi）和杂合子（如AiAj）。若要对亲代婚
+
+  配类型进行分类，使得每种类型都能产生独特的子代基因型组合模式。分类时，需考虑亲本的纯合/杂合状态以
+
+  及两个亲本总体涉及的等位基因种类数和这些等位基因在亲本间的具体关系。不区分具体的等位基因种类（如
+
+  AiAi×AiAi 与AjAj×AjAj 视为同类）及正反交。对以下关于这些婚配类型及其遗传后果的陈述进行正误判断：'
+options:
+  A: 在所有可能的婚配类型中，仅当亲本双方基因型完全相同时，其子代才可能出现纯合子
+  B: 存在这样一种婚配类型：亲本双方均为杂合子，且其所有子代个体也必定是杂合子
+  C: 亲代共有7 种不同的婚配类型全
+  D: 若该基因座n=2，则根据此分类标准，可能的婚配类型将减少至两种
+answer: null
+explanation: null
+knowledge_points:
+- BIO.GENETICS.013
+prerequisites:
+- BIO.EVOLUTION.002
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 组合推理
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 10
+  raw_text: "某基因座A 有n 个等位基因（n≥4）。个体基因型可分为纯合子（如AiAi）和杂合子（如AiAj）。若要对亲代婚\n配类型进行分类，使得每种类型都能产生独特的子代基因型组合模式。分类时，需考虑亲本的纯合/杂合状态以\n\
+    及两个亲本总体涉及的等位基因种类数和这些等位基因在亲本间的具体关系。不区分具体的等位基因种类（如\nAiAi×AiAi 与AjAj×AjAj 视为同类）及正反交。对以下关于这些婚配类型及其遗传后果的陈述进行正误判断：\n\
+    \ A. 在所有可能的婚配类型中，仅当亲本双方基因型完全相同时，其子代才可能出现纯合子\n B. 存在这样一种婚配类型：亲本双方均为杂合子，且其所有子代个体也必定是杂合子\n\
+    \ C. 亲代共有7 种不同的婚配类型全\n D. 若该基因座n=2，则根据此分类标准，可能的婚配类型将减少至两种"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

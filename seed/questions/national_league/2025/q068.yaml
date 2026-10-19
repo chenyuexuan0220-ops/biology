@@ -1,0 +1,43 @@
+source_question_no: 68
+question_type: COMPREHENSIVE
+stem: '不等交换（unequal crossover）是一种在同源染色体配对过程中发生的重组异常，导致基因重复或缺失。例如，
+
+  果蝇的Bar 突变就是由于 X 染色体上的不等交换，导致Bar 基因重复，从而引起眼睛缩小。关于不等交换在进
+
+  化中的后果，判断以下陈述的正确性：'
+options:
+  A: 不等交换可导致某些基因家族成员减少
+  B: 不等交换是基因家族扩大的潜在机制
+  C: 不等交换通常发生在减数分裂中，但也有可能在有丝分裂中出现
+  D: 不等交换可能促进新基因功能的演化
+answer: null
+explanation: null
+knowledge_points:
+- BIO.GENETICS.019
+prerequisites:
+- BIO.CELL.023
+- BIO.CELL.024
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 突变→进化
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 12
+  raw_text: "不等交换（unequal crossover）是一种在同源染色体配对过程中发生的重组异常，导致基因重复或缺失。例如，\n果蝇的Bar 突变就是由于\
+    \ X 染色体上的不等交换，导致Bar 基因重复，从而引起眼睛缩小。关于不等交换在进\n化中的后果，判断以下陈述的正确性：\n A. 不等交换可导致某些基因家族成员减少\n\
+    \ B. 不等交换是基因家族扩大的潜在机制\n C. 不等交换通常发生在减数分裂中，但也有可能在有丝分裂中出现\n D. 不等交换可能促进新基因功能的演化"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

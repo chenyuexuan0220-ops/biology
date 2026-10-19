@@ -1,0 +1,53 @@
+source_question_no: 16
+question_type: COMPREHENSIVE
+stem: '细胞在饥饿条件下会产生自噬小体包裹自身的部分物质用于分解提供能量。在酿酒酵母中，自噬小体在细胞
+
+  质中产生后被运输到液泡进行分解（见右
+
+  侧A 图），野生型细胞中这一分解过程会
+
+  较快完成，然而一些突变体会产生B 图
+
+  所示表型，请对以下陈述进行正误判断：'
+options:
+  A: '该突变体是由于自噬小体形成过程
+
+    出现障碍而导致'
+  B: '该突变体是由于自噬小体不能和液
+
+    泡融合而导致'
+  C: '该突变体是由于液泡分解功能障碍
+
+    而导致'
+  D: 使用蛋白酶抑制剂处理野生型酵母细胞可能会得到类似的表型
+answer: null
+explanation: null
+knowledge_points:
+- BIO.CELL.026
+prerequisites:
+- BIO.CELL.005
+- BIO.BRIDGE.286
+competencies:
+- DATA_INTERPRETATION
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 表型→机制
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 3
+  raw_text: "细胞在饥饿条件下会产生自噬小体包裹自身的部分物质用于分解提供能量。在酿酒酵母中，自噬小体在细胞\n质中产生后被运输到液泡进行分解（见右\n\
+    侧A 图），野生型细胞中这一分解过程会\n较快完成，然而一些突变体会产生B 图\n所示表型，请对以下陈述进行正误判断：\n A. 该突变体是由于自噬小体形成过程\n\
+    出现障碍而导致\n B. 该突变体是由于自噬小体不能和液\n泡融合而导致\n C. 该突变体是由于液泡分解功能障碍\n而导致\n D. 使用蛋白酶抑制剂处理野生型酵母细胞可能会得到类似的表型"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

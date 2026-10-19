@@ -1,0 +1,40 @@
+source_question_no: 69
+question_type: COMPREHENSIVE
+stem: '在社会性动物研究中，科学家观察到工蜂放弃繁殖并保护蜂巢现象。这一现象可以由亲缘选择理论解释，对
+
+  以下关于符合该理论的陈述进行正误判断：'
+options:
+  A: 帮助行为在社会性昆虫中可能提升亲缘个体的生殖成功率，从而促进利他演化
+  B: 亲缘系数较高通常会提高利他行为在进化中的固定概率
+  C: 亲缘选择可能主要在特定物种如蜜蜂中存在，而在其他动物中作用较弱
+  D: 亲缘选择可能只在群居动物中发生，独居物种不会表现出类似行为
+answer: null
+explanation: null
+knowledge_points:
+- BIO.EVOLUTION.015
+prerequisites:
+- BIO.EVOLUTION.003
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 进化推理
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 12
+  raw_text: "在社会性动物研究中，科学家观察到工蜂放弃繁殖并保护蜂巢现象。这一现象可以由亲缘选择理论解释，对\n以下关于符合该理论的陈述进行正误判断：\n\
+    \ A. 帮助行为在社会性昆虫中可能提升亲缘个体的生殖成功率，从而促进利他演化\n B. 亲缘系数较高通常会提高利他行为在进化中的固定概率\n C. 亲缘选择可能主要在特定物种如蜜蜂中存在，而在其他动物中作用较弱\n\
+    \ D. 亲缘选择可能只在群居动物中发生，独居物种不会表现出类似行为"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

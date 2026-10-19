@@ -1,0 +1,30 @@
+source_question_no: 15
+question_type: SINGLE_CHOICE
+stem: 评价一种肥料对幼苗的作用，为什么每组应使用多株幼苗？
+options:
+  A: 增加重复以评估个体差异
+  B: 保证结论永远正确
+  C: 替代对照组
+  D: 使实验没有误差
+answer:
+- A
+explanation: 重复可以估计个体差异与变异，降低偶然性，但不能代替对照，也不能消除所有误差。
+knowledge_points:
+- BIO.EXP.001
+prerequisites: []
+competencies:
+- EXPERIMENTAL_DESIGN
+difficulty:
+  learning: 2
+  competition: 2
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 实验问题
+  cognitive_level: 2
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

@@ -1,0 +1,39 @@
+source_question_no: 24
+question_type: COMPREHENSIVE
+stem: 请根据左图所示的木材显微结构特征以及维管形成层的季节性活动规律，对以下关于生长轮（年轮）的陈述全进行正误判断：
+options:
+  A: 在温带地区，一个生长季节内形成的早材和晚材共同构成一个清晰可见的生长轮（年轮）
+  B: 左图中清晰可见，年轮的界限位于上一生长季节形成的晚材与本生长季节形成的早材之间
+  C: 在同一生长轮内，从早材到晚材的细胞形态过渡通常是突变的，形成明显的内部界限
+  D: 左图显示晚材区域细胞排列紧密、腔小壁厚，因此通常比结构疏松、腔大壁薄的早材更为致密
+answer: null
+explanation: null
+knowledge_points:
+- BIO.PLANT.018
+prerequisites:
+- BIO.PLANT.004
+- BIO.PLANT.016
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 结构与季节
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 4
+  raw_text: "请根据左图所示的木材显微结构特征以及维管形成层的季节性活动规律，对以下关于生长轮（年轮）的陈述全进行正误判断：\n A. 在温带地区，一个生长季节内形成的早材和晚材共同构成一个清晰可见的生长轮（年轮）\n\
+    \ B. 左图中清晰可见，年轮的界限位于上一生长季节形成的晚材与本生长季节形成的早材之间\n C. 在同一生长轮内，从早材到晚材的细胞形态过渡通常是突变的，形成明显的内部界限\n\
+    \ D. 左图显示晚材区域细胞排列紧密、腔小壁厚，因此通常比结构疏松、腔大壁薄的早材更为致密"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

@@ -1,0 +1,30 @@
+source_question_no: 10
+question_type: SINGLE_CHOICE
+stem: 某单细胞生物能运动、摄取营养并繁殖，这说明什么？
+options:
+  A: 单个细胞可以完成多种生命活动
+  B: 细胞一定没有内部结构
+  C: 多细胞生物的每个细胞都能独立生存
+  D: 运动只能由器官完成
+answer:
+- A
+explanation: 单细胞生物以一个细胞完成多种生命活动，但不能据此推广到所有多细胞生物的细胞。
+knowledge_points:
+- BIO.CELL.001
+prerequisites: []
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  learning: 2
+  competition: 2
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 细胞概念
+  cognitive_level: 2
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

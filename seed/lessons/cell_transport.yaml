@@ -1,0 +1,1398 @@
+- code: cell-transport:BIO.CELL.001:INTRO
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 1
+  knowledge_code: BIO.CELL.001
+  tier: INTRO
+  min_level: 0
+  max_level: 1
+  version: 1
+  document:
+    title: 细胞：入门理解
+    summary: 围绕细胞，通过结构图、例题和检测，完成从概念到证据的入门理解学习。
+    objectives:
+    - 说出细胞膜、细胞质与遗传物质的基本作用
+    - 区分单细胞生物、多细胞生物与病毒
+    estimated_minutes: 20
+    prerequisites: []
+    sections:
+    - id: s1
+      title: 从一个生物到一个细胞
+      text: 洋葱表皮、叶片和皮肤都由许多细胞组成，细菌则可以由一个细胞完成生命活动。细胞不是一个静止的小盒子：它不断进行物质交换和化学反应。观察显微图像时，先确定放大倍数和尺度，再区分直接看见的轮廓与根据知识推测的结构。
+    - id: s2
+      title: 边界、内部与信息
+      text: 细胞膜形成细胞边界，帮助维持内部环境；细胞质是许多生命活动发生的场所；遗传物质携带构建和维持细胞所需的信息。在常见动物或植物真核细胞中，主要遗传物质位于细胞核。植物细胞外还有细胞壁，它与细胞膜不是同一结构。
+    - id: s3
+      title: 一个细胞，也可以生活
+      text: 草履虫等单细胞生物能够摄取营养、排出物质并繁殖。多细胞生物不同细胞之间会分工协作，不能认为每个细胞都能独立生活。病毒虽然具有遗传物质，却没有完整细胞结构，也不能脱离宿主细胞独立复制。用一个例子检验自己的定义，比只背一句话更可靠。
+    diagram:
+      kind: CELL
+      labels: &id001
+      - 细胞膜
+      - 细胞质
+      - 细胞核
+      caption: 以动物真核细胞为例的结构示意，不按比例绘制；原核细胞没有被核膜包围的细胞核。
+    examples:
+    - prompt: 细菌没有被核膜包围的细胞核，为什么仍然是细胞？
+      reasoning: 判断细胞不能只看有没有细胞核。细菌有细胞膜、细胞质和遗传物质，并能进行生命活动，因此属于原核细胞。把某一类细胞的特点当成所有细胞的必要条件，会造成误判。
+    misconceptions:
+    - claim: 所有生物都由细胞构成。
+      correction: 细胞是细胞生物的基本结构和功能单位；病毒没有细胞结构，复制依赖宿主细胞。
+    - claim: 所有细胞都有细胞核。
+      correction: 真核细胞通常具有细胞核，但原核细胞没有核膜包围的细胞核，哺乳动物成熟红细胞也没有细胞核。
+    checks:
+    - id: q1
+      stem: 细胞与外界之间的主要边界是什么？
+      options:
+        A: 细胞膜
+        B: 细胞核
+        C: 染色体
+        D: 核糖体
+      answer: A
+      explanation: 细胞膜包围细胞内部，参与物质交换并维持内部环境。细胞核不是整个细胞的边界。
+      cognitive_level: 0
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 下列哪个对象没有细胞结构？
+      options:
+        A: 酵母菌
+        B: 大肠杆菌
+        C: 流感病毒
+        D: 草履虫
+      answer: C
+      explanation: 流感病毒不具有细胞结构，复制依赖宿主；其余对象都属于细胞生物。
+      cognitive_level: 1
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 单细胞生物能够生长和繁殖，最直接说明什么？
+      options:
+        A: 细胞都是动物
+        B: 一个细胞可以完成生命活动
+        C: 细胞不需要物质交换
+        D: 细胞一定有叶绿体
+      answer: B
+      explanation: 单细胞生物以一个细胞完成生命活动，这不意味着所有细胞都有叶绿体或无需物质交换。
+      cognitive_level: 0
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 关于细胞核，正确的说法是？
+      options:
+        A: 所有细胞都有细胞核
+        B: 细菌没有遗传物质
+        C: 没有细胞核就不是细胞
+        D: 原核细胞没有核膜包围的细胞核
+      answer: D
+      explanation: 原核细胞没有核膜包围的细胞核，但仍有遗传物质，不能以细胞核作为所有细胞的判据。
+      cognitive_level: 1
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述细胞，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕细胞明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.001:APPLICATION
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 1
+  knowledge_code: BIO.CELL.001
+  tier: APPLICATION
+  min_level: 2
+  max_level: 3
+  version: 1
+  document:
+    title: 细胞：情境应用
+    summary: 围绕细胞，通过结构图、例题和检测，完成从概念到证据的情境应用学习。
+    objectives:
+    - 用结构证据区分细胞类型
+    - 用表面积与体积解释细胞交换的限制
+    estimated_minutes: 30
+    prerequisites: []
+    sections:
+    - id: s1
+      title: 用多项证据分类
+      text: 仅看一张切片中的圆形区域，不能立刻认定它是细胞核。要结合染色、尺度、连续切片与其他结构判断。真核细胞具有膜包围的细胞核和细胞器，原核细胞具有遗传物质和核糖体但没有核膜。植物细胞与动物细胞都是真核细胞；不是所有植物细胞都含叶绿体。
+    - id: s2
+      title: 大小与交换效率
+      text: 把细胞近似为边长为 a 的立方体，表面积为 6a²，体积为 a³，表面积与体积之比为 6/a。边长变为两倍时，表面积变为四倍，体积变为八倍，比值减半。这个模型说明体积增长可能让单位体积可用的交换面积减少，但不能据此认定细胞一定是立方体。
+    - id: s3
+      title: 结构变化必须结合功能
+      text: 小肠吸收细胞具有微绒毛，可以增加接触面积。哺乳动物成熟红细胞缺少细胞核，其形态和结构与运输气体有关。解释这些现象时，要说明结构怎样影响过程，并承认一个结构可能具有多种作用；不能把观察到的相关性直接写成唯一原因。
+    diagram:
+      kind: CELL
+      labels: *id001
+      caption: 以动物真核细胞为例的结构示意，不按比例绘制；原核细胞没有被核膜包围的细胞核。
+    examples:
+    - prompt: 立方体细胞的边长由 1 变为 2，表面积与体积之比如何变化？
+      reasoning: 原先表面积与体积之比是 6/1=6，后来是 6/2=3，因此减半。分别计算面积和体积，避免把长度翻倍误当成面积或体积也只翻倍。
+    misconceptions:
+    - claim: 所有生物都由细胞构成。
+      correction: 细胞是细胞生物的基本结构和功能单位；病毒没有细胞结构，复制依赖宿主细胞。
+    - claim: 所有细胞都有细胞核。
+      correction: 真核细胞通常具有细胞核，但原核细胞没有核膜包围的细胞核，哺乳动物成熟红细胞也没有细胞核。
+    checks:
+    - id: q1
+      stem: 立方体边长翻倍时，表面积与体积之比变为原来的多少？
+      options:
+        A: 2 倍
+        B: 4 倍
+        C: 1/2
+        D: 不变
+      answer: C
+      explanation: 表面积增加到四倍而体积增加到八倍，因此二者之比变为原来的一半。
+      cognitive_level: 2
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 根部细胞通常没有叶绿体，这能否否定它属于植物细胞？
+      options:
+        A: 能，所有植物细胞都有叶绿体
+        B: 不能，不同植物细胞存在功能分工
+        C: 能，因为根不是植物的一部分
+        D: 不能，因为叶绿体与细胞无关
+      answer: B
+      explanation: 叶绿体与光合作用有关，不同植物组织的细胞结构存在分工；没有叶绿体不能直接排除植物细胞。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 微绒毛对物质吸收的主要贡献是什么？
+      options:
+        A: 增加细胞接触面积
+        B: 使细胞没有细胞膜
+        C: 消除所有浓度差
+        D: 直接提供遗传信息
+      answer: A
+      explanation: 微绒毛增大细胞表面可接触的面积，可以有利于物质交换，但并不消除细胞膜或浓度差。
+      cognitive_level: 2
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 观察不到细胞核时，最稳妥的做法是什么？
+      options:
+        A: 直接认定不是细胞
+        B: 直接认定为病毒
+        C: 直接认定已死亡
+        D: 结合细胞膜、遗传物质和观察方法进一步判断
+      answer: D
+      explanation: 未观察到不等于不存在，也可能由细胞类型或观察方法造成，需要综合证据。
+      cognitive_level: 3
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述细胞，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕细胞明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.001:COMPETITION
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 1
+  knowledge_code: BIO.CELL.001
+  tier: COMPETITION
+  min_level: 4
+  max_level: 7
+  version: 1
+  document:
+    title: 细胞：竞赛推理
+    summary: 围绕细胞，通过结构图、例题和检测，完成从概念到证据的竞赛推理学习。
+    objectives:
+    - 评价细胞结构与功能研究的因果证据
+    - 区分测量信号、细胞数量与机制解释
+    estimated_minutes: 40
+    prerequisites: []
+    sections:
+    - id: s1
+      title: 从结构描述到可检验机制
+      text: 观察到某细胞器增多和代谢增强同时发生，只能提出相关关系。要支持因果机制，可以干预相关结构或蛋白，测量特定功能，设置载体、溶剂与活性对照，并在可能时进行回补。回补恢复表型增强因果解释，但也不能自动排除所有非特异效应。
+    - id: s2
+      title: 数量、总量与归一化
+      text: 同样体积的两份培养物，如果细胞数量不同，总蛋白量或总荧光就不能直接代表单个细胞的功能差异。根据问题选择按活细胞数、总蛋白或细胞体积归一化，并报告分布与重复。平均值相同也不意味着每个细胞相同，群体异质性可能被平均掩盖。
+    - id: s3
+      title: 干预后的下降意味着什么
+      text: 抑制线粒体 ATP 合成后主动运输下降，支持运输依赖能量供应的可能，但也可能伴随细胞损伤。应同时测 ATP、细胞活性和膜完整性，并使用不同干预或补救实验。严谨结论要区分观察事实、机制假设和仍未排除的解释。
+    diagram:
+      kind: CELL
+      labels: *id001
+      caption: 以动物真核细胞为例的结构示意，不按比例绘制；原核细胞没有被核膜包围的细胞核。
+    examples:
+    - prompt: 药物处理后细胞总荧光减半，能否直接认为每个细胞的目标蛋白量减半？
+      reasoning: 不能。若处理使存活细胞数量减半而单细胞信号不变，也会得到总荧光减半。需要计数、测活性，并比较单细胞或合适归一化后的信号，再判断表达量变化。
+    misconceptions:
+    - claim: 所有生物都由细胞构成。
+      correction: 细胞是细胞生物的基本结构和功能单位；病毒没有细胞结构，复制依赖宿主细胞。
+    - claim: 所有细胞都有细胞核。
+      correction: 真核细胞通常具有细胞核，但原核细胞没有核膜包围的细胞核，哺乳动物成熟红细胞也没有细胞核。
+    checks:
+    - id: q1
+      stem: 处理后总荧光减半，存活细胞数也减半，首先应如何解读？
+      options:
+        A: 单细胞表达量必然减半
+        B: 总量变化可能由细胞数变化解释
+        C: 证明目标蛋白被完全降解
+        D: 无需任何归一化
+      answer: B
+      explanation: 总信号由数量和单细胞信号共同决定；存活细胞减少可能解释总量下降，应进一步归一化。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 哪组证据更能支持目标蛋白参与某细胞功能？
+      options:
+        A: 表达量与功能相关
+        B: 单次显微照片
+        C: 敲除产生缺陷且回补恢复，并有适当对照
+        D: 只观察到细胞变大
+      answer: C
+      explanation: 干预、回补和对照能增强因果证据，而单纯相关或一次照片不足以确认功能。
+      cognitive_level: 4
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 两组细胞的平均信号相同，能推出什么？
+      options:
+        A: 每个细胞都相同
+        B: 两组分布必定相同
+        C: 细胞类型必定相同
+        D: 均值相同，但异质性仍可能不同
+      answer: D
+      explanation: 平均值无法完整描述分布，两组可能具有不同变异或亚群，需要单细胞数据。
+      cognitive_level: 3
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: ATP 合成抑制剂降低运输速率，最重要的补充控制之一是？
+      options:
+        A: 测定细胞活性与膜完整性
+        B: 只增加图片亮度
+        C: 删除所有低信号细胞
+        D: 取消溶剂对照
+      answer: A
+      explanation: 应排除细胞死亡或膜破坏造成的非特异影响，同时验证能量变化和运输变化。
+      cognitive_level: 4
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: TRANSFER
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述细胞，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕细胞明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.004:INTRO
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 2
+  knowledge_code: BIO.CELL.004
+  tier: INTRO
+  min_level: 0
+  max_level: 1
+  version: 1
+  document:
+    title: 细胞膜：入门理解
+    summary: 围绕细胞膜，通过结构图、例题和检测，完成从概念到证据的入门理解学习。
+    objectives:
+    - 解释细胞膜的边界与交换作用
+    - 区分选择透过与完全封闭
+    estimated_minutes: 20
+    prerequisites:
+    - BIO.CELL.001
+    sections:
+    - id: s1
+      title: 边界也要交换
+      text: 细胞要摄取原料并排出部分产物，因此边界不能完全封闭。细胞膜把内部环境与外界分开，又允许特定物质通过。把细胞膜比作有规则的边界有助于理解，但膜没有人的意图；分子能否通过由结构、物理性质和相应运输机制共同决定。
+    - id: s2
+      title: 膜由什么构成
+      text: 细胞膜的基本骨架是磷脂双层，其中分布着许多蛋白质。磷脂与水的相互作用使其形成双层结构。部分膜蛋白形成通路，部分参与识别或信号接收。此图是为了突出结构关系的模型，实际膜不是整齐、静止而且处处完全一样的排列。
+    - id: s3
+      title: 选择透过性
+      text: 氧气等小的非极性分子较容易通过脂质部分；离子带电，直接穿过脂质内部较困难，通常需要相应通路。水也能够通过膜，许多细胞含有水通道蛋白。某种物质能通过，并不能说明所有物质都能同样快地通过。
+    diagram:
+      kind: MEMBRANE
+      labels: &id002
+      - 细胞外
+      - 磷脂双层
+      - 膜蛋白
+      - 细胞内
+      caption: 膜的简化截面：磷脂构成双层，蛋白参与多种功能；不是所有分子都走同一种通路。
+    examples:
+    - prompt: 氧气能进入细胞，是否说明钠离子也能同样容易地穿过脂质双层？
+      reasoning: 不能。氧气和钠离子的性质不同，钠离子带电，其跨膜往往依赖相应的蛋白通路。应先比较物质性质，再讨论膜的通透性，不能仅凭一种物质推广到所有物质。
+    misconceptions:
+    - claim: 细胞膜是一堵完全不透水的墙。
+      correction: 细胞膜具有选择透过性，水和一些物质可以通过。通透性与分子性质、膜组成及通道有关。
+    - claim: 只有需要能量的过程才能经过膜蛋白。
+      correction: 膜蛋白也参与被动运输，例如通道或载体介导的易化扩散；有蛋白参与不等于主动运输。
+    checks:
+    - id: q1
+      stem: 细胞膜的选择透过性意味着什么？
+      options:
+        A: 所有物质都不能通过
+        B: 所有物质一样容易通过
+        C: 不同物质的通过能力不同
+        D: 只有固体能通过
+      answer: C
+      explanation: 不同物质因性质及运输通路不同而具有不同通过能力，选择透过不等于完全封闭。
+      cognitive_level: 0
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 细胞膜的基本骨架通常是什么？
+      options:
+        A: 磷脂双层
+        B: 纤维素厚墙
+        C: DNA 双链
+        D: 淀粉层
+      answer: A
+      explanation: 细胞膜的基本骨架是磷脂双层，膜蛋白参与运输、信号等功能；纤维素主要与植物细胞壁有关。
+      cognitive_level: 1
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 哪个说法正确描述水与细胞膜？
+      options:
+        A: 水永远不能通过膜
+        B: 水只能在膜外存在
+        C: 水能通过说明离子同样自由通过
+        D: 水能够通过，许多细胞还有水通道蛋白
+      answer: D
+      explanation: 水可以跨膜，许多细胞具有水通道蛋白；水通透性不能用于推断其他物质的通透性。
+      cognitive_level: 0
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 关于膜蛋白，哪个说法正确？
+      options:
+        A: 只负责支撑细胞壁
+        B: 可以参与物质运输和信号接收
+        C: 存在就说明物质一定逆梯度运输
+        D: 所有蛋白作用完全相同
+      answer: B
+      explanation: 膜蛋白具有运输、受体等不同作用，有蛋白参与并不意味着一定是主动运输。
+      cognitive_level: 1
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: prerequisite
+      stem: 前置概念核对：下列哪个对象没有细胞结构？
+      options:
+        A: 酵母菌
+        B: 大肠杆菌
+        C: 流感病毒
+        D: 草履虫
+      answer: C
+      explanation: 流感病毒不具有细胞结构，复制依赖宿主；其余对象都属于细胞生物。
+      cognitive_level: 1
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: BIO.CELL.001
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述细胞膜，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕细胞膜明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.004:APPLICATION
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 2
+  knowledge_code: BIO.CELL.004
+  tier: APPLICATION
+  min_level: 2
+  max_level: 3
+  version: 1
+  document:
+    title: 细胞膜：情境应用
+    summary: 围绕细胞膜，通过结构图、例题和检测，完成从概念到证据的情境应用学习。
+    objectives:
+    - 比较简单扩散、易化扩散与主动运输
+    - 用梯度和能量条件判断运输方式
+    estimated_minutes: 30
+    prerequisites:
+    - BIO.CELL.001
+    sections:
+    - id: s1
+      title: 先辨认运输的驱动力
+      text: 简单扩散和易化扩散都属于被动运输，沿相应的化学或电化学势降低方向进行。简单扩散直接经过膜的脂质部分，易化扩散依赖通道或载体。主动运输能推动物质逆电化学梯度移动，需要直接或间接耦联能量。对离子不能只看浓度，还应考虑电位差。
+    - id: s2
+      title: 载体与通道不相同
+      text: 载体与底物结合后发生构象变化，常表现出特异性和饱和性。通道形成选择性的通路，可受电压或配体控制。观察到饱和并不能单独证明主动运输，因为载体介导的被动运输也可能饱和；还需要判断方向、能量依赖及实验条件。
+    - id: s3
+      title: 从实验比较得到有限结论
+      text: 若去除某膜蛋白后某物质进入速率下降，可以提出该蛋白参与运输，但要检测细胞活性、膜完整性和蛋白表达。比较不同物质时，应控制浓度差、温度和膜面积。一次通量变化通常不能单独说明蛋白究竟是泵、通道还是载体。
+    diagram:
+      kind: MEMBRANE
+      labels: *id002
+      caption: 膜的简化截面：磷脂构成双层，蛋白参与多种功能；不是所有分子都走同一种通路。
+    examples:
+    - prompt: 某物质沿浓度梯度通过载体，且没有电荷因素干扰，应如何分类？
+      reasoning: 沿浓度梯度且通过载体的运输可以是易化扩散。判断被动或主动的关键是驱动力与能量耦联，而不是只看是否有蛋白。若物质带电，还需检查电位差。
+    misconceptions:
+    - claim: 细胞膜是一堵完全不透水的墙。
+      correction: 细胞膜具有选择透过性，水和一些物质可以通过。通透性与分子性质、膜组成及通道有关。
+    - claim: 只有需要能量的过程才能经过膜蛋白。
+      correction: 膜蛋白也参与被动运输，例如通道或载体介导的易化扩散；有蛋白参与不等于主动运输。
+    checks:
+    - id: q1
+      stem: 中性溶质沿浓度梯度，经载体转运，属于什么？
+      options:
+        A: 一定是主动运输
+        B: 易化扩散
+        C: 一定消耗 ATP
+        D: 胞吞
+      answer: B
+      explanation: 沿浓度梯度经载体的中性溶质运输可以是易化扩散，不能因载体参与就判断为主动运输。
+      cognitive_level: 2
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 运输曲线随底物浓度升高而饱和，单凭这一点能否证明主动运输？
+      options:
+        A: 能，饱和只见于泵
+        B: 能，所有扩散都无限加快
+        C: 不能，载体介导的被动运输也可能饱和
+        D: 不能，因为饱和不可能发生
+      answer: C
+      explanation: 载体数量和周转速率有限，使易化扩散也能表现饱和；还需分析能量与梯度。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 判断离子的被动运输方向，需要考虑什么？
+      options:
+        A: 浓度差与电位差
+        B: 只看分子颜色
+        C: 只看细胞大小
+        D: 只看蛋白是否存在
+      answer: A
+      explanation: 离子受化学梯度和电势共同影响，需综合电化学梯度判断运动驱动力。
+      cognitive_level: 2
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 敲除蛋白后运输下降，哪项对照最有帮助？
+      options:
+        A: 不记录浓度
+        B: 更换全部实验条件
+        C: 只看终点图片
+        D: 检测膜完整性并进行回补
+      answer: D
+      explanation: 膜完整性和回补可帮助排除非特异损伤并加强蛋白与运输之间的因果解释。
+      cognitive_level: 3
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: prerequisite
+      stem: 前置概念核对：根部细胞通常没有叶绿体，这能否否定它属于植物细胞？
+      options:
+        A: 能，所有植物细胞都有叶绿体
+        B: 不能，不同植物细胞存在功能分工
+        C: 能，因为根不是植物的一部分
+        D: 不能，因为叶绿体与细胞无关
+      answer: B
+      explanation: 叶绿体与光合作用有关，不同植物组织的细胞结构存在分工；没有叶绿体不能直接排除植物细胞。
+      cognitive_level: 2
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: BIO.CELL.001
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述细胞膜，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕细胞膜明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.004:COMPETITION
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 2
+  knowledge_code: BIO.CELL.004
+  tier: COMPETITION
+  min_level: 4
+  max_level: 7
+  version: 1
+  document:
+    title: 细胞膜：竞赛推理
+    summary: 围绕细胞膜，通过结构图、例题和检测，完成从概念到证据的竞赛推理学习。
+    objectives:
+    - 解释继发性主动运输的能量来源
+    - 区分通量下降的多种机制解释
+    estimated_minutes: 40
+    prerequisites:
+    - BIO.CELL.001
+    sections:
+    - id: s1
+      title: 直接与间接能量耦联
+      text: 原发性主动运输直接利用 ATP 水解等能量；继发性主动运输将一种溶质顺电化学梯度的过程与另一种溶质逆梯度的过程耦联。因此运输蛋白不直接水解
+        ATP，也可能参与主动运输。必须追踪整个能量链，而不能只看某一步是否消耗 ATP。
+    - id: s2
+      title: 电化学势与选择性
+      text: 对某种离子，跨膜电化学势差包含化学势差和电势差。改变外液浓度或膜电位，都可能改变净通量方向。通道开放概率、单通道电导和通道数量也会影响总电流。将电流变化直接等同于通道数量变化，忽略了其他可能因素。
+    - id: s3
+      title: 用反事实设计实验
+      text: 要检验协同运输依赖钠梯度，可在保持渗透条件和细胞活性的前提下替换外液钠，再检测底物通量；同时设置回补和对照。抑制钠钾泵后通量下降，可能经由梯度消散间接产生。时间过程能帮助区分直接抑制和逐步耗尽驱动力。
+    diagram:
+      kind: MEMBRANE
+      labels: *id002
+      caption: 膜的简化截面：磷脂构成双层，蛋白参与多种功能；不是所有分子都走同一种通路。
+    examples:
+    - prompt: 某协同转运蛋白不水解 ATP，却能让葡萄糖逆浓度梯度进入细胞，能量可能来自哪里？
+      reasoning: 可能来自另一种离子顺电化学梯度移动所释放的自由能。该离子梯度通常由其他泵建立。因此不直接水解 ATP 不等于整个过程无能量消耗，需追踪能量来源。
+    misconceptions:
+    - claim: 细胞膜是一堵完全不透水的墙。
+      correction: 细胞膜具有选择透过性，水和一些物质可以通过。通透性与分子性质、膜组成及通道有关。
+    - claim: 只有需要能量的过程才能经过膜蛋白。
+      correction: 膜蛋白也参与被动运输，例如通道或载体介导的易化扩散；有蛋白参与不等于主动运输。
+    checks:
+    - id: q1
+      stem: 继发性主动运输的直接驱动力通常来自哪里？
+      options:
+        A: 所有分子的随机碰撞本身就能持续逆梯度
+        B: 另一种物质顺电化学梯度移动
+        C: 运输蛋白一定直接水解 ATP
+        D: 细胞壁伸缩
+      answer: B
+      explanation: 继发性主动运输耦联另一种物质顺电化学梯度移动的能量，以推动目标物质逆梯度运输。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 总膜电流下降能否单独证明通道数量减少？
+      options:
+        A: 能，电流只由数量决定
+        B: 能，膜电位不影响电流
+        C: 不能，开放概率和驱动力也可能改变
+        D: 不能，因为通道不导电
+      answer: C
+      explanation: 总电流受通道数量、开放概率、电导和电化学驱动力共同影响，不能只归因于数量。
+      cognitive_level: 4
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 替换外液钠以检验钠耦联运输时，应尽量保持什么？
+      options:
+        A: 渗透条件与细胞活性等对照条件
+        B: 同时改变所有离子和温度
+        C: 只保留出现预期结果的细胞
+        D: 让细胞全部破裂
+      answer: A
+      explanation: 控制渗透条件和细胞活性等因素，有助于将通量变化归因于钠梯度而非非特异损伤。
+      cognitive_level: 3
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 抑制钠钾泵后，钠耦联底物运输逐步下降，合理解释是？
+      options:
+        A: 证明泵直接结合该底物
+        B: 证明底物运输与梯度无关
+        C: 说明所有膜蛋白都已消失
+        D: 钠梯度逐步消散可能间接降低驱动力
+      answer: D
+      explanation: 钠钾泵维持离子梯度，抑制后梯度逐步衰减可能间接降低协同运输，应结合时间和对照验证。
+      cognitive_level: 4
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: TRANSFER
+    - id: prerequisite
+      stem: 前置概念核对：哪组证据更能支持目标蛋白参与某细胞功能？
+      options:
+        A: 表达量与功能相关
+        B: 单次显微照片
+        C: 敲除产生缺陷且回补恢复，并有适当对照
+        D: 只观察到细胞变大
+      answer: C
+      explanation: 干预、回补和对照能增强因果证据，而单纯相关或一次照片不足以确认功能。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: BIO.CELL.001
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述细胞膜，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕细胞膜明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.013:INTRO
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 3
+  knowledge_code: BIO.CELL.013
+  tier: INTRO
+  min_level: 0
+  max_level: 1
+  version: 1
+  document:
+    title: 扩散：入门理解
+    summary: 围绕扩散，通过结构图、例题和检测，完成从概念到证据的入门理解学习。
+    objectives:
+    - 解释净扩散与分子运动的区别
+    - 预测简单浓度差下的净移动方向
+    estimated_minutes: 20
+    prerequisites:
+    - BIO.CELL.004
+    sections:
+    - id: s1
+      title: 为什么滴入的颜色会散开
+      text: 将少量色素轻轻加入静止的水，色素会逐渐分散。分子不断运动，在浓度高的一侧，同样时间内可能向外移动的分子更多，于是出现高浓度到低浓度的净移动。现实演示中还可能发生水流，所以观察时要区分扩散和液体整体流动。
+    - id: s2
+      title: 净移动不是只向一个方向
+      text: 单个分子不会识别哪边浓度更低，它可能朝多个方向运动。所谓净扩散，是比较两个方向移动的总数之后得到的结果。两边浓度接近时，净移动逐渐减弱。在温度等条件相同的简单体系中，平衡不意味着分子静止。
+    - id: s3
+      title: 膜会改变能不能通过
+      text: 如果两区域之间有一层膜，还必须考虑膜是否允许这种分子通过。浓度差只说明可能的驱动力，不能替代通透性条件。氧气可以较容易跨过细胞膜，但某些大分子即使存在浓度差，也不能自由通过。先问能否通过，再判断净方向。
+    diagram:
+      kind: DIFFUSION
+      labels: &id003
+      - 高浓度区域
+      - 净扩散方向
+      - 低浓度区域
+      caption: 中性溶质在简单条件下由高浓度区向低浓度区净扩散；单个分子仍可沿不同方向运动。
+    examples:
+    - prompt: 左右两区浓度相同且分子可自由通过，分子是否还会从左到右？
+      reasoning: 会。两个方向都仍有分子通过，平均通量相等，因此没有净移动。用两个方向相等的箭头表示动态平衡，比画成完全停止更准确。
+    misconceptions:
+    - claim: 达到扩散平衡后，分子全部停止运动。
+      correction: 平衡时分子仍作热运动，两个方向的通量相等，所以没有宏观净移动。
+    - claim: 浓度低的一侧不可能有分子向高浓度侧运动。
+      correction: 单个分子可以向任何方向移动；高到低描述的是大量分子的统计净通量，并非每个分子的轨迹。
+    checks:
+    - id: q1
+      stem: 简单条件下，中性溶质的净扩散通常从哪里到哪里？
+      options:
+        A: 高浓度到低浓度
+        B: 低浓度到高浓度
+        C: 任何时候都只向左
+        D: 完全不移动
+      answer: A
+      explanation: 在可通过且其他条件相同的体系中，净扩散沿浓度下降方向进行。
+      cognitive_level: 0
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 扩散达到平衡后，分子的状态是什么？
+      options:
+        A: 全部停止
+        B: 仍然运动，但两方向平均通量相等
+        C: 只向一侧运动
+        D: 全部聚在边界
+      answer: B
+      explanation: 动态平衡时分子仍运动，两个方向通量相等，因此宏观净移动为零。
+      cognitive_level: 1
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 高到低的净扩散意味着每个分子都只朝低浓度方向吗？
+      options:
+        A: 是，分子能识别目标
+        B: 是，低浓度一侧完全没有运动
+        C: 不是，净方向是统计结果
+        D: 不是，因为扩散不存在
+      answer: C
+      explanation: 净方向描述大量分子的统计差值，单个分子仍可朝不同方向运动。
+      cognitive_level: 0
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 膜不允许某大分子通过时，浓度差能否保证它跨膜扩散？
+      options:
+        A: 能，只看浓度差即可
+        B: 能，所有膜都一样
+        C: 能，只要等一分钟
+        D: 不能，还必须满足通透性条件
+      answer: D
+      explanation: 扩散驱动力与通透性是不同条件，存在浓度差不意味着不透过的分子也能通过。
+      cognitive_level: 1
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: prerequisite
+      stem: 前置概念核对：细胞膜的基本骨架通常是什么？
+      options:
+        A: 磷脂双层
+        B: 纤维素厚墙
+        C: DNA 双链
+        D: 淀粉层
+      answer: A
+      explanation: 细胞膜的基本骨架是磷脂双层，膜蛋白参与运输、信号等功能；纤维素主要与植物细胞壁有关。
+      cognitive_level: 1
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: BIO.CELL.004
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述扩散，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕扩散明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.013:APPLICATION
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 3
+  knowledge_code: BIO.CELL.013
+  tier: APPLICATION
+  min_level: 2
+  max_level: 3
+  version: 1
+  document:
+    title: 扩散：情境应用
+    summary: 围绕扩散，通过结构图、例题和检测，完成从概念到证据的情境应用学习。
+    objectives:
+    - 比较浓度梯度、距离和面积对通量的影响
+    - 区分扩散与整体流动
+    estimated_minutes: 30
+    prerequisites:
+    - BIO.CELL.004
+    sections:
+    - id: s1
+      title: 梯度由差值和距离共同决定
+      text: 在简单稳态近似下，扩散通量密度与浓度梯度相关。相同浓度差跨越更短距离，梯度更陡，通量密度通常更大。浓度差与梯度不是同一量：梯度还包含空间距离。比较不同屏障时，还应控制温度与材料性质。
+    - id: s2
+      title: 交换面积与总通量
+      text: 总扩散速率既与单位面积上的通量有关，也与可交换的总面积有关。增加面积可增加总交换量，但不一定改变单位面积通量。肺泡等结构提供大的交换面积和较短路径，有利于交换；这个解释需要结合实际屏障与气体条件。
+    - id: s3
+      title: 扩散与流动可以同时存在
+      text: 搅动液体时，色素迅速分散可能主要由液体整体运动造成。对照静置与搅拌条件可比较宏观流动的作用，但静置也不意味着绝对没有对流。设计实验时记录温度、容器、时间和加入方式，避免将所有混合都称为分子扩散。
+    diagram:
+      kind: DIFFUSION
+      labels: *id003
+      caption: 中性溶质在简单条件下由高浓度区向低浓度区净扩散；单个分子仍可沿不同方向运动。
+    examples:
+    - prompt: 同种膜、相同温度和浓度差下，厚度减半，简单模型预测通量怎样变？
+      reasoning: 浓度梯度约为浓度差除以厚度。厚度减半使梯度加倍，若扩散系数等条件不变，单位面积通量约加倍。结论依赖模型条件，不能无条件套到任何活细胞。
+    misconceptions:
+    - claim: 达到扩散平衡后，分子全部停止运动。
+      correction: 平衡时分子仍作热运动，两个方向的通量相等，所以没有宏观净移动。
+    - claim: 浓度低的一侧不可能有分子向高浓度侧运动。
+      correction: 单个分子可以向任何方向移动；高到低描述的是大量分子的统计净通量，并非每个分子的轨迹。
+    checks:
+    - id: q1
+      stem: 其他条件相同，屏障厚度减半，简单模型中的通量密度如何变化？
+      options:
+        A: 减半
+        B: 不变
+        C: 约加倍
+        D: 一定为零
+      answer: C
+      explanation: 简单稳态模型中通量密度与厚度成反比，厚度减半使梯度增大约一倍。
+      cognitive_level: 2
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 交换面积加倍但单位面积通量不变，总通量如何变化？
+      options:
+        A: 加倍
+        B: 减半
+        C: 不变
+        D: 方向必然反转
+      answer: A
+      explanation: 总通量等于通量密度乘面积，面积加倍而通量密度不变时总量加倍。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 浓度梯度与浓度差的区别是什么？
+      options:
+        A: 二者永远相同
+        B: 梯度还考虑距离
+        C: 浓度差只用于气体
+        D: 梯度没有方向
+      answer: B
+      explanation: 浓度梯度描述浓度随空间的变化，除浓度差外还要考虑跨越距离。
+      cognitive_level: 2
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 搅拌让色素更快铺开，说明什么？
+      options:
+        A: 所有分子运动停止
+        B: 扩散系数必定无限大
+        C: 证明没有对流
+        D: 液体整体流动也可能促进混合
+      answer: D
+      explanation: 搅拌引起整体流动，混合加快不能全部归因于分子扩散，需区分过程。
+      cognitive_level: 3
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: prerequisite
+      stem: 前置概念核对：运输曲线随底物浓度升高而饱和，单凭这一点能否证明主动运输？
+      options:
+        A: 能，饱和只见于泵
+        B: 能，所有扩散都无限加快
+        C: 不能，载体介导的被动运输也可能饱和
+        D: 不能，因为饱和不可能发生
+      answer: C
+      explanation: 载体数量和周转速率有限，使易化扩散也能表现饱和；还需分析能量与梯度。
+      cognitive_level: 2
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: BIO.CELL.004
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述扩散，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕扩散明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.013:COMPETITION
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 3
+  knowledge_code: BIO.CELL.013
+  tier: COMPETITION
+  min_level: 4
+  max_level: 7
+  version: 1
+  document:
+    title: 扩散：竞赛推理
+    summary: 围绕扩散，通过结构图、例题和检测，完成从概念到证据的竞赛推理学习。
+    objectives:
+    - 在明确假设下使用 Fick 定律
+    - 解释非稳态扩散的尺度效应与模型边界
+    estimated_minutes: 40
+    prerequisites:
+    - BIO.CELL.004
+    sections:
+    - id: s1
+      title: Fick 定律的含义
+      text: 一维简单扩散可用 J = −D·dC/dx 描述，J 为单位面积单位时间的通量，负号表示净通量沿浓度降低方向。总速率还需乘交换面积。应用时说明介质、扩散系数、温度及边界条件，不能把这个浓度模型直接用于存在明显电场影响的带电粒子。
+    - id: s2
+      title: 扩散距离的时间代价
+      text: 对简单自由扩散，典型扩散时间与距离平方成正比，量级可写作 t ~ L²/D；具体系数随维度和边界条件不同。距离扩大十倍，时间量级约扩大百倍，因此单靠扩散完成远距离运输效率有限。不要把量级关系冒充所有体系的精确时间。
+    - id: s3
+      title: 从曲线识别模型局限
+      text: 活细胞中的底物进入可能受载体饱和、代谢消耗、膜变化或未搅拌水层影响。净通量为零，也可能是不同驱动力抵消而非没有微观运动。分析实验先提出模型，再检查哪些变量不满足假设，用多个浓度和时间点比较可能机制。
+    diagram:
+      kind: DIFFUSION
+      labels: *id003
+      caption: 中性溶质在简单条件下由高浓度区向低浓度区净扩散；单个分子仍可沿不同方向运动。
+    examples:
+    - prompt: 同样介质中扩散距离增为三倍，典型时间量级怎样变化？
+      reasoning: 在自由扩散且扩散系数不变的近似下，t 与 L² 成正比，所以约变为九倍。若存在流动、反应或不同边界，不能直接按这个关系计算。
+    misconceptions:
+    - claim: 达到扩散平衡后，分子全部停止运动。
+      correction: 平衡时分子仍作热运动，两个方向的通量相等，所以没有宏观净移动。
+    - claim: 浓度低的一侧不可能有分子向高浓度侧运动。
+      correction: 单个分子可以向任何方向移动；高到低描述的是大量分子的统计净通量，并非每个分子的轨迹。
+    checks:
+    - id: q1
+      stem: J = −D·dC/dx 中的负号主要表示什么？
+      options:
+        A: 扩散系数为负
+        B: 物质被消灭
+        C: 净通量沿浓度降低方向
+        D: 分子完全静止
+      answer: C
+      explanation: 负号表明净通量相对浓度梯度方向相反，即沿浓度降低方向。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 在同样自由扩散条件下，距离增为三倍，时间量级约为多少倍？
+      options:
+        A: '3'
+        B: '9'
+        C: 1/3
+        D: 不变
+      answer: B
+      explanation: 典型扩散时间与距离平方成正比，距离三倍对应时间约九倍，前提是扩散系数和模型条件不变。
+      cognitive_level: 4
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 对带电离子跨膜通量，只使用浓度形式的 Fick 模型可能遗漏什么？
+      options:
+        A: 电势差的影响
+        B: 所有分子的质量
+        C: 溶液是否有颜色
+        D: 显微镜品牌
+      answer: A
+      explanation: 带电离子还受到电势差影响，需考虑电化学驱动力，不能只用浓度差描述所有情况。
+      cognitive_level: 3
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 细胞摄取曲线出现饱和，最合理的下一步是什么？
+      options:
+        A: 强行按线性模型外推
+        B: 删除高浓度数据
+        C: 认为分子都停止运动
+        D: 检验载体限制等备选机制
+      answer: D
+      explanation: 饱和可能反映载体或其他限制，应比较备选机制和控制条件，不能强行套简单线性扩散。
+      cognitive_level: 4
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: TRANSFER
+    - id: prerequisite
+      stem: 前置概念核对：总膜电流下降能否单独证明通道数量减少？
+      options:
+        A: 能，电流只由数量决定
+        B: 能，膜电位不影响电流
+        C: 不能，开放概率和驱动力也可能改变
+        D: 不能，因为通道不导电
+      answer: C
+      explanation: 总电流受通道数量、开放概率、电导和电化学驱动力共同影响，不能只归因于数量。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: BIO.CELL.004
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述扩散，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕扩散明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.014:INTRO
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 4
+  knowledge_code: BIO.CELL.014
+  tier: INTRO
+  min_level: 0
+  max_level: 1
+  version: 1
+  document:
+    title: 渗透：入门理解
+    summary: 围绕渗透，通过结构图、例题和检测，完成从概念到证据的入门理解学习。
+    objectives:
+    - 在给定条件下判断水的净移动方向
+    - 解释植物组织在清水和盐水中的变化
+    estimated_minutes: 20
+    prerequisites:
+    - BIO.CELL.013
+    sections:
+    - id: s1
+      title: 水也会扩散
+      text: 水分子不断运动。当两边由选择透过性膜隔开，而某些溶质不能透过时，水可能发生净移动，这称为渗透。在温度和压力相近的简化情境中，水通常向不可透溶质浓度较高的一侧净移动。判断时一定说清楚哪些物质能透过膜。
+    - id: s2
+      title: 细胞为什么胀大或缩小
+      text: 若动物细胞外液中有效不可透溶质浓度较低，水进入细胞可能使细胞胀大；反之水离开可能使细胞缩小。植物细胞还有细胞壁，水进入后细胞内容物对壁产生压力，帮助组织挺立。不能把动物细胞和植物细胞的结果完全等同。
+    - id: s3
+      title: 把现象变成证据
+      text: 可用相似大小的植物组织条比较清水与盐水处理前后的质量。应保持处理时间和温度相同，称量前用一致方法轻轻吸去表面液体。质量变化支持水分移动的解释，但还要考虑组织损伤与表面残液；不能只凭手感判断。
+    diagram:
+      kind: OSMOSIS
+      labels: &id004
+      - 较低不可透溶质浓度
+      - 选择透过性膜
+      - 水的净移动
+      - 较高不可透溶质浓度
+      caption: 温度和压力相近、溶质不能透膜的简化情境：水向不可透溶质浓度较高侧净移动。
+    examples:
+    - prompt: 相同植物组织分别放入清水和较浓盐水，若盐不能自由透膜，预测水怎样移动？
+      reasoning: 在给定条件下，清水一侧水进入细胞的趋势较强；较浓盐水使细胞失水的趋势较强。这个预测需要结合组织初始状态、溶质通透性和处理时间，不应写成所有材料都必然同样变化。
+    misconceptions:
+    - claim: 渗透是溶质穿过选择透过性膜。
+      correction: 渗透描述溶剂通常为水通过选择透过性膜的净移动，要把水和溶质的通透性分别判断。
+    - claim: 溶液浓度相同就一定对细胞等张。
+      correction: 等张性取决于有效不可透溶质对细胞体积的影响，还受溶质通透性和观察时间等条件影响。
+    checks:
+    - id: q1
+      stem: 渗透主要描述什么的跨膜净移动？
+      options:
+        A: 水等溶剂
+        B: 所有蛋白质
+        C: 染色体
+        D: 细胞器
+      answer: A
+      explanation: 渗透通常描述水通过选择透过性膜的净移动，不能把它等同于所有溶质的跨膜运输。
+      cognitive_level: 0
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 等温等压、溶质不可透膜时，水通常向哪侧净移动？
+      options:
+        A: 不可透溶质更少侧
+        B: 永远向左
+        C: 不可透溶质更多侧
+        D: 没有任何条件也能判断
+      answer: C
+      explanation: 在题设简化条件下，水向不可透溶质浓度较高的一侧净移动；条件改变时需重新分析。
+      cognitive_level: 1
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 植物细胞在水进入后较能保持形状，哪个结构参与限制过度膨胀？
+      options:
+        A: 细胞核
+        B: 细胞壁
+        C: 染色体
+        D: 核糖体
+      answer: B
+      explanation: 植物细胞壁提供机械约束，膨压与壁的作用共同影响细胞体积，不同于无细胞壁的动物细胞。
+      cognitive_level: 0
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 比较处理前后组织质量，称量前应怎样做？
+      options:
+        A: 每组用不同吸水方法
+        B: 让一组带很多表面水
+        C: 只估计不称量
+        D: 用一致方法去除表面液体
+      answer: D
+      explanation: 一致处理表面残液能减少非细胞水分造成的称量误差，使不同组更可比较。
+      cognitive_level: 1
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: prerequisite
+      stem: 前置概念核对：扩散达到平衡后，分子的状态是什么？
+      options:
+        A: 全部停止
+        B: 仍然运动，但两方向平均通量相等
+        C: 只向一侧运动
+        D: 全部聚在边界
+      answer: B
+      explanation: 动态平衡时分子仍运动，两个方向通量相等，因此宏观净移动为零。
+      cognitive_level: 1
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: BIO.CELL.013
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述渗透，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕渗透明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.014:APPLICATION
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 4
+  knowledge_code: BIO.CELL.014
+  tier: APPLICATION
+  min_level: 2
+  max_level: 3
+  version: 1
+  document:
+    title: 渗透：情境应用
+    summary: 围绕渗透，通过结构图、例题和检测，完成从概念到证据的情境应用学习。
+    objectives:
+    - 计算质量变化率并估计等渗附近条件
+    - 区分水分移动与细胞壁机械约束
+    estimated_minutes: 30
+    prerequisites:
+    - BIO.CELL.013
+    sections:
+    - id: s1
+      title: 从质量变化到相对变化
+      text: 组织质量变化率可写作（处理后质量−处理前质量）/处理前质量×100%。不同初始质量的材料更适合比较相对变化，仍需控制表面积、时间和组织来源。正值提示净吸水，负值提示净失水，但解释依赖样品完整、表面液体处理一致等条件。
+    - id: s2
+      title: 零变化附近提供什么信息
+      text: 在多种浓度溶液中处理组织，若质量变化由正变负，可在相邻浓度间估计零变化点附近条件。这个估计不是对细胞内部每种物质浓度的直接测量。材料异质性、反应时间和溶质通透性会影响结果，需设置重复并报告变异。
+    - id: s3
+      title: 植物细胞的膨压
+      text: 植物细胞吸水后，细胞内容物对细胞壁产生压力，壁反过来限制体积增大。持续净吸水可能因压力建立而停止，即使两侧溶质浓度并不完全相同。高浓度外液下可能出现质壁分离，相关结构变化应结合膜完整性与可逆性判断。
+    diagram:
+      kind: OSMOSIS
+      labels: *id004
+      caption: 温度和压力相近、溶质不能透膜的简化情境：水向不可透溶质浓度较高侧净移动。
+    examples:
+    - prompt: 组织初始质量 2.0 g，处理后 1.8 g，质量变化率是多少？
+      reasoning: 变化量为 1.8−2.0=−0.2 g，除以初始质量 2.0 g 得 −0.10，即 −10%。负号表示净失重；在控制好的渗透实验中支持净失水的解释。
+    misconceptions:
+    - claim: 渗透是溶质穿过选择透过性膜。
+      correction: 渗透描述溶剂通常为水通过选择透过性膜的净移动，要把水和溶质的通透性分别判断。
+    - claim: 溶液浓度相同就一定对细胞等张。
+      correction: 等张性取决于有效不可透溶质对细胞体积的影响，还受溶质通透性和观察时间等条件影响。
+    checks:
+    - id: q1
+      stem: 组织由 2.0 g 变为 1.8 g，质量变化率是多少？
+      options:
+        A: 10%
+        B: −10%
+        C: −20%
+        D: 90%
+      answer: B
+      explanation: 应以初始质量为分母：(1.8−2.0)/2.0×100%=−10%。
+      cognitive_level: 2
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: 相邻外液浓度下质量变化分别为正和负，合理的结论是什么？
+      options:
+        A: 已精确测出全部细胞成分
+        B: 不存在实验误差
+        C: 零变化点可能位于二者之间
+        D: 两个浓度必定相同
+      answer: C
+      explanation: 在近似条件下可在相邻浓度间估计零变化点，但应考虑重复、变异和非线性关系。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 植物细胞持续吸水后来停止，可能因为什么？
+      options:
+        A: 膨压建立抵消继续吸水的趋势
+        B: 水分子完全停止运动
+        C: 细胞壁变成绝对不透水
+        D: 所有溶质消失
+      answer: A
+      explanation: 吸水后压力升高可能抵消水势差，净移动停止并不意味着分子停止或溶质全部消失。
+      cognitive_level: 2
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 比较不同组织的质量变化率时，仍需控制什么？
+      options:
+        A: 只看颜色
+        B: 不记录温度
+        C: 随机延长某一组时间
+        D: 组织来源、尺寸和处理时间
+      answer: D
+      explanation: 相对变化率不能代替实验控制，组织来源、尺寸、时间和温度仍会影响结果。
+      cognitive_level: 3
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: prerequisite
+      stem: 前置概念核对：交换面积加倍但单位面积通量不变，总通量如何变化？
+      options:
+        A: 加倍
+        B: 减半
+        C: 不变
+        D: 方向必然反转
+      answer: A
+      explanation: 总通量等于通量密度乘面积，面积加倍而通量密度不变时总量加倍。
+      cognitive_level: 2
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: BIO.CELL.013
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述渗透，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕渗透明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。
+- code: cell-transport:BIO.CELL.014:COMPETITION
+  unit_code: cell-transport
+  unit_title: 细胞与物质运输
+  sequence: 4
+  knowledge_code: BIO.CELL.014
+  tier: COMPETITION
+  min_level: 4
+  max_level: 7
+  version: 1
+  document:
+    title: 渗透：竞赛推理
+    summary: 围绕渗透，通过结构图、例题和检测，完成从概念到证据的竞赛推理学习。
+    objectives:
+    - 使用水势与张力分析跨膜水移动
+    - 评价等渗、等张与溶质通透性的区别
+    estimated_minutes: 40
+    prerequisites:
+    - BIO.CELL.013
+    sections:
+    - id: s1
+      title: 水势提供统一表达
+      text: 在适用的简化植物体系中，可将水势写成 Ψw=Ψs+Ψp，即溶质势与压力势之和；若其他项重要需一并考虑。水净移动趋向较低水势方向。加溶质使溶质势通常更负，而正压力可提高水势，因此不能只比较溶质浓度而忽略压力。
+    - id: s2
+      title: 等渗不一定等张
+      text: 等渗通常比较总渗透粒子浓度；等张关注某溶液是否引起细胞持续体积变化，与有效不可透溶质有关。可透溶质可能逐步进入细胞并改变后续水移动。因此同样总渗透浓度的两种溶液，若通透性不同，细胞体积的时间变化也可能不同。
+    - id: s3
+      title: 时间过程与模型条件
+      text: 分析水移动实验，应给出温度、压力、溶质种类、膜的通透性和时间尺度。初始体积变化与较长时间后的结果可能不同。可同时记录体积曲线与溶质进入量，以区分初始渗透效应、溶质渗入和细胞调节。避免仅凭一个终点认定唯一机制。
+    diagram:
+      kind: OSMOSIS
+      labels: *id004
+      caption: 温度和压力相近、溶质不能透膜的简化情境：水向不可透溶质浓度较高侧净移动。
+    examples:
+    - prompt: A 侧 Ψs=−0.8 MPa、Ψp=0.5 MPa；B 侧 Ψs=−0.4 MPa、Ψp=0，水趋向哪侧？
+      reasoning: A 侧水势为 −0.3 MPa，B 侧为 −0.4 MPa。在其他项可忽略且水可通过的前提下，水从 A 向 B 净移动。A 虽然溶质势更负，但压力势改变了总水势比较。
+    misconceptions:
+    - claim: 渗透是溶质穿过选择透过性膜。
+      correction: 渗透描述溶剂通常为水通过选择透过性膜的净移动，要把水和溶质的通透性分别判断。
+    - claim: 溶液浓度相同就一定对细胞等张。
+      correction: 等张性取决于有效不可透溶质对细胞体积的影响，还受溶质通透性和观察时间等条件影响。
+    checks:
+    - id: q1
+      stem: Ψs=−0.8 MPa、Ψp=0.5 MPa，其他项可忽略时 Ψw 为多少？
+      options:
+        A: −1.3 MPa
+        B: 0.3 MPa
+        C: −0.3 MPa
+        D: −0.8 MPa
+      answer: C
+      explanation: 在给定简化关系下，两项相加：−0.8+0.5=−0.3 MPa。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q2
+      stem: A 水势 −0.3 MPa、B 水势 −0.4 MPa，水可通过时净移动趋向？
+      options:
+        A: A 到 B
+        B: B 到 A
+        C: 只由体积决定
+        D: 无法进行任何比较
+      answer: A
+      explanation: 其他条件满足时水趋向较低水势，−0.4 低于 −0.3，因此趋向 B。
+      cognitive_level: 4
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s2
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q3
+      stem: 总渗透浓度相同的两种外液，对细胞一定等张吗？
+      options:
+        A: 一定，因为所有溶质都不透膜
+        B: 不一定，还取决于有效不可透溶质与时间
+        C: 一定，因为压力不可能变化
+        D: 不一定，因为水没有任何规律
+      answer: B
+      explanation: 等张性与有效不可透溶质对细胞体积的作用相关，可透溶质和观察时间会使结果不同。
+      cognitive_level: 3
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: STANDARD
+    - id: q4
+      stem: 细胞初始缩小后逐渐恢复，哪项补充测量有助于分析机制？
+      options:
+        A: 只看一个终点
+        B: 删除早期数据
+        C: 把所有外液都当成不可透
+        D: 测体积时间曲线并追踪溶质进入
+      answer: D
+      explanation: 结合时间曲线与溶质进入可区分初始水移动、溶质渗入及调节过程，避免单一终点推断。
+      cognitive_level: 4
+      competency_code: MECHANISM_REASONING
+      revisit_section: s3
+      prerequisite_code: null
+      evidence_kind: TRANSFER
+    - id: prerequisite
+      stem: 前置概念核对：在同样自由扩散条件下，距离增为三倍，时间量级约为多少倍？
+      options:
+        A: '3'
+        B: '9'
+        C: 1/3
+        D: 不变
+      answer: B
+      explanation: 典型扩散时间与距离平方成正比，距离三倍对应时间约九倍，前提是扩散系数和模型条件不变。
+      cognitive_level: 3
+      competency_code: KNOWLEDGE_UNDERSTANDING
+      revisit_section: s1
+      prerequisite_code: BIO.CELL.013
+      evidence_kind: STANDARD
+    pass_ratio: 0.8
+    adaptations:
+      junior: 先用身边可观察的例子描述渗透，再对照图示把结构、现象和解释连起来。遇到公式先说清每个量的意思，按步骤推理。
+      senior: 围绕渗透明确变量、驱动力和模型边界；区分事实与机制解释，写出每个结论成立的条件，并设计能区分不同解释的证据。
+    sources:
+    - OpenStax Biology 2e，第 4 章 Cell Structure、第 5 章 Structure and Function of Plasma
+      Membranes；https://openstax.org/details/books/biology-2e
+    - 本项目原创分层讲解与检测；待人工核对，非官方竞赛试题。

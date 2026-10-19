@@ -1,0 +1,44 @@
+source_question_no: 40
+question_type: COMPREHENSIVE
+stem: 对以下关于哺乳动物心脏结构的陈述进行正误判断：
+options:
+  A: '房室瓣（三尖瓣和二尖瓣）的开放与关闭是被动的，其状态主要取决于心房和心室之间的压力梯度，以此
+
+    确保血流沿正确方向流动'
+  B: 左心室壁比右心室壁显著增厚，反映了体循环相较于肺循环具有更高的外周血管阻力和更长的输送距离
+  C: '心室舒张期是心室血液充盈的关键阶段，此时房室瓣打开，同时动脉瓣（主动脉瓣和肺动脉瓣）也需保持
+
+    开放，以便动脉血压推动血液回流'
+  D: '心脏自身的血液供应（冠状循环）对维持其持续泵血活动至关重要，其血流量会响应心肌代谢活动的变化
+
+    而动态调整'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.310
+prerequisites:
+- BIO.BRIDGE.311
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 结构功能
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 7
+  raw_text: "对以下关于哺乳动物心脏结构的陈述进行正误判断：\n A. 房室瓣（三尖瓣和二尖瓣）的开放与关闭是被动的，其状态主要取决于心房和心室之间的压力梯度，以此\n\
+    确保血流沿正确方向流动\n B. 左心室壁比右心室壁显著增厚，反映了体循环相较于肺循环具有更高的外周血管阻力和更长的输送距离\n C. 心室舒张期是心室血液充盈的关键阶段，此时房室瓣打开，同时动脉瓣（主动脉瓣和肺动脉瓣）也需保持\n\
+    开放，以便动脉血压推动血液回流\n D. 心脏自身的血液供应（冠状循环）对维持其持续泵血活动至关重要，其血流量会响应心肌代谢活动的变化\n而动态调整"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

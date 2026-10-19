@@ -1,0 +1,30 @@
+source_question_no: 20
+question_type: SINGLE_CHOICE
+stem: 处理组每小时产气 12 mL，对照组 8 mL，相对于对照的增加百分比是多少？
+options:
+  A: 4%
+  B: 33.3%
+  C: 50%
+  D: 150%
+answer:
+- C
+explanation: 相对增加为 (12-8)/8×100%=50%，分母应为对照值。
+knowledge_points:
+- BIO.SCIENCE.017
+prerequisites: []
+competencies:
+- QUANTITATIVE_REASONING
+difficulty:
+  learning: 4
+  competition: 4
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 表格
+  cognitive_level: 4
+  target_grade: 11
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

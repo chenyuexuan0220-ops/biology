@@ -1,0 +1,48 @@
+source_question_no: 43
+question_type: COMPREHENSIVE
+stem: '蜘蛛通常具有一对主眼和若干对副眼，主眼和副全
+
+  眼在功能和结构上存在差异。对以下关于蜘蛛眼睛结
+
+  构与功能的陈述进行正误判断：'
+options:
+  A: '主眼的感杆束排列在光感受器的顶端，直接接收
+
+    透过玻璃体细胞的光线；副眼的感杆束则位于感光体
+
+    的基部'
+  B: '副眼在视网膜基部具有反光层，可将一部分光线
+
+    反射回视网膜以提高光敏感度'
+  C: 视神经能将光信号转换为电信号
+  D: 蜘蛛的主眼和副眼都是由多个小眼构成的
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.317
+prerequisites:
+- BIO.BRIDGE.318
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 比较解剖
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 7
+  raw_text: "蜘蛛通常具有一对主眼和若干对副眼，主眼和副全\n眼在功能和结构上存在差异。对以下关于蜘蛛眼睛结\n构与功能的陈述进行正误判断：\n A.\
+    \ 主眼的感杆束排列在光感受器的顶端，直接接收\n透过玻璃体细胞的光线；副眼的感杆束则位于感光体\n的基部\n B. 副眼在视网膜基部具有反光层，可将一部分光线\n\
+    反射回视网膜以提高光敏感度\n C. 视神经能将光信号转换为电信号\n D. 蜘蛛的主眼和副眼都是由多个小眼构成的"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

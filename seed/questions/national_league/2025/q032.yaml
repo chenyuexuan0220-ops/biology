@@ -1,0 +1,42 @@
+source_question_no: 32
+question_type: COMPREHENSIVE
+stem: "对以下关于植物根系吸收和运输水分机制的陈述进行正误判断：\n\n                                          \
+  \        5"
+options:
+  A: 凯氏带迫使水分和离子通过内皮层的共质体途径进入维管柱
+  B: 根压是蒸腾作用强烈时水分上升的主要动力
+  C: 蒸腾拉力依赖导管内水柱的连续性和内聚力维持
+  D: 质外体途径是水分跨过内皮层的主要运输方式
+answer: null
+explanation: null
+knowledge_points:
+- BIO.PLANTPHYS.008
+prerequisites:
+- BIO.PLANT.002
+- BIO.PLANT.004
+- BIO.PLANT.005
+- BIO.PLANTPHYS.006
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 机制推理
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 5
+  raw_text: "对以下关于植物根系吸收和运输水分机制的陈述进行正误判断：\n\n                                    \
+    \              5\n A. 凯氏带迫使水分和离子通过内皮层的共质体途径进入维管柱\n B. 根压是蒸腾作用强烈时水分上升的主要动力\n C.\
+    \ 蒸腾拉力依赖导管内水柱的连续性和内聚力维持      D. 质外体途径是水分跨过内皮层的主要运输方式"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

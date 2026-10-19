@@ -1,0 +1,30 @@
+source_question_no: 6
+question_type: SINGLE_CHOICE
+stem: 生态研究中，一只生活在池塘边的青蛙属于哪个层次？
+options:
+  A: 种群
+  B: 群落
+  C: 生态系统
+  D: 个体
+answer:
+- D
+explanation: 一只青蛙是个体；同一区域同种生物的所有个体构成种群。
+knowledge_points:
+- BIO.ECOLOGY.001
+prerequisites: []
+competencies:
+- KNOWLEDGE_UNDERSTANDING
+difficulty:
+  learning: 1
+  competition: 1
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 个体
+  cognitive_level: 1
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

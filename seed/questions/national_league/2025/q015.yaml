@@ -1,0 +1,43 @@
+source_question_no: 15
+question_type: COMPREHENSIVE
+stem: 'p53 蛋白是防止癌症发生和发展的主要蛋白。研究发现超过半数的人类肿瘤中存在p53 基因的突变，故此恢
+
+  复肿瘤细胞中p53 的功能常被作为一种癌症治疗的策略。对以下关于p53 的陈述进行正误判断：'
+options:
+  A: p53 蛋白主要通过直接结合并降解癌蛋白来抑制肿瘤发生
+  B: 在正常细胞应激反应中，p53 蛋白水平升高可诱导细胞周期阻滞或细胞凋亡
+  C: "p53 基因的突变仅发生在编码DNA 结合域的外显子中\n\n                                            \
+    \      2"
+  D: MDM2 蛋白是一种泛素连接酶，主要功能是负调控p53 蛋白，在癌症中过表达可抑制肿瘤发生
+answer: null
+explanation: null
+knowledge_points:
+- BIO.MOLECULAR.021
+prerequisites:
+- BIO.CELL.021
+- BIO.MOLECULAR.001
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: C
+reasoning_patterns:
+- 调控机制
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 2
+  raw_text: "p53 蛋白是防止癌症发生和发展的主要蛋白。研究发现超过半数的人类肿瘤中存在p53 基因的突变，故此恢\n复肿瘤细胞中p53 的功能常被作为一种癌症治疗的策略。对以下关于p53\
+    \ 的陈述进行正误判断：\n A. p53 蛋白主要通过直接结合并降解癌蛋白来抑制肿瘤发生\n B. 在正常细胞应激反应中，p53 蛋白水平升高可诱导细胞周期阻滞或细胞凋亡\n\
+    \ C. p53 基因的突变仅发生在编码DNA 结合域的外显子中\n\n                                         \
+    \         2\n D. MDM2 蛋白是一种泛素连接酶，主要功能是负调控p53 蛋白，在癌症中过表达可抑制肿瘤发生"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M1

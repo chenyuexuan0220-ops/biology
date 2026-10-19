@@ -1,0 +1,30 @@
+source_question_no: 7
+question_type: SINGLE_CHOICE
+stem: 比较有光和无光条件下幼苗生长，其他条件应该怎样设置？
+options:
+  A: 水量、温度也同时改变
+  B: 尽量保持水量、温度等其他条件一致
+  C: 每组使用完全不同的植物
+  D: 不需要记录初始高度
+answer:
+- B
+explanation: 控制其他条件可以减少混杂，使结果更有可能反映光照的影响。
+knowledge_points:
+- BIO.EXP.001
+prerequisites: []
+competencies:
+- EXPERIMENTAL_DESIGN
+difficulty:
+  learning: 1
+  competition: 1
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 实验问题
+  cognitive_level: 1
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

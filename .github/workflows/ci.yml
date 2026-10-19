@@ -1,0 +1,33 @@
+name: learning-platform
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: biology
+          POSTGRES_PASSWORD: biology
+          POSTGRES_DB: biology
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U biology"
+          --health-interval 5s --health-timeout 5s --health-retries 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: pip install -e '.[dev]'
+      - run: ruff check backend scripts migrations
+      - run: pytest -q
+      - run: alembic upgrade head && python scripts/seed.py && python scripts/smoke.py
+        env:
+          DATABASE_URL: postgresql+psycopg://biology:biology@localhost:5432/biology
+          JWT_SECRET: ci-only-key-for-isolated-postgresql-test
+      - run: npm ci && npm run typecheck && npm run build
+        working-directory: frontend

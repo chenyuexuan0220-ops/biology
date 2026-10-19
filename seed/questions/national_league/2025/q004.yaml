@@ -1,0 +1,42 @@
+source_question_no: 4
+question_type: COMPREHENSIVE
+stem: '反义RNA(antisense RNA)是一种与特定mRNA 序列互补的RNA 分子，参与基因表达调控。对以下关于反义
+
+  RNA 的陈述进行正误判断：'
+options:
+  A: 反义RNA 通过增强其靶标mRNA 的翻译效率来调控基因表达
+  B: 反义RNA 仅在细胞核内通过干扰转录起始来发挥其调控功能
+  C: 反义RNA 可与其互补的mRNA 结合形成双链结构，进而触发目标mRNA 的降解
+  D: 在原核生物和真核生物中均存在天然的反义RNA
+answer: null
+explanation: null
+knowledge_points:
+- BIO.MOLECULAR.011
+prerequisites:
+- BIO.MOLECULAR.001
+- BIO.MOLECULAR.002
+- BIO.BRIDGE.271
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: C
+reasoning_patterns:
+- 分子机制
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 1
+  raw_text: "反义RNA(antisense RNA)是一种与特定mRNA 序列互补的RNA 分子，参与基因表达调控。对以下关于反义\nRNA 的陈述进行正误判断：\n\
+    \ A. 反义RNA 通过增强其靶标mRNA 的翻译效率来调控基因表达\n B. 反义RNA 仅在细胞核内通过干扰转录起始来发挥其调控功能\n C. 反义RNA\
+    \ 可与其互补的mRNA 结合形成双链结构，进而触发目标mRNA 的降解\n D. 在原核生物和真核生物中均存在天然的反义RNA"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M1

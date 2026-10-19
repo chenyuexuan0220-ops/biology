@@ -1,0 +1,43 @@
+source_question_no: 34
+question_type: COMPREHENSIVE
+stem: "某长日照植物在以下4 种处理中开花时间如下（所有处理均重复三次，结果具有显著性差异（p<0.05））：\n处理1：16 小时光照/8 小时黑暗（正常长日照）→\
+  \ 开花所需天数：25 天；\n处理2：8 小时光照/16 小时黑暗（短日照）→ 不开花；\n处理3：8 小时光照+8 小时远红光脉冲/8 小时黑暗→ 开花所需天数：40\
+  \ 天；\n处理4：16 小时光照+连续蓝光补充/8 小时黑暗→ 开花所需天数：18 天。\n  根据以上实验结果，对以下陈述进行正误判断："
+options:
+  A: 远红光脉冲可以改变光周期信号，导致开花延迟
+  B: 处理4 的结果表明，增加蓝光照射是该植物感受长日照信号并启动开花程序的前提
+  C: 处理3 的结果表明光周期感知主要依赖于暗期的持续长度
+  D: 对比处理1 和处理4，在长日照条件下额外补充蓝光有助于提前开花
+answer: null
+explanation: null
+knowledge_points:
+- BIO.PLANTPHYS.017
+prerequisites:
+- BIO.BRIDGE.303
+- BIO.BRIDGE.304
+competencies:
+- EXPERIMENTAL_DESIGN
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 实验解释
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 6
+  raw_text: "某长日照植物在以下4 种处理中开花时间如下（所有处理均重复三次，结果具有显著性差异（p<0.05））：\n处理1：16 小时光照/8 小时黑暗（正常长日照）→\
+    \ 开花所需天数：25 天；\n处理2：8 小时光照/16 小时黑暗（短日照）→ 不开花；\n处理3：8 小时光照+8 小时远红光脉冲/8 小时黑暗→ 开花所需天数：40\
+    \ 天；\n处理4：16 小时光照+连续蓝光补充/8 小时黑暗→ 开花所需天数：18 天。\n  根据以上实验结果，对以下陈述进行正误判断：\n A. 远红光脉冲可以改变光周期信号，导致开花延迟\n\
+    \ B. 处理4 的结果表明，增加蓝光照射是该植物感受长日照信号并启动开花程序的前提\n C. 处理3 的结果表明光周期感知主要依赖于暗期的持续长度\n D.\
+    \ 对比处理1 和处理4，在长日照条件下额外补充蓝光有助于提前开花"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

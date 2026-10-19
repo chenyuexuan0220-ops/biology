@@ -1,0 +1,41 @@
+source_question_no: 55
+question_type: COMPREHENSIVE
+stem: '长链非编码RNA (lncRNA) 可通过多种机制调节基
+
+  因表达，并在多种生物学过程中发挥重要作用。对以下关于长链非编码RNA (lncRNA) 的陈述进行正误判断：'
+options:
+  A: lncRNA 在细胞中主要作为信使RNA 发挥作用，指导蛋白质合成
+  B: lncRNA 可以结合特定的蛋白质分子，这是其发挥调控作用的一种方式
+  C: lncRNA 在细胞中的分布位置（如细胞核或细胞质）通常与其具体功能有
+  D: 所有的lncRNA 都通过与DNA 序列互补配对来抑制基因转录
+answer: null
+explanation: null
+knowledge_points:
+- BIO.MOLECULAR.013
+prerequisites:
+- BIO.MOLECULAR.001
+- BIO.MOLECULAR.002
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: C
+reasoning_patterns:
+- 基因调控
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 10
+  raw_text: "长链非编码RNA (lncRNA) 可通过多种机制调节基\n因表达，并在多种生物学过程中发挥重要作用。对以下关于长链非编码RNA (lncRNA)\
+    \ 的陈述进行正误判断：\n A. lncRNA 在细胞中主要作为信使RNA 发挥作用，指导蛋白质合成\n B. lncRNA 可以结合特定的蛋白质分子，这是其发挥调控作用的一种方式\n\
+    \ C. lncRNA 在细胞中的分布位置（如细胞核或细胞质）通常与其具体功能有\n D. 所有的lncRNA 都通过与DNA 序列互补配对来抑制基因转录"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M1

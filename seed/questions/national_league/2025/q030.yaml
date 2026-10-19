@@ -1,0 +1,39 @@
+source_question_no: 30
+question_type: COMPREHENSIVE
+stem: 根据图中所展示的结果，对以下陈述进行正误判断：
+options:
+  A: ER 蛋白在种子发育过程中抑制种子生长
+  B: ER 自身启动子也可导致ER 基因过量表达
+  C: ER 蛋白含量与种子大小呈正比
+  D: 将同一种ERpro:ER-4myc 载体转入野生型拟南芥中，所获得的不同转基因植物中ER 表达量相同全
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.301
+prerequisites:
+- BIO.GENETICS.004
+- BIO.BIOCHEM.004
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 因果链
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 5
+  raw_text: "根据图中所展示的结果，对以下陈述进行正误判断：\n A. ER 蛋白在种子发育过程中抑制种子生长\n B. ER 自身启动子也可导致ER\
+    \ 基因过量表达\n C. ER 蛋白含量与种子大小呈正比\n D. 将同一种ERpro:ER-4myc 载体转入野生型拟南芥中，所获得的不同转基因植物中ER\
+    \ 表达量相同全"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

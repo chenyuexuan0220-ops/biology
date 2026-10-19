@@ -1,0 +1,30 @@
+source_question_no: 22
+question_type: SINGLE_CHOICE
+stem: 标记重捕调查中先标记 40 只个体，第二次捕获 50 只，其中 10 只有标记。理想假设下估算种群数量为？
+options:
+  A: '100'
+  B: '150'
+  C: '200'
+  D: '500'
+answer:
+- C
+explanation: 若种群封闭、标记不影响捕获且充分混合，估计 N≈40×50/10=200。
+knowledge_points:
+- BIO.ECOLOGY.001
+prerequisites: []
+competencies:
+- DATA_INTERPRETATION
+difficulty:
+  learning: 4
+  competition: 4
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 个体
+  cognitive_level: 4
+  target_grade: 11
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

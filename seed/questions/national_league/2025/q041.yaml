@@ -1,0 +1,47 @@
+source_question_no: 41
+question_type: COMPREHENSIVE
+stem: '飞羽是鸟类飞行的关键结构，依据其在前肢骨骼上的附着位置，可分为初级飞羽和次级飞羽（如图所示）。
+
+  对以下关于鸟类飞羽及其附着骨骼的陈述进行正误判断：'
+options:
+  A: '次级飞羽通过羽轴基部直接嵌入尺骨表面的特定结构，形成牢固
+
+    附着'
+  B: 初级飞羽可产生飞行所需的大部分推力，而次级飞羽对维持翼面 国的升力贡献更大
+  C: '相比于次级飞羽数量，初级飞羽数量的变化更能体现不同鸟类物
+
+    种间体重的差异'
+  D: '与主要用于支撑次级飞羽的尺骨相比，鸟类的桡骨通常更细，不
+
+    起主要支撑作用'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.312
+prerequisites:
+- BIO.BRIDGE.313
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 结构功能
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 7
+  raw_text: "飞羽是鸟类飞行的关键结构，依据其在前肢骨骼上的附着位置，可分为初级飞羽和次级飞羽（如图所示）。\n对以下关于鸟类飞羽及其附着骨骼的陈述进行正误判断：\n\
+    \ A. 次级飞羽通过羽轴基部直接嵌入尺骨表面的特定结构，形成牢固\n附着\n B. 初级飞羽可产生飞行所需的大部分推力，而次级飞羽对维持翼面 国的升力贡献更大\n\
+    \ C. 相比于次级飞羽数量，初级飞羽数量的变化更能体现不同鸟类物\n种间体重的差异\n D. 与主要用于支撑次级飞羽的尺骨相比，鸟类的桡骨通常更细，不\n\
+    起主要支撑作用"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

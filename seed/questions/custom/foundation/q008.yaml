@@ -1,0 +1,30 @@
+source_question_no: 8
+question_type: SINGLE_CHOICE
+stem: 酶通常通过哪种作用促进生物化学反应？
+options:
+  A: 改变反应的最终平衡
+  B: 永久提供反应所需能量
+  C: 降低反应的活化能
+  D: 被大量消耗成为产物
+answer:
+- C
+explanation: 酶降低反应活化能，加快达到平衡的速度，但不改变平衡位置。
+knowledge_points:
+- BIO.BIOCHEM.004
+prerequisites: []
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  learning: 1
+  competition: 1
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 蛋白质
+  cognitive_level: 1
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

@@ -1,0 +1,30 @@
+source_question_no: 14
+question_type: SINGLE_CHOICE
+stem: 某地调查记录了松树、麻雀和蚂蚁。若研究它们之间的相互作用，主要属于哪个层次？
+options:
+  A: 细胞
+  B: 单一个体
+  C: 群落
+  D: 只属于一个种群
+answer:
+- C
+explanation: 群落由一定区域内不同种群组成，种间相互作用是群落研究的重要内容。
+knowledge_points:
+- BIO.ECOLOGY.001
+prerequisites: []
+competencies:
+- DATA_INTERPRETATION
+difficulty:
+  learning: 2
+  competition: 2
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 个体
+  cognitive_level: 2
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

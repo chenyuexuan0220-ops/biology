@@ -1,0 +1,30 @@
+source_question_no: 1
+question_type: SINGLE_CHOICE
+stem: 观察一片叶子，以下哪一项是可以直接记录的事实？
+options:
+  A: 叶片边缘呈锯齿状
+  B: 叶片一定适合寒冷环境
+  C: 这株植物长得快是因为施肥
+  D: 叶片正在进行最强的光合作用
+answer:
+- A
+explanation: 锯齿状边缘可以直接观察；适应性、原因和光合作用强度需要额外证据。
+knowledge_points:
+- BIO.SCIENCE.002
+prerequisites: []
+competencies:
+- OBSERVATION
+difficulty:
+  learning: 1
+  competition: 1
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 生物学观察
+  cognitive_level: 1
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

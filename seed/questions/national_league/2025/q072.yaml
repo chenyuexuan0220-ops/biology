@@ -1,0 +1,45 @@
+source_question_no: 72
+question_type: COMPREHENSIVE
+stem: '以下是人22 号染色体GTF 格式基因组注释文件的一部分，展示了PERM1 基因的转录本NM_001291367.2
+
+  的信息。对以下基于该GTF 信息的陈述进行正误判断： 国'
+options:
+  A: GTF 文件第7 列的'–'标记表明，PERM1 基因及其所示转录本位于染色体的负链
+  B: 该转录本起始密码子的第一个核苷酸（A）对应于基因组坐标981164
+  C: 该转录本包含5 个外显子（exon），但编码序列（CDS）仅覆盖了其中的4全  个外显子区域
+  D: "成熟的mRNA 分子包含了从基因组坐标976172 到981164 之间的所有核苷酸序列\n\n\n\n\n\n                   \
+    \                               12"
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.347
+prerequisites:
+- BIO.MOLECULAR.001
+- BIO.MOLECULAR.002
+- BIO.BRIDGE.348
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: D
+reasoning_patterns:
+- 基因组注释
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 12
+  raw_text: "以下是人22 号染色体GTF 格式基因组注释文件的一部分，展示了PERM1 基因的转录本NM_001291367.2\n的信息。对以下基于该GTF\
+    \ 信息的陈述进行正误判断： 国\n\n\n\n\n\n A. GTF 文件第7 列的'–'标记表明，PERM1 基因及其所示转录本位于染色体的负链\n B.\
+    \ 该转录本起始密码子的第一个核苷酸（A）对应于基因组坐标981164 C. 该转录本包含5 个外显子（exon），但编码序列（CDS）仅覆盖了其中的4全\
+    \  个外显子区域\n D. 成熟的mRNA 分子包含了从基因组坐标976172 到981164 之间的所有核苷酸序列\n\n\n\n\n\n      \
+    \                                            12"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: 暂缓

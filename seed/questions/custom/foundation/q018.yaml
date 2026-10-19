@@ -1,0 +1,30 @@
+source_question_no: 18
+question_type: SINGLE_CHOICE
+stem: 抑制线粒体 ATP 合成后，某细胞的主动运输下降。哪项对机制的推断最严谨？
+options:
+  A: 所有跨膜运输都依赖线粒体
+  B: 结果支持该运输与能量供给有关，还需排除毒性等影响
+  C: 线粒体直接把所有物质运出细胞
+  D: 该结果证明细胞膜完全破裂
+answer:
+- B
+explanation: 干预后运输下降支持能量依赖的可能，但需控制细胞活性与其他效应才能加强因果证据。
+knowledge_points:
+- BIO.CELL.001
+prerequisites: []
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  learning: 4
+  competition: 4
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 细胞概念
+  cognitive_level: 4
+  target_grade: 11
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

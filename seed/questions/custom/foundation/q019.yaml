@@ -1,0 +1,30 @@
+source_question_no: 19
+question_type: SINGLE_CHOICE
+stem: 假设基因 X 促进耐盐性，哪组证据最能加强因果推断？
+options:
+  A: 只有表达量与耐盐性相关
+  B: 只观察一株正常植物
+  C: 敲除降低耐盐性，回补恢复，且有适当对照
+  D: 只比较两个不同物种
+answer:
+- C
+explanation: 敲除与回补结合适当对照能较强地支持基因功能，而单纯相关不能排除混杂。
+knowledge_points:
+- BIO.SCIENCE.005
+prerequisites: []
+competencies:
+- HYPOTHESIS_GENERATION
+difficulty:
+  learning: 4
+  competition: 4
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 假设
+  cognitive_level: 4
+  target_grade: 11
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

@@ -1,0 +1,62 @@
+source_question_no: 33
+question_type: COMPREHENSIVE
+stem: '植物向光性是植物通过生长运动朝向或背离光源的特性。拟南芥的胚轴感受到侧面来光后，可通过生长素的
+
+  不对称分布（胚轴两侧生长素的浓度形成梯度）调节细胞
+
+  伸长，朝向光源生长。研究人员发现，在野生型拟南芥中，
+
+  细胞间空间（is, intercellular space）是空的，允许空气存
+
+  在，光线通过时的折射率与细胞壁、细胞质中有很大的差
+
+  别，导致光线的散射；转运蛋白ABCG5 突变后，abcg5
+
+  突变体的细胞间空间填充了物质，光线通过时，相对野生
+
+  型不易发生散射。abcg5 突变体的向光性比野生型差。实
+
+  验结果如右图所示，ep：表皮细胞、oc：其他细胞。根据
+
+  上述实验结果，对以下陈述进行正误判断：'
+options:
+  A: '野生型植物向光性强于abcg5 突变体的原因：植物细胞间的空气通道可增强光的散射，限制了光的透射，增
+
+    大了胚轴两侧的光信号差异'
+  B: 向野生型植物胚轴的空气通道中注入水，植物的向光性会增强
+  C: 蛋白ABCG5 需要与向光性受体直接相互作用来执行功能
+  D: 侧面光照时，abcg5 突变体中胚轴两侧生长素的浓度梯度小于野生型
+answer: null
+explanation: null
+knowledge_points:
+- BIO.PLANTPHYS.016
+prerequisites:
+- BIO.PLANTPHYS.015
+- BIO.BRIDGE.303
+competencies:
+- EXPERIMENTAL_DESIGN
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 实验因果
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 6
+  raw_text: "植物向光性是植物通过生长运动朝向或背离光源的特性。拟南芥的胚轴感受到侧面来光后，可通过生长素的\n不对称分布（胚轴两侧生长素的浓度形成梯度）调节细胞\n\
+    伸长，朝向光源生长。研究人员发现，在野生型拟南芥中，\n细胞间空间（is, intercellular space）是空的，允许空气存\n在，光线通过时的折射率与细胞壁、细胞质中有很大的差\n\
+    别，导致光线的散射；转运蛋白ABCG5 突变后，abcg5\n突变体的细胞间空间填充了物质，光线通过时，相对野生\n型不易发生散射。abcg5 突变体的向光性比野生型差。实\n\
+    验结果如右图所示，ep：表皮细胞、oc：其他细胞。根据\n上述实验结果，对以下陈述进行正误判断：\n A. 野生型植物向光性强于abcg5 突变体的原因：植物细胞间的空气通道可增强光的散射，限制了光的透射，增\n\
+    大了胚轴两侧的光信号差异\n B. 向野生型植物胚轴的空气通道中注入水，植物的向光性会增强\n C. 蛋白ABCG5 需要与向光性受体直接相互作用来执行功能\n\
+    \ D. 侧面光照时，abcg5 突变体中胚轴两侧生长素的浓度梯度小于野生型"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

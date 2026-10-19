@@ -1,0 +1,43 @@
+source_question_no: 36
+question_type: COMPREHENSIVE
+stem: 对以下关于构建酵母与蓝藻人工内共生体系的选育条件及机理的陈述进行正误判断：
+options:
+  A: 酵母在该共生体系中依赖蓝藻提供的葡萄糖和能量来补偿自身呼吸功能的缺陷，从而实现正常生长
+  B: '在共生体系选育过程中，使用含有外源性碳源（如葡萄糖）的培养基是筛选出具有稳定共生关系的融合体的
+
+    最佳策略'
+  C: 建立共生体系时，培养基中需以碳酸氢盐作为唯一碳源，并提供适宜光照，以迫使酵母依赖蓝藻供能
+  D: '为防止外部蓝藻污染，共生体系的选育培养基通常不添加抗生素，从而有利于共生体的长期稳定全
+
+    三、动物学、动物生理学、生态学（18 题）'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.306
+prerequisites:
+- BIO.MICROBE.001
+- BIO.PLANTPHYS.001
+competencies:
+- EXPERIMENTAL_DESIGN
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: C
+reasoning_patterns:
+- 实验设计
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 6
+  raw_text: "对以下关于构建酵母与蓝藻人工内共生体系的选育条件及机理的陈述进行正误判断：\n A. 酵母在该共生体系中依赖蓝藻提供的葡萄糖和能量来补偿自身呼吸功能的缺陷，从而实现正常生长\n\
+    \ B. 在共生体系选育过程中，使用含有外源性碳源（如葡萄糖）的培养基是筛选出具有稳定共生关系的融合体的\n最佳策略\n C. 建立共生体系时，培养基中需以碳酸氢盐作为唯一碳源，并提供适宜光照，以迫使酵母依赖蓝藻供能\n\
+    \ D. 为防止外部蓝藻污染，共生体系的选育培养基通常不添加抗生素，从而有利于共生体的长期稳定全\n三、动物学、动物生理学、生态学（18 题）"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M1

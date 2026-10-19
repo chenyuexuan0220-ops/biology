@@ -1,0 +1,16 @@
+code: national_league_2025
+source_code: national_league
+source_name: 全国中学生生物学联赛
+title: 2025年全国中学生生物学联赛试题
+year: 2025
+metadata:
+  expected_questions: 72
+  source_file: sources/2025-national-league.pdf
+  scoring:
+    format: STATEMENT_TRUE_FALSE
+    correct_statements_to_points:
+      0: 0
+      1: 0
+      2: 0.2
+      3: 1
+      4: 2

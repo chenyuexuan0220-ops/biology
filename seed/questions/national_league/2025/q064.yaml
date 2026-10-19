@@ -1,0 +1,46 @@
+source_question_no: 64
+question_type: COMPREHENSIVE
+stem: '非编码保守元件（CNEs）是基因组中不编码蛋白质但在物种间显示出高度序列保守性的区域。对以下关于
+
+  CNEs 的陈述进行正误判断： 国'
+options:
+  A: 许多CNEs 已被证实位于基因的调控区域（如启动子、增强子），参与调控基因的时空表达
+  B: CNEs 在物种间的高度保守性，主要是由于它们受到了强烈的正选择作用以适应不同环境
+  C: '由于其高度保守性，CNEs 区域的碱基替换速率较低，但插入和缺失等结构变异的发生和固定则基本不受选
+
+    择压力影响'
+  D: 'CNEs 的保守性主要体现在核苷酸序列本身，其在基因组中相对于邻近基因的位置关系在远缘物种间通常不
+
+    保守'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.340
+prerequisites:
+- BIO.MOLECULAR.001
+- BIO.EVOLUTION.003
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: D
+reasoning_patterns:
+- 进化基因组学
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 11
+  raw_text: "非编码保守元件（CNEs）是基因组中不编码蛋白质但在物种间显示出高度序列保守性的区域。对以下关于\nCNEs 的陈述进行正误判断： 国 A.\
+    \ 许多CNEs 已被证实位于基因的调控区域（如启动子、增强子），参与调控基因的时空表达\n B. CNEs 在物种间的高度保守性，主要是由于它们受到了强烈的正选择作用以适应不同环境\n\
+    \ C. 由于其高度保守性，CNEs 区域的碱基替换速率较低，但插入和缺失等结构变异的发生和固定则基本不受选\n择压力影响\n D. CNEs 的保守性主要体现在核苷酸序列本身，其在基因组中相对于邻近基因的位置关系在远缘物种间通常不\n\
+    保守"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: 暂缓

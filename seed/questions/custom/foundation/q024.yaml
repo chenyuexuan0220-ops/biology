@@ -1,0 +1,30 @@
+source_question_no: 24
+question_type: SINGLE_CHOICE
+stem: 加入可逆竞争性抑制剂后，经典米氏动力学中通常如何变化？
+options:
+  A: Vmax 降低而 Km 不变
+  B: Vmax 不变而表观 Km 增大
+  C: Vmax 和 Km 都必定为零
+  D: 反应平衡常数必定改变
+answer:
+- B
+explanation: 理想竞争性抑制可被高浓度底物克服，Vmax 不变而表观 Km 增大。
+knowledge_points:
+- BIO.BIOCHEM.004
+prerequisites: []
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  learning: 4
+  competition: 4
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 蛋白质
+  cognitive_level: 4
+  target_grade: 11
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

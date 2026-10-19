@@ -1,0 +1,30 @@
+source_question_no: 4
+question_type: SINGLE_CHOICE
+stem: 三组幼苗一周分别长高 2、4、6 厘米。仅根据数据能得出什么结论？
+options:
+  A: 第三组长高最多
+  B: 第三组一定施肥最多
+  C: 第一组一定缺水
+  D: 所有植物都按固定速率生长
+answer:
+- A
+explanation: 数据直接支持第三组高度增量最大；不能据此推断施肥、缺水等未记录的原因。
+knowledge_points:
+- BIO.SCIENCE.017
+prerequisites: []
+competencies:
+- DATA_INTERPRETATION
+difficulty:
+  learning: 1
+  competition: 1
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 表格
+  cognitive_level: 1
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

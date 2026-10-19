@@ -1,0 +1,58 @@
+source_question_no: 22
+question_type: COMPREHENSIVE
+stem: '禾本科(Poaceae)是被子植物中经济价值高、分布广泛的
+
+  大科，具有独特的形态结构。对以下关于禾本科植物普遍具
+
+  有的形态特征（共有衍征）的陈述进行正误判断：'
+options:
+  A: '其小花结构特殊，通常包含外稃、内稃、浆片及雌雄蕊，
+
+    小花聚生为小穗，小穗基部常有颖片'
+  B: '其果实类型为颖果，其主要特点是果皮与种皮紧密愈
+
+    合，难以分离'
+  C: '其茎（秆）为典型的圆柱形，具明显的节与节间，且所
+
+    有种类的节间都呈中空状态'
+  D: '其叶由明显的叶片和包于秆外的叶鞘构成，叶片脉序展示出主脉平行的基本模式
+
+    题干23 - 24：由维管形成层分化为次生木质部和次生韧皮部，产生了庞大的次生维管组织，支撑了高大树体而且
+
+    提供了生长所需要的水分和矿物质，具有重大的生物学意义。维管形成层的活动受季节影响较大，在多年生木本
+
+    植物茎的横截面上可以看到许多同心圆，这些同心圆称为生长轮。 国'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.294
+prerequisites:
+- BIO.PLANT.006
+- BIO.PLANT.007
+- BIO.PLANT.008
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 形态识别
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 4
+  raw_text: "禾本科(Poaceae)是被子植物中经济价值高、分布广泛的\n大科，具有独特的形态结构。对以下关于禾本科植物普遍具\n有的形态特征（共有衍征）的陈述进行正误判断：\n\
+    \ A. 其小花结构特殊，通常包含外稃、内稃、浆片及雌雄蕊，\n小花聚生为小穗，小穗基部常有颖片\n B. 其果实类型为颖果，其主要特点是果皮与种皮紧密愈\n\
+    合，难以分离\n C. 其茎（秆）为典型的圆柱形，具明显的节与节间，且所\n有种类的节间都呈中空状态\n D. 其叶由明显的叶片和包于秆外的叶鞘构成，叶片脉序展示出主脉平行的基本模式\n\
+    题干23 - 24：由维管形成层分化为次生木质部和次生韧皮部，产生了庞大的次生维管组织，支撑了高大树体而且\n提供了生长所需要的水分和矿物质，具有重大的生物学意义。维管形成层的活动受季节影响较大，在多年生木本\n\
+    植物茎的横截面上可以看到许多同心圆，这些同心圆称为生长轮。 国"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

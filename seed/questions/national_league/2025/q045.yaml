@@ -1,0 +1,44 @@
+source_question_no: 45
+question_type: COMPREHENSIVE
+stem: '温度是影响生物系统稳定性和功能的关键物理因素。无论是高温还是低温，都会对分子结构、生理过程和
+
+  生物体的适应能力产生深远影响。比较高温和低温对分子、细胞、组织和生物体的影响，请对以下关于温度生
+
+  理效应的陈述进行正误判断：'
+options:
+  A: 高温总是可以增强蛋白质的结构稳定性，提高酶的活性
+  B: 低温环境会普遍促使哺乳动物皮肤血管扩张，以增加组织血液供应，防止冻伤
+  C: 处于高温环境时，哺乳动物主要通过减少流向皮肤的血液来降低核心体温
+  D: 大多数哺乳动物在遭遇极端低温胁迫时，都会启动冬眠机制以保护重要器官
+answer: null
+explanation: null
+knowledge_points:
+- BIO.ANIMAL.023
+prerequisites:
+- BIO.BIOCHEM.007
+- BIO.BRIDGE.321
+- BIO.BRIDGE.322
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 生理适应
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 8
+  raw_text: "温度是影响生物系统稳定性和功能的关键物理因素。无论是高温还是低温，都会对分子结构、生理过程和\n生物体的适应能力产生深远影响。比较高温和低温对分子、细胞、组织和生物体的影响，请对以下关于温度生\n\
+    理效应的陈述进行正误判断：\n A. 高温总是可以增强蛋白质的结构稳定性，提高酶的活性\n B. 低温环境会普遍促使哺乳动物皮肤血管扩张，以增加组织血液供应，防止冻伤\n\
+    \ C. 处于高温环境时，哺乳动物主要通过减少流向皮肤的血液来降低核心体温\n D. 大多数哺乳动物在遭遇极端低温胁迫时，都会启动冬眠机制以保护重要器官"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

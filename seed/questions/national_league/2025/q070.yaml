@@ -1,0 +1,47 @@
+source_question_no: 70
+question_type: COMPREHENSIVE
+stem: '重复序列是指在基因组同一区域或不同区域重复出现的相同或相似的序列，可分为串联重复序列和散在重复
+
+  序列。其中散在重复序列又可分为长散在重复序列（LINEs）、短散在重复序列（SINEs）、长末端重复序列（LTR）、
+
+  以及DNA 转座子等。对以下关于基因组重复序列的陈述进行正误判断：'
+options:
+  A: 哺乳动物LINE-1 属于自主转座子，在基因组中呈散在分布，它能够编码自身转座所必需的蛋白和酶
+  B: DNA 转座子在哺乳动物基因组中占比通常高于LINEs，且主要通过RNA 介导的逆转录转座扩增
+  C: SINEs（如Alu 元件）依赖LINE 编码的逆转录酶进行转座，多集中在基因富集区域
+  D: 'LTR 反转录转座子在哺乳动物基因组中已基本失去转座能力，因此它们的存在对基因表达调控和基因组结构
+
+    稳定性没有显著影响'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.343
+prerequisites:
+- BIO.MOLECULAR.001
+- BIO.BRIDGE.344
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: D
+reasoning_patterns:
+- 基因组结构
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 12
+  raw_text: "重复序列是指在基因组同一区域或不同区域重复出现的相同或相似的序列，可分为串联重复序列和散在重复\n序列。其中散在重复序列又可分为长散在重复序列（LINEs）、短散在重复序列（SINEs）、长末端重复序列（LTR）、\n\
+    以及DNA 转座子等。对以下关于基因组重复序列的陈述进行正误判断：\n A. 哺乳动物LINE-1 属于自主转座子，在基因组中呈散在分布，它能够编码自身转座所必需的蛋白和酶\n\
+    \ B. DNA 转座子在哺乳动物基因组中占比通常高于LINEs，且主要通过RNA 介导的逆转录转座扩增\n C. SINEs（如Alu 元件）依赖LINE\
+    \ 编码的逆转录酶进行转座，多集中在基因富集区域\n D. LTR 反转录转座子在哺乳动物基因组中已基本失去转座能力，因此它们的存在对基因表达调控和基因组结构\n\
+    稳定性没有显著影响"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: 暂缓

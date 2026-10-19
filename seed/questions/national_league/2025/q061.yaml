@@ -1,0 +1,47 @@
+source_question_no: 61
+question_type: COMPREHENSIVE
+stem: '可变数目串联重复序列(VNTR)因其在个体间的重复次数多态性
+
+  而被广泛应用。右图展示了利用某一VNTR 位点对四对潜在父母(泳
+
+  道1–8)及其四个孩子(泳道A–D)进行基因分型的凝胶电泳结果。对以
+
+  下关于此VNTR 多态性分析结果的陈述进行正误判断：'
+options:
+  A: 检测的所有12 个个体在该VNTR 位点上均表现为杂合子
+  B: '根据条带匹配推断，A 的父母是7 号和5 号个体，B 的父母是4
+
+    号和1 号个体'
+  C: 该VNTR 位点的等位基因在分子水平上表现为共显性
+  D: 扩增该VNTR 所用的一对引物在不同个体中均相同
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.334
+prerequisites:
+- BIO.MOLECULAR.001
+- BIO.BRIDGE.335
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 模式识别
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 11
+  raw_text: "可变数目串联重复序列(VNTR)因其在个体间的重复次数多态性\n而被广泛应用。右图展示了利用某一VNTR 位点对四对潜在父母(泳\n道1–8)及其四个孩子(泳道A–D)进行基因分型的凝胶电泳结果。对以\n\
+    下关于此VNTR 多态性分析结果的陈述进行正误判断：\n A. 检测的所有12 个个体在该VNTR 位点上均表现为杂合子\n B. 根据条带匹配推断，A 的父母是7\
+    \ 号和5 号个体，B 的父母是4\n号和1 号个体\n C. 该VNTR 位点的等位基因在分子水平上表现为共显性\n D. 扩增该VNTR 所用的一对引物在不同个体中均相同"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

@@ -1,0 +1,2832 @@
+- code: BIO.SCIENCE.001
+  name: 生命现象
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别生命现象，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.002
+  name: 生物学观察
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别生物学观察，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.003
+  name: 生物分类
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别生物分类，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.004
+  name: 比较
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别比较，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.005
+  name: 假设
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别假设，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.006
+  name: 变量
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别变量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.007
+  name: 自变量
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别自变量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.008
+  name: 因变量
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别因变量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.009
+  name: 控制变量
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别控制变量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.010
+  name: 对照组
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别对照组，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.011
+  name: 实验组
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别实验组，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.012
+  name: 重复实验
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别重复实验，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.013
+  name: 样本
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别样本，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.014
+  name: 证据
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别证据，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.015
+  name: 结论
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别结论，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.016
+  name: 相关与因果
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别相关与因果，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.017
+  name: 表格
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别表格，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.018
+  name: 坐标轴
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别坐标轴，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.019
+  name: 趋势
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别趋势，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.020
+  name: 组间比较
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别组间比较，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.021
+  name: 平均值
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别平均值，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.022
+  name: 变化量
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别变化量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.023
+  name: 变化率
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别变化率，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.024
+  name: 实验误差
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别实验误差，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.SCIENCE.025
+  name: 科学表达
+  domain: SCIENTIFIC_THINKING
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别科学表达，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.001
+  name: 细胞概念
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别细胞概念，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.002
+  name: 动物细胞
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别动物细胞，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.003
+  name: 植物细胞
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别植物细胞，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.004
+  name: 细胞膜
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别细胞膜，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.005
+  name: 细胞质
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别细胞质，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.006
+  name: 细胞核
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别细胞核，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.007
+  name: 线粒体
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别线粒体，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.008
+  name: 叶绿体
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别叶绿体，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.009
+  name: 液泡
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别液泡，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.010
+  name: 溶酶体
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别溶酶体，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.011
+  name: 细胞壁
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别细胞壁，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.012
+  name: 选择透过性
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别选择透过性，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.013
+  name: 扩散
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别扩散，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.014
+  name: 渗透
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别渗透，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.015
+  name: 主动运输
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别主动运输，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.016
+  name: 浓度梯度
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别浓度梯度，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.017
+  name: 离子梯度
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别离子梯度，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.018
+  name: 膜蛋白
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别膜蛋白，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.019
+  name: 受体
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别受体，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.020
+  name: 细胞信号
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别细胞信号，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.021
+  name: 细胞周期
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别细胞周期，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.022
+  name: 有丝分裂
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别有丝分裂，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.023
+  name: 减数分裂
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别减数分裂，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.024
+  name: 染色体
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别染色体，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.025
+  name: DNA复制
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别DNA复制，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.026
+  name: 自噬
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别自噬，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.027
+  name: 蛋白质降解
+  domain: CELL_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别蛋白质降解，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.028
+  name: 膜电位
+  domain: CELL_BIOLOGY
+  level: 4
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别膜电位，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.029
+  name: 静息膜电位
+  domain: CELL_BIOLOGY
+  level: 4
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别静息膜电位，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.CELL.030
+  name: 流式细胞术基础
+  domain: CELL_BIOLOGY
+  level: 4
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别流式细胞术基础，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.001
+  name: 水
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别水，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.002
+  name: 糖类
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别糖类，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.003
+  name: 脂质
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别脂质，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.004
+  name: 蛋白质
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别蛋白质，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.005
+  name: 氨基酸
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别氨基酸，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.006
+  name: 核酸
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别核酸，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.007
+  name: 酶
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别酶，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.008
+  name: 酶活性
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别酶活性，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.009
+  name: 酸碱
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别酸碱，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.010
+  name: pH
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别pH，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.011
+  name: 质子化
+  domain: BIOCHEMISTRY
+  level: 4
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别质子化，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.012
+  name: 缓冲体系
+  domain: BIOCHEMISTRY
+  level: 4
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别缓冲体系，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.013
+  name: 代谢
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别代谢，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.014
+  name: 糖酵解
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别糖酵解，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.015
+  name: 呼吸作用
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别呼吸作用，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.016
+  name: 发酵
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别发酵，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.017
+  name: 糖原
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别糖原，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.018
+  name: 氨基酸代谢
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别氨基酸代谢，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.019
+  name: 生糖氨基酸
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别生糖氨基酸，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BIOCHEM.020
+  name: 生酮氨基酸
+  domain: BIOCHEMISTRY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别生酮氨基酸，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.001
+  name: DNA
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别DNA，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.002
+  name: RNA
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别RNA，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.003
+  name: mRNA
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别mRNA，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.004
+  name: tRNA
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别tRNA，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.005
+  name: rRNA
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别rRNA，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.006
+  name: 基因
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别基因，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.007
+  name: 基因表达
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别基因表达，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.008
+  name: 转录
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别转录，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.009
+  name: 翻译
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别翻译，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.010
+  name: RNA互补
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别RNA互补，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.011
+  name: 反义RNA
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别反义RNA，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.012
+  name: 非编码RNA
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别非编码RNA，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.013
+  name: lncRNA
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别lncRNA，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.014
+  name: 蛋白质合成
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别蛋白质合成，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.015
+  name: 蛋白质修饰
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别蛋白质修饰，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.016
+  name: 磷酸化
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别磷酸化，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.017
+  name: 泛素化
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别泛素化，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.018
+  name: 糖基化
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别糖基化，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.019
+  name: 端粒
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别端粒，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.020
+  name: 端粒酶
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别端粒酶，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.021
+  name: p53
+  domain: MOLECULAR_BIOLOGY
+  level: 4
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别p53，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.022
+  name: MDM2
+  domain: MOLECULAR_BIOLOGY
+  level: 4
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别MDM2，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.023
+  name: 蛋白酶体
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别蛋白酶体，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.024
+  name: mRNA疫苗
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别mRNA疫苗，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MOLECULAR.025
+  name: 脂质纳米颗粒
+  domain: MOLECULAR_BIOLOGY
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别脂质纳米颗粒，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.001
+  name: 植物细胞
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别植物细胞，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.002
+  name: 根
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别根，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.003
+  name: 根毛
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别根毛，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.004
+  name: 茎
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别茎，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.005
+  name: 叶
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别叶，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.006
+  name: 花
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别花，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.007
+  name: 果实
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别果实，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.008
+  name: 种子
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别种子，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.009
+  name: 表皮
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别表皮，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.010
+  name: 角质层
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别角质层，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.011
+  name: 气孔
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别气孔，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.012
+  name: 栅栏组织
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别栅栏组织，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.013
+  name: 海绵组织
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别海绵组织，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.014
+  name: 木质部
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别木质部，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.015
+  name: 韧皮部
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别韧皮部，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.016
+  name: 形成层
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别形成层，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.017
+  name: 次生生长
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别次生生长，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.018
+  name: 年轮
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别年轮，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.019
+  name: 细胞壁
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别细胞壁，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.020
+  name: 纤维素
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别纤维素，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.021
+  name: 半纤维素
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别半纤维素，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.022
+  name: 果胶
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别果胶，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.023
+  name: 木质素
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别木质素，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.024
+  name: 禾本科
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别禾本科，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.025
+  name: 果实传播
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别果实传播，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANT.026
+  name: 风传播
+  domain: PLANT_BIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别风传播，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.001
+  name: 光合作用
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别光合作用，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.002
+  name: 叶绿素
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别叶绿素，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.003
+  name: 光能
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别光能，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.004
+  name: 二氧化碳
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别二氧化碳，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.005
+  name: 呼吸作用
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别呼吸作用，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.006
+  name: 蒸腾作用
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别蒸腾作用，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.007
+  name: 水分吸收
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别水分吸收，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.008
+  name: 水分运输
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别水分运输，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.009
+  name: 蒸腾拉力
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别蒸腾拉力，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.010
+  name: 根压
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别根压，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.011
+  name: 矿质元素
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别矿质元素，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.012
+  name: 盐胁迫
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别盐胁迫，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.013
+  name: Na+稳态
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别Na+稳态，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.014
+  name: 植物激素
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别植物激素，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.015
+  name: 生长素
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别生长素，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.016
+  name: 向光性
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别向光性，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.017
+  name: 光周期
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别光周期，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.018
+  name: C3
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别C3，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.019
+  name: C4
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别C4，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.020
+  name: 旱生适应
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别旱生适应，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.021
+  name: 水生适应
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别水生适应，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.PLANTPHYS.022
+  name: 湿生适应
+  domain: PLANT_PHYSIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别湿生适应，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.001
+  name: 微生物
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别微生物，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.002
+  name: 细菌
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别细菌，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.003
+  name: 病毒
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别病毒，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.004
+  name: 噬菌体
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别噬菌体，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.005
+  name: 感染
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别感染，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.006
+  name: 裂解
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别裂解，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.007
+  name: 潜伏期
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别潜伏期，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.008
+  name: 一步生长曲线
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别一步生长曲线，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.009
+  name: 微生物培养
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别微生物培养，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.010
+  name: 灭菌
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别灭菌，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.011
+  name: 过滤灭菌
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别过滤灭菌，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.012
+  name: 紫外灭菌
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别紫外灭菌，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.MICROBE.013
+  name: 化学灭菌
+  domain: MICROBIOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别化学灭菌，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.001
+  name: 动物组织
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别动物组织，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.002
+  name: 神经系统
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别神经系统，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.003
+  name: 神经网络
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别神经网络，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.004
+  name: 中枢化
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别中枢化，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.005
+  name: 头化
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别头化，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.006
+  name: 心脏
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别心脏，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.007
+  name: 心房
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别心房，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.008
+  name: 心室
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别心室，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.009
+  name: 瓣膜
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别瓣膜，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.010
+  name: 血液循环
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别血液循环，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.011
+  name: 肺循环
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别肺循环，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.012
+  name: 体循环
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别体循环，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.013
+  name: 肾脏
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别肾脏，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.014
+  name: 滤过
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别滤过，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.015
+  name: 重吸收
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别重吸收，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.016
+  name: 排泄
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别排泄，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.017
+  name: 眼
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别眼，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.018
+  name: 光感受
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别光感受，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.019
+  name: 羽毛
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别羽毛，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.020
+  name: 飞行适应
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别飞行适应，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.021
+  name: 痛觉
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别痛觉，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.022
+  name: 动作电位
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别动作电位，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.023
+  name: 体温调节
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别体温调节，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.024
+  name: 血管收缩
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别血管收缩，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ANIMAL.025
+  name: 血管舒张
+  domain: ZOOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别血管舒张，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.001
+  name: 个体
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别个体，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.002
+  name: 种群
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别种群，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.003
+  name: 群落
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别群落，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.004
+  name: 生态系统
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别生态系统，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.005
+  name: 栖息地
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别栖息地，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.006
+  name: 环境因子
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别环境因子，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.007
+  name: 食物链
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别食物链，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.008
+  name: 食物网
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别食物网，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.009
+  name: 营养级
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别营养级，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.010
+  name: 能量流动
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别能量流动，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.011
+  name: 初级生产力
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别初级生产力，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.012
+  name: 捕食
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别捕食，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.013
+  name: 草食
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别草食，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.014
+  name: 防御
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别防御，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.015
+  name: 行为适应
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别行为适应，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.016
+  name: 种群增长
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别种群增长，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.017
+  name: 密度制约
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别密度制约，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.018
+  name: 生态陷阱
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别生态陷阱，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.019
+  name: 生态实验
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别生态实验，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.ECOLOGY.020
+  name: 蝙蝠与森林
+  domain: ECOLOGY
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别蝙蝠与森林，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.001
+  name: 遗传
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别遗传，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.002
+  name: 变异
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别变异，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.003
+  name: DNA与遗传信息
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别DNA与遗传信息，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.004
+  name: 基因
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别基因，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.005
+  name: 等位基因
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别等位基因，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.006
+  name: 基因型
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别基因型，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.007
+  name: 表现型
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别表现型，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.008
+  name: 显性
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别显性，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.009
+  name: 隐性
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别隐性，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.010
+  name: 纯合
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别纯合，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.011
+  name: 杂合
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别杂合，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.012
+  name: 孟德尔遗传
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别孟德尔遗传，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.013
+  name: 多等位基因
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别多等位基因，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.014
+  name: 线粒体遗传
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别线粒体遗传，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.015
+  name: 母系遗传
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别母系遗传，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.016
+  name: 近亲繁殖
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别近亲繁殖，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.017
+  name: 杂合度
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别杂合度，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.018
+  name: 纯合度
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别纯合度，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.019
+  name: 不等交换
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别不等交换，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.020
+  name: 基因重复
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别基因重复，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.GENETICS.021
+  name: 基因缺失
+  domain: GENETICS
+  level: 2
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别基因缺失，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.001
+  name: 变异
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别变异，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.002
+  name: 遗传
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别遗传，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.003
+  name: 自然选择
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别自然选择，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.004
+  name: 适应
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别适应，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.005
+  name: 共同祖先
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别共同祖先，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.006
+  name: 系统发生
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别系统发生，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.007
+  name: 姐妹群
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别姐妹群，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.008
+  name: 外群
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别外群，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.009
+  name: 单系群
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别单系群，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.010
+  name: 基因树
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别基因树，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.011
+  name: 物种树
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别物种树，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.012
+  name: 基因复制
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别基因复制，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.013
+  name: 不完全谱系排序
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别不完全谱系排序，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.014
+  name: 协同进化
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别协同进化，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.015
+  name: 亲缘选择
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别亲缘选择，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.016
+  name: 包容适合度
+  domain: EVOLUTION
+  level: 1
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别包容适合度，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EVOLUTION.017
+  name: 中性理论
+  domain: EVOLUTION
+  level: 4
+  goals:
+  - NATIONAL_LEAGUE
+  - NATIONAL_COMPETITION
+  description: 学习目标：识别中性理论，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.001
+  name: 实验问题
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别实验问题，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.002
+  name: 实验假设
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别实验假设，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.003
+  name: 自变量
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别自变量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.004
+  name: 因变量
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别因变量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.005
+  name: 控制变量
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别控制变量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.006
+  name: 对照组
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别对照组，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.007
+  name: 实验组
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别实验组，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.008
+  name: 重复
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别重复，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.009
+  name: 样本量
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别样本量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.010
+  name: 观察
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别观察，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.011
+  name: 测量
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别测量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.012
+  name: 数据记录
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别数据记录，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.013
+  name: 变量关系
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别变量关系，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.014
+  name: 因果判断
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别因果判断，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.015
+  name: 实验缺陷
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别实验缺陷，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.016
+  name: 实验改进
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别实验改进，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.017
+  name: 稳定同位素示踪
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别稳定同位素示踪，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.018
+  name: RNA-seq
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 4
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别RNA-seq，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.019
+  name: Western blot
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 4
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别Western blot，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.020
+  name: Southern blot
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 4
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别Southern blot，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.021
+  name: qRT-PCR
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别qRT-PCR，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.EXP.022
+  name: FISH
+  domain: EXPERIMENTAL_BIOLOGY
+  level: 4
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别FISH，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.001
+  name: 表格读取
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别表格读取，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.002
+  name: 坐标轴
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别坐标轴，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.003
+  name: 单位
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别单位，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.004
+  name: 最大值
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别最大值，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.005
+  name: 最小值
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别最小值，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.006
+  name: 趋势
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别趋势，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.007
+  name: 组间差异
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别组间差异，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.008
+  name: 时间变化
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别时间变化，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.009
+  name: 相关
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别相关，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.010
+  name: 因果
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别因果，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.011
+  name: 平均值
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别平均值，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.012
+  name: 变化量
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别变化量，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.013
+  name: 变化率
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别变化率，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.014
+  name: 散点图
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别散点图，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.015
+  name: 折线图
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别折线图，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.016
+  name: 柱状图
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别柱状图，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.017
+  name: 实验数据
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别实验数据，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.DATA.018
+  name: 生物学模型
+  domain: BIOINFORMATICS
+  level: 1
+  goals:
+  - IBO
+  - RESEARCH
+  description: 学习目标：识别生物学模型，解释其基本含义，并用观察或题目证据检验理解。
+- code: BIO.BRIDGE.269
+  name: 灭菌方法
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：灭菌方法。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.270
+  name: 实验安全
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：实验安全。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.271
+  name: 互补
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：互补。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.272
+  name: pKa与氨基酸电离
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：pKa与氨基酸电离。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.273
+  name: 原子
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：原子。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.274
+  name: 化学键
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：化学键。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.275
+  name: 碳酸氢盐缓冲
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：碳酸氢盐缓冲。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.276
+  name: 化学平衡
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：化学平衡。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.277
+  name: LNP
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：LNP。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.278
+  name: 生糖
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：生糖。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.279
+  name: 细胞信号转导
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：细胞信号转导。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.280
+  name: 呼吸
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：呼吸。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.281
+  name: 糖代谢
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：糖代谢。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.282
+  name: 蛋白质稳定性
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：蛋白质稳定性。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.283
+  name: 实验对照
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：实验对照。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.284
+  name: 细胞代谢
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：细胞代谢。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.285
+  name: 鞘磷脂代谢
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：鞘磷脂代谢。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.286
+  name: 物质降解
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：物质降解。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.287
+  name: 流式细胞术
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：流式细胞术。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.288
+  name: 细胞分裂
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：细胞分裂。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.289
+  name: 蛋白质翻译后修饰
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：蛋白质翻译后修饰。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.290
+  name: 植物学名与命名
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：植物学名与命名。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.291
+  name: 叶片解剖与水分适应
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：叶片解剖与水分适应。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.292
+  name: 叶结构
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：叶结构。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.293
+  name: 系统发生树
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：系统发生树。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.294
+  name: 禾本科形态
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：禾本科形态。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.295
+  name: 维管形成层
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：维管形成层。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.296
+  name: 茎结构
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：茎结构。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.297
+  name: 果实种子
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：果实种子。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.298
+  name: 植物组织
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：植物组织。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.299
+  name: 盐胁迫与Na+运输
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：盐胁迫与Na+运输。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.300
+  name: 植物遗传转化
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：植物遗传转化。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.301
+  name: 基因表达与种子性状
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：基因表达与种子性状。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.302
+  name: 生长素信号
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：生长素信号。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.303
+  name: 光
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：光。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.304
+  name: 植物生长
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：植物生长。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.305
+  name: 噬菌体生长曲线
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：噬菌体生长曲线。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.306
+  name: 人工内共生
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：人工内共生。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.307
+  name: 神经系统演化
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：神经系统演化。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.308
+  name: 动物分类
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：动物分类。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.309
+  name: 胚胎发育与体腔
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：胚胎发育与体腔。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.310
+  name: 哺乳动物心脏
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：哺乳动物心脏。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.311
+  name: 循环系统
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：循环系统。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.312
+  name: 鸟类羽毛
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：鸟类羽毛。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.313
+  name: 鸟类结构
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：鸟类结构。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.314
+  name: 肾脏葡萄糖
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：肾脏葡萄糖。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.315
+  name: 肾
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：肾。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.316
+  name: 血液
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：血液。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.317
+  name: 蜘蛛眼
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：蜘蛛眼。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.318
+  name: 动物感觉
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：动物感觉。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.319
+  name: 辣椒素与痛觉
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：辣椒素与痛觉。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.320
+  name: 神经
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：神经。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.321
+  name: 循环
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：循环。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.322
+  name: 稳态
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：稳态。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.323
+  name: 鱼类耐温
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：鱼类耐温。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.324
+  name: 生态
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：生态。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.325
+  name: 糖原代谢实验
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：糖原代谢实验。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.326
+  name: 膜
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：膜。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.327
+  name: 行为
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：行为。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.328
+  name: 植物水分适应
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：植物水分适应。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.329
+  name: C4及植物适应
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：C4及植物适应。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.330
+  name: 动物恐惧行为
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：动物恐惧行为。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.331
+  name: 蝙蝠---森林生态
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：蝙蝠---森林生态。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.332
+  name: 果蝇遗传操作
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：果蝇遗传操作。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.333
+  name: 细菌基因转移
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：细菌基因转移。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.334
+  name: VNTR
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：VNTR。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.335
+  name: 凝胶电泳
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：凝胶电泳。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.336
+  name: 遗传因果实验
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：遗传因果实验。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.337
+  name: Western
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：Western。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.338
+  name: Southern
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：Southern。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.339
+  name: 蛋白
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：蛋白。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.340
+  name: 保守非编码元件
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：保守非编码元件。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.341
+  name: 突变
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：突变。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.342
+  name: 选择
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：选择。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.343
+  name: 重复DNA
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：重复DNA。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.344
+  name: 基因组
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：基因组。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.345
+  name: 测序覆盖度
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：测序覆盖度。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.346
+  name: 统计
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：统计。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.347
+  name: GTF注释
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：GTF注释。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE
+- code: BIO.BRIDGE.348
+  name: 基因结构
+  domain: SCIENTIFIC_THINKING
+  level: 2
+  description: 规格书中列出的知识主题：基因结构。详细教学内容待补充。
+  goals:
+  - NATIONAL_LEAGUE

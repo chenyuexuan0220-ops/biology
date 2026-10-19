@@ -1,0 +1,45 @@
+source_question_no: 29
+question_type: COMPREHENSIVE
+stem: '根据图中结果和已有生物学知识，对以下陈述进行正误
+
+  判断：'
+options:
+  A: 在植物转基因过程中，农杆菌介导法是常用方法
+  B: 在农杆菌介导的植物遗传转化过程中，T-DNA 定点插 国入到基因组特定位置
+  C: '在进行蛋白杂交实验中，丽春红染色是为了确定在提取
+
+    植物总蛋白时已将目的蛋白成功提取'
+  D: '为确定植物中所转化的目的基因的表达量，可以间接检
+
+    测其所融合的标签蛋白的含量'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.300
+prerequisites:
+- BIO.MOLECULAR.001
+- BIO.BIOCHEM.004
+competencies:
+- EXPERIMENTAL_DESIGN
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 实验技术
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 5
+  raw_text: "根据图中结果和已有生物学知识，对以下陈述进行正误\n判断：\n A. 在植物转基因过程中，农杆菌介导法是常用方法\n B. 在农杆菌介导的植物遗传转化过程中，T-DNA\
+    \ 定点插 国入到基因组特定位置\n C. 在进行蛋白杂交实验中，丽春红染色是为了确定在提取\n植物总蛋白时已将目的蛋白成功提取\n D. 为确定植物中所转化的目的基因的表达量，可以间接检\n\
+    测其所融合的标签蛋白的含量"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

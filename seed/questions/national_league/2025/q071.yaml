@@ -1,0 +1,42 @@
+source_question_no: 71
+question_type: COMPREHENSIVE
+stem: '基因组覆盖度（Coverage）和测序深度（Depth）是基因组测序中的两个关键参数。某基因组大小为1 Mb，
+
+  使用测序读长（read）为100 bp 的测序技术。对以下关于测序深度和覆盖度的陈述进行正误判断：'
+options:
+  A: 如果测序产生了10,000 条读长，则理论上的平均测序深度为1×
+  B: 即使平均测序深度达到1×，由于读长在基因组上随机分布，仍可能存在部分区域未被任何读长覆盖
+  C: 测序深度从1×增加到2×，和从10×增加到11×，基因组覆盖度增加的比例是相同的
+  D: 只要测序深度足够高，理论上就可以轻易实现对基因组100%的完全覆盖
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.345
+prerequisites:
+- BIO.MOLECULAR.001
+- BIO.BRIDGE.346
+competencies:
+- QUANTITATIVE_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: D
+reasoning_patterns:
+- 定量生信
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 12
+  raw_text: "基因组覆盖度（Coverage）和测序深度（Depth）是基因组测序中的两个关键参数。某基因组大小为1 Mb，\n使用测序读长（read）为100\
+    \ bp 的测序技术。对以下关于测序深度和覆盖度的陈述进行正误判断：\n A. 如果测序产生了10,000 条读长，则理论上的平均测序深度为1×\n B.\
+    \ 即使平均测序深度达到1×，由于读长在基因组上随机分布，仍可能存在部分区域未被任何读长覆盖\n C. 测序深度从1×增加到2×，和从10×增加到11×，基因组覆盖度增加的比例是相同的\n\
+    \ D. 只要测序深度足够高，理论上就可以轻易实现对基因组100%的完全覆盖"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: 暂缓

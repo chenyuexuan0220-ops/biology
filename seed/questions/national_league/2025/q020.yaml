@@ -1,0 +1,49 @@
+source_question_no: 20
+question_type: COMPREHENSIVE
+stem: '在水生、湿生和旱生不同水分条件下，观赏植物香菇
+
+  草叶解剖特征表现出适应性变化，其叶的解剖参数如右表
+
+  所示。根据此表信息及相应的植物学知识，请对下列陈述
+
+  进行正误判断：'
+options:
+  A: '干旱生境下香菇草叶片的栅栏组织细胞排列比水生
+
+    生境下更紧密'
+  B: 旱生型香菇草叶片的气孔指数高于湿生型
+  C: '随生境水分减少，香菇草叶片的海绵组织厚度显著增
+
+    加'
+  D: "随生境水分减少，香菇草叶片的总厚度显著增加\n\n                                                  3"
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.291
+prerequisites:
+- BIO.BRIDGE.292
+competencies:
+- DATA_INTERPRETATION
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 表格推理
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 3
+  raw_text: "在水生、湿生和旱生不同水分条件下，观赏植物香菇\n草叶解剖特征表现出适应性变化，其叶的解剖参数如右表\n所示。根据此表信息及相应的植物学知识，请对下列陈述\n\
+    进行正误判断：\n A. 干旱生境下香菇草叶片的栅栏组织细胞排列比水生\n生境下更紧密\n B. 旱生型香菇草叶片的气孔指数高于湿生型\n C. 随生境水分减少，香菇草叶片的海绵组织厚度显著增\n\
+    加\n D. 随生境水分减少，香菇草叶片的总厚度显著增加\n\n                                             \
+    \     3"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

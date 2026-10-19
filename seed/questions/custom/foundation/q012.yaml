@@ -1,0 +1,30 @@
+source_question_no: 12
+question_type: SINGLE_CHOICE
+stem: 三次独立测得种子萌发率为 60%、70%、80%，这三个百分数的算术平均值是？
+options:
+  A: 60%
+  B: 65%
+  C: 75%
+  D: 70%
+answer:
+- D
+explanation: 算术平均值为 (60+70+80)/3=70%。若样本量不同，合并萌发率需按样本量加权。
+knowledge_points:
+- BIO.SCIENCE.017
+prerequisites: []
+competencies:
+- QUANTITATIVE_REASONING
+difficulty:
+  learning: 2
+  competition: 2
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 表格
+  cognitive_level: 2
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

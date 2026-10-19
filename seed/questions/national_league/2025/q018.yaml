@@ -1,0 +1,47 @@
+source_question_no: 18
+question_type: COMPREHENSIVE
+stem: '蛋白质翻译后修饰（PTM）如磷酸化、泛素化和糖基化，
+
+  调控着蛋白质的功能与命运。例如，Tau 蛋白过度磷酸化与阿尔茨海默病的神经纤维缠结有关。此外，利用泛素
+
+  –蛋白酶体系统降解靶蛋白的PROTACs 技术已成为药物研发热点。对以下关于PTM 及其相关过程的陈述进行
+
+  正误判断：'
+options:
+  A: 蛋白质磷酸化是一种常见的PTM，催化该过程的激酶利用GTP 作为磷酸基团的直接供体 国
+  B: 泛素化修饰的一个主要功能是标记蛋白质，引导其被蛋白酶体识别并降解
+  C: N–连接糖基化修饰起始于内质网，对于许多分泌蛋白和膜蛋白的正确折叠和功能至关重要
+  D: '在阿尔茨海默病中，神经纤维缠结的主要成分是异常聚集的过度磷酸化Tau 蛋白，但Tau 蛋白保持正常功能
+
+    二、植物学、植物生理、微生物（18 题）'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.289
+prerequisites:
+- BIO.BIOCHEM.004
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: C
+reasoning_patterns:
+- 修饰→功能
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 3
+  raw_text: "蛋白质翻译后修饰（PTM）如磷酸化、泛素化和糖基化，\n调控着蛋白质的功能与命运。例如，Tau 蛋白过度磷酸化与阿尔茨海默病的神经纤维缠结有关。此外，利用泛素\n\
+    –蛋白酶体系统降解靶蛋白的PROTACs 技术已成为药物研发热点。对以下关于PTM 及其相关过程的陈述进行\n正误判断：\n A. 蛋白质磷酸化是一种常见的PTM，催化该过程的激酶利用GTP\
+    \ 作为磷酸基团的直接供体 国 B. 泛素化修饰的一个主要功能是标记蛋白质，引导其被蛋白酶体识别并降解\n C. N–连接糖基化修饰起始于内质网，对于许多分泌蛋白和膜蛋白的正确折叠和功能至关重要\n\
+    \ D. 在阿尔茨海默病中，神经纤维缠结的主要成分是异常聚集的过度磷酸化Tau 蛋白，但Tau 蛋白保持正常功能\n二、植物学、植物生理、微生物（18 题）"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M1

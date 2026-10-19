@@ -1,0 +1,39 @@
+source_question_no: 50
+question_type: COMPREHENSIVE
+stem: '请根据其特征与生长环境，对以下陈述进行正误判
+
+  断:'
+options:
+  A: 植物B 常见于有水的环境中
+  B: 植物A 是中生植物
+  C: 植物A 更耐旱
+  D: 植物B 通气系统更发达
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.328
+prerequisites:
+- BIO.PLANT.001
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 结构→环境
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 9
+  raw_text: "请根据其特征与生长环境，对以下陈述进行正误判\n断:\n A. 植物B 常见于有水的环境中\n B. 植物A 是中生植物\n C. 植物A\
+    \ 更耐旱\n D. 植物B 通气系统更发达"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

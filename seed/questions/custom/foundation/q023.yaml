@@ -1,0 +1,30 @@
+source_question_no: 23
+question_type: SINGLE_CHOICE
+stem: 检验光与水对植物生长的交互作用，哪种设计最合适？
+options:
+  A: 只设置强光多水和弱光少水
+  B: 光照高低与水分高低交叉设置四组并重复
+  C: 所有植株条件完全相同
+  D: 只改变肥料
+answer:
+- B
+explanation: 双因素交叉设计能分别估计光、水的效应，并检验二者是否存在交互作用。
+knowledge_points:
+- BIO.EXP.001
+prerequisites: []
+competencies:
+- EXPERIMENTAL_DESIGN
+difficulty:
+  learning: 4
+  competition: 4
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 实验问题
+  cognitive_level: 4
+  target_grade: 11
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

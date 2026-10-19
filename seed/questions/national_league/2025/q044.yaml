@@ -1,0 +1,43 @@
+source_question_no: 44
+question_type: COMPREHENSIVE
+stem: '辣是一种“灼痛”现象，其主要分子机制是辣椒中的辣椒素激活了感觉神经元等细胞表面的特定阳离子通
+
+  道。请对以下关于该过程涉及的生物学原理的陈述进行正误判断：'
+options:
+  A: 该阳离子通道被辣椒素激活后开放，允许阳离子流入细胞，通常导致细胞膜发生去极化
+  B: 辣椒素作为一种化学物质，其激活的感受器属于化学感受器
+  C: "离子通道蛋白在结合辣椒素并开放的过程中，其自身的空间结构会发生改变\n\n                                      \
+    \            7"
+  D: 细胞膜去极化达到阈值后，会抑制动作电位的产生，从而阻止痛觉信号传递
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.319
+prerequisites:
+- BIO.BRIDGE.320
+- BIO.CELL.004
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 分子→神经
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 7
+  raw_text: "辣是一种“灼痛”现象，其主要分子机制是辣椒中的辣椒素激活了感觉神经元等细胞表面的特定阳离子通\n道。请对以下关于该过程涉及的生物学原理的陈述进行正误判断：\n\
+    \ A. 该阳离子通道被辣椒素激活后开放，允许阳离子流入细胞，通常导致细胞膜发生去极化\n B. 辣椒素作为一种化学物质，其激活的感受器属于化学感受器\n\
+    \ C. 离子通道蛋白在结合辣椒素并开放的过程中，其自身的空间结构会发生改变\n\n                                   \
+    \               7\n D. 细胞膜去极化达到阈值后，会抑制动作电位的产生，从而阻止痛觉信号传递"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

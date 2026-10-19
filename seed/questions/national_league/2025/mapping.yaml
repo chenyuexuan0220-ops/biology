@@ -1,0 +1,649 @@
+- question_no: 1
+  core: 灭菌方法
+  knowledge_points:
+  - BIO.BRIDGE.269
+  prerequisites:
+  - BIO.MICROBE.001
+  - BIO.BRIDGE.270
+  reasoning: 方法匹配
+  status: REVIEW_REQUIRED
+- question_no: 2
+  core: 有丝分裂/减数分裂
+  knowledge_points:
+  - BIO.CELL.022
+  - BIO.CELL.023
+  prerequisites:
+  - BIO.CELL.001
+  - BIO.CELL.024
+  reasoning: 过程比较
+  status: REVIEW_REQUIRED
+- question_no: 3
+  core: 端粒
+  knowledge_points:
+  - BIO.MOLECULAR.019
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.CELL.024
+  reasoning: 结构功能
+  status: REVIEW_REQUIRED
+- question_no: 4
+  core: 反义RNA
+  knowledge_points:
+  - BIO.MOLECULAR.011
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.MOLECULAR.002
+  - BIO.BRIDGE.271
+  reasoning: 分子机制
+  status: REVIEW_REQUIRED
+- question_no: 5
+  core: pKa与氨基酸电离
+  knowledge_points:
+  - BIO.BRIDGE.272
+  prerequisites:
+  - BIO.BRIDGE.273
+  - BIO.BRIDGE.274
+  - BIO.BIOCHEM.010
+  reasoning: 定量推理
+  status: REVIEW_REQUIRED
+- question_no: 6
+  core: 碳酸氢盐缓冲
+  knowledge_points:
+  - BIO.BRIDGE.275
+  prerequisites:
+  - BIO.BRIDGE.276
+  - BIO.BIOCHEM.010
+  reasoning: 机制推理
+  status: REVIEW_REQUIRED
+- question_no: 7
+  core: mRNA疫苗/LNP
+  knowledge_points:
+  - BIO.MOLECULAR.024
+  - BIO.BRIDGE.277
+  prerequisites:
+  - BIO.CELL.004
+  - BIO.MOLECULAR.002
+  reasoning: 递送机制
+  status: REVIEW_REQUIRED
+- question_no: 8
+  core: 生糖/生酮氨基酸
+  knowledge_points:
+  - BIO.BRIDGE.278
+  - BIO.BIOCHEM.020
+  prerequisites:
+  - BIO.BIOCHEM.004
+  - BIO.BIOCHEM.013
+  reasoning: 代谢分类
+  status: REVIEW_REQUIRED
+- question_no: 9
+  core: 溶酶体
+  knowledge_points:
+  - BIO.CELL.010
+  prerequisites:
+  - BIO.CELL.005
+  reasoning: 结构功能
+  status: REVIEW_REQUIRED
+- question_no: 10
+  core: 细胞信号转导
+  knowledge_points:
+  - BIO.BRIDGE.279
+  prerequisites:
+  - BIO.CELL.004
+  - BIO.CELL.019
+  reasoning: 机制链
+  status: REVIEW_REQUIRED
+- question_no: 11
+  core: 发酵
+  knowledge_points:
+  - BIO.BIOCHEM.016
+  prerequisites:
+  - BIO.BRIDGE.280
+  - BIO.BRIDGE.281
+  reasoning: 实验解释
+  status: REVIEW_REQUIRED
+- question_no: 12
+  core: 蛋白质稳定性
+  knowledge_points:
+  - BIO.BRIDGE.282
+  prerequisites:
+  - BIO.BIOCHEM.004
+  - BIO.BRIDGE.283
+  reasoning: 实验设计
+  status: REVIEW_REQUIRED
+- question_no: 13
+  core: 蛋白质降解
+  knowledge_points:
+  - BIO.CELL.027
+  prerequisites:
+  - BIO.BIOCHEM.004
+  - BIO.BRIDGE.284
+  reasoning: 实验比较
+  status: REVIEW_REQUIRED
+- question_no: 14
+  core: 鞘磷脂代谢
+  knowledge_points:
+  - BIO.BRIDGE.285
+  prerequisites:
+  - BIO.BIOCHEM.003
+  - BIO.BIOCHEM.007
+  reasoning: 机制/数据
+  status: REVIEW_REQUIRED
+- question_no: 15
+  core: p53
+  knowledge_points:
+  - BIO.MOLECULAR.021
+  prerequisites:
+  - BIO.CELL.021
+  - BIO.MOLECULAR.001
+  reasoning: 调控机制
+  status: REVIEW_REQUIRED
+- question_no: 16
+  core: 自噬
+  knowledge_points:
+  - BIO.CELL.026
+  prerequisites:
+  - BIO.CELL.005
+  - BIO.BRIDGE.286
+  reasoning: 表型→机制
+  status: REVIEW_REQUIRED
+- question_no: 17
+  core: 流式细胞术/细胞周期
+  knowledge_points:
+  - BIO.BRIDGE.287
+  - BIO.CELL.021
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.BRIDGE.288
+  - BIO.DATA.001
+  reasoning: 数据解释
+  status: REVIEW_REQUIRED
+- question_no: 18
+  core: 蛋白质翻译后修饰
+  knowledge_points:
+  - BIO.BRIDGE.289
+  prerequisites:
+  - BIO.BIOCHEM.004
+  reasoning: 修饰→功能
+  status: REVIEW_REQUIRED
+- question_no: 19
+  core: 植物学名与命名
+  knowledge_points:
+  - BIO.BRIDGE.290
+  prerequisites:
+  - BIO.SCIENCE.003
+  reasoning: 分类规则
+  status: REVIEW_REQUIRED
+- question_no: 20
+  core: 叶片解剖与水分适应
+  knowledge_points:
+  - BIO.BRIDGE.291
+  prerequisites:
+  - BIO.BRIDGE.292
+  reasoning: 表格推理
+  status: REVIEW_REQUIRED
+- question_no: 21
+  core: 系统发生树
+  knowledge_points:
+  - BIO.BRIDGE.293
+  prerequisites:
+  - BIO.SCIENCE.003
+  - BIO.EVOLUTION.003
+  reasoning: 树图解释
+  status: REVIEW_REQUIRED
+- question_no: 22
+  core: 禾本科形态
+  knowledge_points:
+  - BIO.BRIDGE.294
+  prerequisites:
+  - BIO.PLANT.006
+  - BIO.PLANT.007
+  - BIO.PLANT.008
+  reasoning: 形态识别
+  status: REVIEW_REQUIRED
+- question_no: 23
+  core: 维管形成层
+  knowledge_points:
+  - BIO.BRIDGE.295
+  prerequisites:
+  - BIO.BRIDGE.296
+  reasoning: 结构功能
+  status: REVIEW_REQUIRED
+- question_no: 24
+  core: 年轮
+  knowledge_points:
+  - BIO.PLANT.018
+  prerequisites:
+  - BIO.PLANT.004
+  - BIO.PLANT.016
+  reasoning: 结构与季节
+  status: REVIEW_REQUIRED
+- question_no: 25
+  core: 风传播
+  knowledge_points:
+  - BIO.PLANT.026
+  prerequisites:
+  - BIO.BRIDGE.297
+  reasoning: 结构→功能
+  status: REVIEW_REQUIRED
+- question_no: 26
+  core: 表皮/气孔/角质层
+  knowledge_points:
+  - BIO.PLANT.009
+  - BIO.PLANT.011
+  - BIO.PLANT.010
+  prerequisites:
+  - BIO.BRIDGE.298
+  reasoning: 结构功能
+  status: REVIEW_REQUIRED
+- question_no: 27
+  core: 盐胁迫与Na+运输
+  knowledge_points:
+  - BIO.BRIDGE.299
+  prerequisites:
+  - BIO.PLANT.002
+  - BIO.PLANT.014
+  reasoning: 离子运输推理
+  status: REVIEW_REQUIRED
+- question_no: 28
+  core: 细胞壁
+  knowledge_points:
+  - BIO.PLANT.019
+  prerequisites:
+  - BIO.PLANT.001
+  reasoning: 结构功能
+  status: REVIEW_REQUIRED
+- question_no: 29
+  core: 植物遗传转化
+  knowledge_points:
+  - BIO.BRIDGE.300
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.BIOCHEM.004
+  reasoning: 实验技术
+  status: REVIEW_REQUIRED
+- question_no: 30
+  core: 基因表达与种子性状
+  knowledge_points:
+  - BIO.BRIDGE.301
+  prerequisites:
+  - BIO.GENETICS.004
+  - BIO.BIOCHEM.004
+  reasoning: 因果链
+  status: REVIEW_REQUIRED
+- question_no: 31
+  core: 生长素信号
+  knowledge_points:
+  - BIO.BRIDGE.302
+  prerequisites:
+  - BIO.PLANTPHYS.014
+  reasoning: 多步机制
+  status: REVIEW_REQUIRED
+- question_no: 32
+  core: 水分运输
+  knowledge_points:
+  - BIO.PLANTPHYS.008
+  prerequisites:
+  - BIO.PLANT.002
+  - BIO.PLANT.004
+  - BIO.PLANT.005
+  - BIO.PLANTPHYS.006
+  reasoning: 机制推理
+  status: REVIEW_REQUIRED
+- question_no: 33
+  core: 向光性
+  knowledge_points:
+  - BIO.PLANTPHYS.016
+  prerequisites:
+  - BIO.PLANTPHYS.015
+  - BIO.BRIDGE.303
+  reasoning: 实验因果
+  status: REVIEW_REQUIRED
+- question_no: 34
+  core: 光周期
+  knowledge_points:
+  - BIO.PLANTPHYS.017
+  prerequisites:
+  - BIO.BRIDGE.303
+  - BIO.BRIDGE.304
+  reasoning: 实验解释
+  status: REVIEW_REQUIRED
+- question_no: 35
+  core: 噬菌体生长曲线
+  knowledge_points:
+  - BIO.BRIDGE.305
+  prerequisites:
+  - BIO.MICROBE.003
+  - BIO.MICROBE.002
+  - BIO.DATA.001
+  reasoning: 曲线解释
+  status: REVIEW_REQUIRED
+- question_no: 36
+  core: 人工内共生
+  knowledge_points:
+  - BIO.BRIDGE.306
+  prerequisites:
+  - BIO.MICROBE.001
+  - BIO.PLANTPHYS.001
+  reasoning: 实验设计
+  status: REVIEW_REQUIRED
+- question_no: 37
+  core: 神经系统演化
+  knowledge_points:
+  - BIO.BRIDGE.307
+  prerequisites:
+  - BIO.BRIDGE.308
+  reasoning: 比较进化
+  status: REVIEW_REQUIRED
+- question_no: 38
+  core: 胚胎发育与体腔
+  knowledge_points:
+  - BIO.BRIDGE.309
+  prerequisites:
+  - BIO.BRIDGE.308
+  reasoning: 发育→系统关系
+  status: REVIEW_REQUIRED
+- question_no: 39
+  core: 基因树/物种树
+  knowledge_points:
+  - BIO.EVOLUTION.010
+  - BIO.EVOLUTION.011
+  prerequisites:
+  - BIO.GENETICS.004
+  - BIO.EVOLUTION.003
+  reasoning: 系统发育
+  status: REVIEW_REQUIRED
+- question_no: 40
+  core: 哺乳动物心脏
+  knowledge_points:
+  - BIO.BRIDGE.310
+  prerequisites:
+  - BIO.BRIDGE.311
+  reasoning: 结构功能
+  status: REVIEW_REQUIRED
+- question_no: 41
+  core: 鸟类羽毛
+  knowledge_points:
+  - BIO.BRIDGE.312
+  prerequisites:
+  - BIO.BRIDGE.313
+  reasoning: 结构功能
+  status: REVIEW_REQUIRED
+- question_no: 42
+  core: 肾脏葡萄糖
+  knowledge_points:
+  - BIO.BRIDGE.314
+  prerequisites:
+  - BIO.BRIDGE.315
+  - BIO.BRIDGE.316
+  reasoning: 生理推理
+  status: REVIEW_REQUIRED
+- question_no: 43
+  core: 蜘蛛眼
+  knowledge_points:
+  - BIO.BRIDGE.317
+  prerequisites:
+  - BIO.BRIDGE.318
+  reasoning: 比较解剖
+  status: REVIEW_REQUIRED
+- question_no: 44
+  core: 辣椒素与痛觉
+  knowledge_points:
+  - BIO.BRIDGE.319
+  prerequisites:
+  - BIO.BRIDGE.320
+  - BIO.CELL.004
+  reasoning: 分子→神经
+  status: REVIEW_REQUIRED
+- question_no: 45
+  core: 体温调节
+  knowledge_points:
+  - BIO.ANIMAL.023
+  prerequisites:
+  - BIO.BIOCHEM.007
+  - BIO.BRIDGE.321
+  - BIO.BRIDGE.322
+  reasoning: 生理适应
+  status: REVIEW_REQUIRED
+- question_no: 46
+  core: 鱼类耐温
+  knowledge_points:
+  - BIO.BRIDGE.323
+  prerequisites:
+  - BIO.BRIDGE.324
+  - BIO.DATA.001
+  reasoning: 数据解释
+  status: REVIEW_REQUIRED
+- question_no: 47
+  core: 糖原代谢实验
+  knowledge_points:
+  - BIO.BRIDGE.325
+  prerequisites:
+  - BIO.BIOCHEM.013
+  - BIO.EXP.001
+  reasoning: 方法选择
+  status: REVIEW_REQUIRED
+- question_no: 48
+  core: 静息膜电位
+  knowledge_points:
+  - BIO.CELL.029
+  prerequisites:
+  - BIO.BRIDGE.326
+  - BIO.CELL.017
+  reasoning: 定量推理
+  status: REVIEW_REQUIRED
+- question_no: 49
+  core: 生态陷阱
+  knowledge_points:
+  - BIO.ECOLOGY.018
+  prerequisites:
+  - BIO.BRIDGE.324
+  - BIO.BRIDGE.327
+  reasoning: 环境→行为
+  status: REVIEW_REQUIRED
+- question_no: 50
+  core: 植物水分适应
+  knowledge_points:
+  - BIO.BRIDGE.328
+  prerequisites:
+  - BIO.PLANT.001
+  reasoning: 结构→环境
+  status: REVIEW_REQUIRED
+- question_no: 51
+  core: C4及植物适应
+  knowledge_points:
+  - BIO.BRIDGE.329
+  prerequisites:
+  - BIO.PLANTPHYS.001
+  reasoning: 适应推理
+  status: REVIEW_REQUIRED
+- question_no: 52
+  core: 动物恐惧行为
+  knowledge_points:
+  - BIO.BRIDGE.330
+  prerequisites:
+  - BIO.BRIDGE.327
+  - BIO.ECOLOGY.012
+  reasoning: 实验/图表
+  status: REVIEW_REQUIRED
+- question_no: 53
+  core: 种群增长
+  knowledge_points:
+  - BIO.ECOLOGY.016
+  prerequisites:
+  - BIO.ECOLOGY.002
+  - BIO.DATA.001
+  reasoning: 模型解释
+  status: REVIEW_REQUIRED
+- question_no: 54
+  core: 蝙蝠---森林生态
+  knowledge_points:
+  - BIO.BRIDGE.331
+  prerequisites:
+  - BIO.ECOLOGY.008
+  - BIO.ECOLOGY.004
+  reasoning: 因果链
+  status: REVIEW_REQUIRED
+- question_no: 55
+  core: lncRNA
+  knowledge_points:
+  - BIO.MOLECULAR.013
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.MOLECULAR.002
+  reasoning: 基因调控
+  status: REVIEW_REQUIRED
+- question_no: 56
+  core: 近亲繁殖
+  knowledge_points:
+  - BIO.GENETICS.016
+  prerequisites:
+  - BIO.EVOLUTION.002
+  - BIO.GENETICS.005
+  reasoning: 群体遗传
+  status: REVIEW_REQUIRED
+- question_no: 57
+  core: 果蝇遗传操作
+  knowledge_points:
+  - BIO.BRIDGE.332
+  prerequisites:
+  - BIO.GENETICS.004
+  - BIO.EVOLUTION.002
+  reasoning: 遗传工程
+  status: REVIEW_REQUIRED
+- question_no: 58
+  core: 多等位基因
+  knowledge_points:
+  - BIO.GENETICS.013
+  prerequisites:
+  - BIO.EVOLUTION.002
+  reasoning: 组合推理
+  status: REVIEW_REQUIRED
+- question_no: 59
+  core: 线粒体遗传
+  knowledge_points:
+  - BIO.GENETICS.014
+  prerequisites:
+  - BIO.CELL.007
+  - BIO.MOLECULAR.001
+  reasoning: 非孟德尔遗传
+  status: REVIEW_REQUIRED
+- question_no: 60
+  core: 细菌基因转移
+  knowledge_points:
+  - BIO.BRIDGE.333
+  prerequisites:
+  - BIO.MICROBE.002
+  - BIO.MOLECULAR.001
+  reasoning: 机制比较
+  status: REVIEW_REQUIRED
+- question_no: 61
+  core: VNTR
+  knowledge_points:
+  - BIO.BRIDGE.334
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.BRIDGE.335
+  reasoning: 模式识别
+  status: REVIEW_REQUIRED
+- question_no: 62
+  core: 遗传因果实验
+  knowledge_points:
+  - BIO.BRIDGE.336
+  prerequisites:
+  - BIO.MOLECULAR.007
+  - BIO.EXP.001
+  reasoning: 因果验证
+  status: REVIEW_REQUIRED
+- question_no: 63
+  core: Western/Southern/qRT-PCR/FISH
+  knowledge_points:
+  - BIO.BRIDGE.337
+  - BIO.BRIDGE.338
+  - BIO.EXP.021
+  - BIO.EXP.022
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.MOLECULAR.002
+  - BIO.BRIDGE.339
+  reasoning: 方法选择
+  status: REVIEW_REQUIRED
+- question_no: 64
+  core: 保守非编码元件
+  knowledge_points:
+  - BIO.BRIDGE.340
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.EVOLUTION.003
+  reasoning: 进化基因组学
+  status: REVIEW_REQUIRED
+- question_no: 65
+  core: 系统发生树
+  knowledge_points:
+  - BIO.BRIDGE.293
+  prerequisites:
+  - BIO.SCIENCE.003
+  - BIO.EVOLUTION.003
+  reasoning: 树图阅读
+  status: REVIEW_REQUIRED
+- question_no: 66
+  core: 中性理论
+  knowledge_points:
+  - BIO.EVOLUTION.017
+  prerequisites:
+  - BIO.BRIDGE.341
+  - BIO.BRIDGE.342
+  reasoning: 进化理论
+  status: REVIEW_REQUIRED
+- question_no: 67
+  core: 协同进化
+  knowledge_points:
+  - BIO.EVOLUTION.014
+  prerequisites:
+  - BIO.EVOLUTION.003
+  reasoning: 互选压力
+  status: REVIEW_REQUIRED
+- question_no: 68
+  core: 不等交换
+  knowledge_points:
+  - BIO.GENETICS.019
+  prerequisites:
+  - BIO.CELL.023
+  - BIO.CELL.024
+  reasoning: 突变→进化
+  status: REVIEW_REQUIRED
+- question_no: 69
+  core: 亲缘选择
+  knowledge_points:
+  - BIO.EVOLUTION.015
+  prerequisites:
+  - BIO.EVOLUTION.003
+  reasoning: 进化推理
+  status: REVIEW_REQUIRED
+- question_no: 70
+  core: 重复DNA
+  knowledge_points:
+  - BIO.BRIDGE.343
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.BRIDGE.344
+  reasoning: 基因组结构
+  status: REVIEW_REQUIRED
+- question_no: 71
+  core: 测序覆盖度
+  knowledge_points:
+  - BIO.BRIDGE.345
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.BRIDGE.346
+  reasoning: 定量生信
+  status: REVIEW_REQUIRED
+- question_no: 72
+  core: GTF注释
+  knowledge_points:
+  - BIO.BRIDGE.347
+  prerequisites:
+  - BIO.MOLECULAR.001
+  - BIO.MOLECULAR.002
+  - BIO.BRIDGE.348
+  reasoning: 基因组注释
+  status: REVIEW_REQUIRED

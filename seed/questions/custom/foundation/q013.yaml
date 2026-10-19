@@ -1,0 +1,30 @@
+source_question_no: 13
+question_type: SINGLE_CHOICE
+stem: 蝙蝠会飞却属于哺乳动物，说明分类应优先依据什么？
+options:
+  A: 是否能飞这一项特征
+  B: 多项稳定特征及亲缘关系
+  C: 生活地点
+  D: 体型大小
+answer:
+- B
+explanation: 同一种生活方式可在不同类群中独立出现，分类需要综合稳定特征和亲缘关系。
+knowledge_points:
+- BIO.SCIENCE.003
+prerequisites: []
+competencies:
+- CLASSIFICATION
+difficulty:
+  learning: 2
+  competition: 2
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 生物分类
+  cognitive_level: 2
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

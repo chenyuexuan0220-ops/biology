@@ -1,0 +1,52 @@
+source_question_no: 28
+question_type: COMPREHENSIVE
+stem: '植物细胞壁作为包裹在原生质体外围的特殊结构，其结构和成分是植物学研究的重点。Lamport 和Epsteirn 提
+
+  出的“经纬模型”是描述初生细胞壁结构的模型之一。请对下面关于该模型的陈述进行正误判断：'
+options:
+  A: 纤维素微纤丝作为“经线”，构成细胞壁的主要骨架
+  B: 半纤维素作为“纬线”，垂直于纤维素微纤丝排列，并通过氢键与之连接
+  C: 果胶填充在纤维素和半纤维素网络中，其状态变化可以影响细胞壁的柔韧性或硬度
+  D: '木质素是初生细胞壁“经纬模型”中的重要组成部分，显著增强细胞壁的弹性
+
+    题干29-30：如右图所示，科学家研究了ER 基因在调控种子大小中的作用。Col-0 是哥伦比亚生态型拟南芥，作
+
+    为野生型对照，er105 是缺失ER 功能的突变体，gER/er105
+
+    是在er105 中转入了ERpro:ER-4myc 载体，在该载体中由
+
+    ER 基因自身启动子驱动ER 与Myc 标签序列的融合基因，
+
+    共获得三个独立转基因株系。'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.PLANT.019
+prerequisites:
+- BIO.PLANT.001
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 结构功能
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 5
+  raw_text: "植物细胞壁作为包裹在原生质体外围的特殊结构，其结构和成分是植物学研究的重点。Lamport 和Epsteirn 提\n出的“经纬模型”是描述初生细胞壁结构的模型之一。请对下面关于该模型的陈述进行正误判断：\n\
+    \ A. 纤维素微纤丝作为“经线”，构成细胞壁的主要骨架\n B. 半纤维素作为“纬线”，垂直于纤维素微纤丝排列，并通过氢键与之连接\n C. 果胶填充在纤维素和半纤维素网络中，其状态变化可以影响细胞壁的柔韧性或硬度\n\
+    \ D. 木质素是初生细胞壁“经纬模型”中的重要组成部分，显著增强细胞壁的弹性\n题干29-30：如右图所示，科学家研究了ER 基因在调控种子大小中的作用。Col-0\
+    \ 是哥伦比亚生态型拟南芥，作\n为野生型对照，er105 是缺失ER 功能的突变体，gER/er105\n是在er105 中转入了ERpro:ER-4myc\
+    \ 载体，在该载体中由\nER 基因自身启动子驱动ER 与Myc 标签序列的融合基因，\n共获得三个独立转基因株系。"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

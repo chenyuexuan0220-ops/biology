@@ -1,0 +1,40 @@
+source_question_no: 1
+question_type: COMPREHENSIVE
+stem: '灭菌是生物技术中的重要环节，不同的灭菌方法适用于不同的场景。对以下关于常见灭菌方法及其应用的陈
+
+  述进行正误判断：'
+options:
+  A: 过滤杀菌法主要适用于对固体培养基进行灭菌
+  B: 电磁波射线杀菌法（如紫外线）可用于实验室操作台表面和空气的杀菌
+  C: 使用化学药剂（如甲醛熏蒸）是空间杀菌的有效方法
+  D: 干热灭菌法因穿透力强，常用于液体的快速灭菌
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.269
+prerequisites:
+- BIO.MICROBE.001
+- BIO.BRIDGE.270
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 方法匹配
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 1
+  raw_text: "灭菌是生物技术中的重要环节，不同的灭菌方法适用于不同的场景。对以下关于常见灭菌方法及其应用的陈\n述进行正误判断：\n A. 过滤杀菌法主要适用于对固体培养基进行灭菌\n\
+    \ B. 电磁波射线杀菌法（如紫外线）可用于实验室操作台表面和空气的杀菌\n C. 使用化学药剂（如甲醛熏蒸）是空间杀菌的有效方法  D. 干热灭菌法因穿透力强，常用于液体的快速灭菌"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

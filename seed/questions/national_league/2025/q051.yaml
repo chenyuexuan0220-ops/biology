@@ -1,0 +1,55 @@
+source_question_no: 51
+question_type: COMPREHENSIVE
+stem: '关于植物A 和B 生理功能与生态适应性的深入分
+
+  析，请对以下陈述进行正误判断:'
+options:
+  A: '植物A 庞大的地下根系主要功能是储存光合作用积
+
+    累的有机物，以应对地上部分可能遭遇的周期性损害（如
+
+    火灾、啃食）'
+  B: '植物B 叶片内部发达的通气组织不仅利于气体交
+
+    换，还能通过提供浮力，帮助叶片在水面或近水面处获
+
+    得更好的光照条件'
+  C: '从能量利用效率角度看，植物A所处的典型环境（可
+
+    能光照强烈）有利于其进化出C4 等高光效光合途径，因
+
+    此其单位叶面积的光合速率通常显著高于植物B'
+  D: '与植物B 相比，植物A 的根系表面积更大，这反映了其在水分胁迫环境下，扩大化水分吸收速率是关键的
+
+    生存策略'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.329
+prerequisites:
+- BIO.PLANTPHYS.001
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 适应推理
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 9
+  raw_text: "关于植物A 和B 生理功能与生态适应性的深入分\n析，请对以下陈述进行正误判断:\nA. 植物A 庞大的地下根系主要功能是储存光合作用积\n\
+    累的有机物，以应对地上部分可能遭遇的周期性损害（如\n火灾、啃食）\n B. 植物B 叶片内部发达的通气组织不仅利于气体交\n换，还能通过提供浮力，帮助叶片在水面或近水面处获\n\
+    得更好的光照条件\n C. 从能量利用效率角度看，植物A所处的典型环境（可\n能光照强烈）有利于其进化出C4 等高光效光合途径，因\n此其单位叶面积的光合速率通常显著高于植物B\n\
+    \ D. 与植物B 相比，植物A 的根系表面积更大，这反映了其在水分胁迫环境下，扩大化水分吸收速率是关键的\n生存策略"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

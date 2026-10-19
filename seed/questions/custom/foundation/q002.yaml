@@ -1,0 +1,30 @@
+source_question_no: 2
+question_type: SINGLE_CHOICE
+stem: 下列关于细胞的描述，哪一项正确？
+options:
+  A: 所有生物都只有一个细胞
+  B: 细胞是多数生物结构和功能的基本单位
+  C: 只有动物具有细胞
+  D: 细胞内部没有结构分工
+answer:
+- B
+explanation: 除病毒等非细胞生命形式外，细胞是生物结构和功能的基本单位。
+knowledge_points:
+- BIO.CELL.001
+prerequisites: []
+competencies:
+- KNOWLEDGE_UNDERSTANDING
+difficulty:
+  learning: 1
+  competition: 1
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 细胞概念
+  cognitive_level: 1
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

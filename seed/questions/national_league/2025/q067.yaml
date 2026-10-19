@@ -1,0 +1,44 @@
+source_question_no: 67
+question_type: COMPREHENSIVE
+stem: '协同进化是指两个或多个相互作用的物种，因彼此施加的选择压力而导致相互适应性演化的过程。对以下关
+
+  于演化场景是否属于协同进化的陈述进行正误判断：'
+options:
+  A: '羚羊奔跑速度的提高对其捕食者（如猎豹）施加选择压力，可能促使猎豹也演化出更快的速度，反之亦然，
+
+    这体现了协同进化'
+  B: 某长距兰花与其唯一的传粉天蛾之间，兰花花距的增长和天蛾喙的相应变长是典型的协同进化关系
+  C: 某群岛上不同岛屿的几种地雀，因食物资源不同演化出不同形态的喙，这是它们之间协同进化的结果
+  D: "北极熊演化出厚厚的脂肪层和白色皮毛以适应寒冷和冰雪环境，这是它与环境协同进化的范例\n\n                              \
+    \                      11"
+answer: null
+explanation: null
+knowledge_points:
+- BIO.EVOLUTION.014
+prerequisites:
+- BIO.EVOLUTION.003
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 互选压力
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 11
+  raw_text: "协同进化是指两个或多个相互作用的物种，因彼此施加的选择压力而导致相互适应性演化的过程。对以下关\n于演化场景是否属于协同进化的陈述进行正误判断：\n\
+    \ A. 羚羊奔跑速度的提高对其捕食者（如猎豹）施加选择压力，可能促使猎豹也演化出更快的速度，反之亦然，\n这体现了协同进化\n B. 某长距兰花与其唯一的传粉天蛾之间，兰花花距的增长和天蛾喙的相应变长是典型的协同进化关系\n\
+    \ C. 某群岛上不同岛屿的几种地雀，因食物资源不同演化出不同形态的喙，这是它们之间协同进化的结果\n D. 北极熊演化出厚厚的脂肪层和白色皮毛以适应寒冷和冰雪环境，这是它与环境协同进化的范例\n\
+    \n                                                    11"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

@@ -1,0 +1,30 @@
+source_question_no: 9
+question_type: SINGLE_CHOICE
+stem: 两位同学观察同一批叶片得出不同的平均长度。首先应核查什么？
+options:
+  A: 谁的成绩更好
+  B: 测量位置、单位与取样方式是否一致
+  C: 叶片是否认识观察者
+  D: 只保留较大的结果
+answer:
+- B
+explanation: 测量定义、单位和取样规则会影响结果，应先核对方法，再评估真实差异。
+knowledge_points:
+- BIO.SCIENCE.002
+prerequisites: []
+competencies:
+- OBSERVATION
+difficulty:
+  learning: 2
+  competition: 2
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 生物学观察
+  cognitive_level: 2
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

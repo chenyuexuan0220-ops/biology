@@ -1,0 +1,44 @@
+source_question_no: 6
+question_type: COMPREHENSIVE
+stem: '碳酸氢盐缓冲系统 (CO2 + H2O <=> H2CO3 <=> H+ + HCO3–) 是维持血液pH 稳定的关键机制，其中碳酸酐酶
+
+  催化第一步反应。在一个模拟血液缓冲环境的体外实验体系中，对以下关于改变条件对该系统pH 影响的陈述进
+
+  行正误判断：'
+options:
+  A: 提高体系中溶解的CO2 浓度，将导致碳酸浓度增加，进而使氢离子浓度升高
+  B: 加入碳酸酐酶抑制剂会显著改变该缓冲体系的最终平衡pH 值
+  C: 降低体系中溶解的CO2全浓度，将导致碳酸氢根离子浓度显著下降，从而使pH 降低
+  D: 降低体系中溶解的CO2 浓度，将导致反应平衡向左移动，氢离子浓度降低，pH 升高
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.275
+prerequisites:
+- BIO.BRIDGE.276
+- BIO.BIOCHEM.010
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: D
+reasoning_patterns:
+- 机制推理
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 1
+  raw_text: "碳酸氢盐缓冲系统 (CO2 + H2O <=> H2CO3 <=> H+ + HCO3–) 是维持血液pH 稳定的关键机制，其中碳酸酐酶\n\
+    催化第一步反应。在一个模拟血液缓冲环境的体外实验体系中，对以下关于改变条件对该系统pH 影响的陈述进\n行正误判断：\n A. 提高体系中溶解的CO2 浓度，将导致碳酸浓度增加，进而使氢离子浓度升高\n\
+    \ B. 加入碳酸酐酶抑制剂会显著改变该缓冲体系的最终平衡pH 值 C. 降低体系中溶解的CO2全浓度，将导致碳酸氢根离子浓度显著下降，从而使pH 降低\n\
+    \ D. 降低体系中溶解的CO2 浓度，将导致反应平衡向左移动，氢离子浓度降低，pH 升高"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: 暂缓

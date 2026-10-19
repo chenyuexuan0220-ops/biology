@@ -1,0 +1,30 @@
+source_question_no: 16
+question_type: SINGLE_CHOICE
+stem: 升温能加快某酶促反应，但温度过高后速率降低，合理解释是什么？
+options:
+  A: 酶不再属于蛋白质
+  B: 温度不会影响结构
+  C: 高温可能破坏维持酶活性的空间结构
+  D: 反应物必然全部消失
+answer:
+- C
+explanation: 适度升温可增加分子运动；过高温度可能导致酶变性，降低催化能力。
+knowledge_points:
+- BIO.BIOCHEM.004
+prerequisites: []
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  learning: 2
+  competition: 2
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 蛋白质
+  cognitive_level: 2
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

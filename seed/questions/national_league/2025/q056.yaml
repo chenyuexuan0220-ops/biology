@@ -1,0 +1,41 @@
+source_question_no: 56
+question_type: COMPREHENSIVE
+stem: 对以下关于种群近亲繁殖结果的陈述进行正误判断：
+options:
+  A: 近亲繁殖通常会导致种群的遗传多样性增加，尤其是在存在外部基因引入的情况下
+  B: 近亲繁殖主要导致种群中纯合基因型的频率降低，而杂合基因型的频率增加
+  C: '近亲繁殖倾向于降低种群的杂合基因型频率，但这种效应在长期内可能被突变或基因流等其他进化力量所
+
+    抵消'
+  D: 近亲繁殖可能导致隐性有害等位基因对应的表型在种群中出现的频率增加
+answer: null
+explanation: null
+knowledge_points:
+- BIO.GENETICS.016
+prerequisites:
+- BIO.EVOLUTION.002
+- BIO.GENETICS.005
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 群体遗传
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 10
+  raw_text: "对以下关于种群近亲繁殖结果的陈述进行正误判断：\n A. 近亲繁殖通常会导致种群的遗传多样性增加，尤其是在存在外部基因引入的情况下\n B.\
+    \ 近亲繁殖主要导致种群中纯合基因型的频率降低，而杂合基因型的频率增加\n C. 近亲繁殖倾向于降低种群的杂合基因型频率，但这种效应在长期内可能被突变或基因流等其他进化力量所\n\
+    抵消\n D. 近亲繁殖可能导致隐性有害等位基因对应的表型在种群中出现的频率增加"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

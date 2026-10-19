@@ -1,0 +1,42 @@
+source_question_no: 8
+question_type: COMPREHENSIVE
+stem: '氨基酸在分解代谢过程中，其碳骨架可以转化为葡萄糖或其前体（生糖作用），或者转化为乙酰CoA 或乙酰乙
+
+  酸（生酮作用）。有些氨基酸则两者兼具。对以下关于特定氨基酸代谢去向分类的陈述进行正误判断：'
+options:
+  A: 异亮氨酸(Ile)既是生糖氨基酸也是生酮氨基酸
+  B: 亮氨酸(Leu)既是生糖氨基酸也是生酮氨基酸
+  C: 甲硫氨酸(Met)既是生糖氨基酸也是生酮氨基酸
+  D: 色氨酸(Trp)既是生糖氨基酸也是生酮氨基酸
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.278
+- BIO.BIOCHEM.020
+prerequisites:
+- BIO.BIOCHEM.004
+- BIO.BIOCHEM.013
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: D
+reasoning_patterns:
+- 代谢分类
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 1
+  raw_text: "氨基酸在分解代谢过程中，其碳骨架可以转化为葡萄糖或其前体（生糖作用），或者转化为乙酰CoA 或乙酰乙\n酸（生酮作用）。有些氨基酸则两者兼具。对以下关于特定氨基酸代谢去向分类的陈述进行正误判断：\n\
+    \ A. 异亮氨酸(Ile)既是生糖氨基酸也是生酮氨基酸         B. 亮氨酸(Leu)既是生糖氨基酸也是生酮氨基酸\n C. 甲硫氨酸(Met)既是生糖氨基酸也是生酮氨基酸\
+    \        D. 色氨酸(Trp)既是生糖氨基酸也是生酮氨基酸"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: 暂缓

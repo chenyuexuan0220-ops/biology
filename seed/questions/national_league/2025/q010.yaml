@@ -1,0 +1,41 @@
+source_question_no: 10
+question_type: COMPREHENSIVE
+stem: 对以下关于细胞中的信号分子的描述进行正误判断：
+options:
+  A: 第二信使不包含蛋白质，其通过胞内浓度变化来应答胞外信号，参与调控信号转导过程
+  B: 蛋白激酶和磷酸酶介导的蛋白质磷酸化和去磷酸化是细胞信号转导的一种“分子开关”机制
+  C: '在缺氧条件下，亲水性信号分子可通过特异性通道蛋白如水孔变体直接进入细胞，并优先激活细胞内信号通
+
+    路，而不依赖传统的受体–效应器级联'
+  D: 气体类信号分子可以通过自由扩散进入细胞
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.279
+prerequisites:
+- BIO.CELL.004
+- BIO.CELL.019
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 机制链
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 2
+  raw_text: "对以下关于细胞中的信号分子的描述进行正误判断：\n A. 第二信使不包含蛋白质，其通过胞内浓度变化来应答胞外信号，参与调控信号转导过程\n\
+    \ B. 蛋白激酶和磷酸酶介导的蛋白质磷酸化和去磷酸化是细胞信号转导的一种“分子开关”机制\n C. 在缺氧条件下，亲水性信号分子可通过特异性通道蛋白如水孔变体直接进入细胞，并优先激活细胞内信号通\n\
+    路，而不依赖传统的受体–效应器级联\n D. 气体类信号分子可以通过自由扩散进入细胞"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

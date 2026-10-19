@@ -1,0 +1,46 @@
+source_question_no: 59
+question_type: COMPREHENSIVE
+stem: 对以下关于人体细胞中线粒体的结构、遗传及功能的陈述进行正误判断：
+options:
+  A: '线粒体的生物合成和功能维持在很大程度上依赖于核基因编码的蛋白质，这些蛋白质在细胞质中合成后被
+
+    转运至线粒体内'
+  B: '由于线粒体DNA 遵循严格的母系遗传模式，携带致病性线粒体DNA 突变的父亲将其传递给后代的概率很
+
+    低'
+  C: 细胞内同时存在野生型和突变型线粒体DNA 是导致线粒体疾病在家族成员中表现度差异的重要原因
+  D: '线粒体病主要影响肌肉和神经组织，因为线粒体在细胞中的功能是单一的，即专门通过氧化磷酸化途径产生
+
+    ATP，为细胞提供能量'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.GENETICS.014
+prerequisites:
+- BIO.CELL.007
+- BIO.MOLECULAR.001
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 非孟德尔遗传
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 10
+  raw_text: "对以下关于人体细胞中线粒体的结构、遗传及功能的陈述进行正误判断：\n A. 线粒体的生物合成和功能维持在很大程度上依赖于核基因编码的蛋白质，这些蛋白质在细胞质中合成后被\n\
+    转运至线粒体内\n B. 由于线粒体DNA 遵循严格的母系遗传模式，携带致病性线粒体DNA 突变的父亲将其传递给后代的概率很\n低\n C. 细胞内同时存在野生型和突变型线粒体DNA\
+    \ 是导致线粒体疾病在家族成员中表现度差异的重要原因\n D. 线粒体病主要影响肌肉和神经组织，因为线粒体在细胞中的功能是单一的，即专门通过氧化磷酸化途径产生\n\
+    ATP，为细胞提供能量"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

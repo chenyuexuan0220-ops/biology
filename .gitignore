@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.db
+.env
+node_modules/
+.next/
+.next-*/
+tmp/
+*.egg-info/
+test-results/
+playwright-report/
+output/
+.playwright-cli/
+*.tsbuildinfo
+seed/sources/*.pdf

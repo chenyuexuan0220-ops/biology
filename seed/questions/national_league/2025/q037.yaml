@@ -1,0 +1,47 @@
+source_question_no: 37
+question_type: COMPREHENSIVE
+stem: 对以下关于不同动物类群神经系统结构比较及其系统发育意义的陈述进行正误判断：
+options:
+  A: '弥散的神经网是刺胞动物等辐射对称动物神经系统的基本特征，而两侧对称动物则普遍演化出集中的中枢
+
+    神经系统及不同程度的头化现象'
+  B: '两侧对称动物中，所有原口动物均具有位于腹侧的、由神经节连接成的实心梯状或链状神经索，而后口动
+
+    物中的脊索动物则演化出位于背侧的中空神经管'
+  C: '脊椎动物脑的演化显示出复杂化的趋势，例如大脑皮层的分区和褶皱化在哺乳动物中尤为显著，形成了高
+
+    度发达的新皮层，这与其复杂的行为和认知能力密切相关'
+  D: '比较不同动物类群的神经系统结构（如神经元类型、神经节排列、脑区同源性）是理解动物演化历程和系
+
+    统发育关系的重要途径之一'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.307
+prerequisites:
+- BIO.BRIDGE.308
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 比较进化
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 6
+  raw_text: "对以下关于不同动物类群神经系统结构比较及其系统发育意义的陈述进行正误判断：\n A. 弥散的神经网是刺胞动物等辐射对称动物神经系统的基本特征，而两侧对称动物则普遍演化出集中的中枢\n\
+    神经系统及不同程度的头化现象\n B. 两侧对称动物中，所有原口动物均具有位于腹侧的、由神经节连接成的实心梯状或链状神经索，而后口动\n物中的脊索动物则演化出位于背侧的中空神经管\n\
+    \ C. 脊椎动物脑的演化显示出复杂化的趋势，例如大脑皮层的分区和褶皱化在哺乳动物中尤为显著，形成了高\n度发达的新皮层，这与其复杂的行为和认知能力密切相关\n\
+    \ D. 比较不同动物类群的神经系统结构（如神经元类型、神经节排列、脑区同源性）是理解动物演化历程和系\n统发育关系的重要途径之一"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

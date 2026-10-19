@@ -1,0 +1,49 @@
+source_question_no: 21
+question_type: COMPREHENSIVE
+stem: '右图展示了基于不同数据构建的两种被子植物主要谱
+
+  系的系统发生树（A: APG 系统；B: 基于基因组数据）。对
+
+  以下关于这些谱系系统关系的陈述进行正误判断：'
+options:
+  A: '单子叶植物在两棵树上的系统位置不同，说明其与被子
+
+    植物其它主要谱系的关系在不同数据分析下可能存在不确
+
+    定性'
+  B: 真双子叶植物与金鱼藻目在两树上均为姐妹类群
+  C: 木兰类与金粟兰目在两树上也是姐妹类群
+  D: '金粟兰目在两树上的位置不同，说明其系统位置存在不
+
+    确定性'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.293
+prerequisites:
+- BIO.SCIENCE.003
+- BIO.EVOLUTION.003
+competencies:
+- DATA_INTERPRETATION
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 树图解释
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 4
+  raw_text: "右图展示了基于不同数据构建的两种被子植物主要谱\n系的系统发生树（A: APG 系统；B: 基于基因组数据）。对\n以下关于这些谱系系统关系的陈述进行正误判断：\n\
+    \ A. 单子叶植物在两棵树上的系统位置不同，说明其与被子\n植物其它主要谱系的关系在不同数据分析下可能存在不确\n定性\n B. 真双子叶植物与金鱼藻目在两树上均为姐妹类群\n\
+    \ C. 木兰类与金粟兰目在两树上也是姐妹类群\n D. 金粟兰目在两树上的位置不同，说明其系统位置存在不\n确定性"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

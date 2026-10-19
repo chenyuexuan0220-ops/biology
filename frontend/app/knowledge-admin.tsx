@@ -1,0 +1,25 @@
+'use client';
+
+import { useMemo, useState } from 'react';
+import { ArrowRight, GitBranch, Plus, Search } from 'lucide-react';
+import { useQuery } from '@tanstack/react-query';
+import { api, type Knowledge } from '@/lib/api';
+
+type Edge = { id: string; source_knowledge_id: string; target_knowledge_id: string; relation_type: string; weight: number };
+type Run = (work: () => Promise<void>) => Promise<void>;
+const relationNames: Record<string, string> = { PREREQUISITE_OF: '前置关系', PART_OF: '组成关系', RELATED_TO: '相关关系', EXTENDS: '扩展关系', CONTRASTS_WITH: '对比关系', APPLIED_BY: '应用关系', TESTED_BY: '检测关系', REQUIRES_SKILL: '能力要求' };
+
+export default function KnowledgeAdmin({ token, run, refresh }: { token: string; run: Run; refresh: () => Promise<void> }) {
+  const nodes = useQuery({ queryKey: ['admin-knowledge', token], queryFn: () => api<Knowledge[]>('/knowledge', token) });
+  const edges = useQuery({ queryKey: ['admin-edges', token], queryFn: () => api<Edge[]>('/knowledge-edges', token) });
+  const [search, setSearch] = useState(''); const [selected, setSelected] = useState<Knowledge | null>(null);
+  const [showCreate, setShowCreate] = useState(false); const [source, setSource] = useState(''); const [target, setTarget] = useState(''); const [relation, setRelation] = useState('PREREQUISITE_OF');
+  const shown = useMemo(() => { const needle = search.trim().toLowerCase(); return (nodes.data || []).filter(node => !needle || `${node.code} ${node.name}`.toLowerCase().includes(needle)); }, [nodes.data, search]);
+  const related = selected ? (edges.data || []).filter(edge => edge.source_knowledge_id === selected.id || edge.target_knowledge_id === selected.id) : [];
+  async function createEdge(event: React.FormEvent<HTMLFormElement>) { event.preventDefault(); await run(async () => { await api('/admin/knowledge-edges', token, 'POST', { source_knowledge_id: source, target_knowledge_id: target, relation_type: relation, weight: 1 }); setShowCreate(false); setSource(''); setTarget(''); await refresh(); }); }
+  return <><div className="knowledge-admin-heading"><div><span className="eyebrow">KNOWLEDGE GRAPH</span><h2>知识图谱与前置关系</h2><p>新增关系会经过服务端 DAG 校验；课程引用的图谱前置关系必须完整保留。</p></div><button className="primary" onClick={() => setShowCreate(!showCreate)}><Plus size={16} />新增关系</button></div>
+    {showCreate && <form className="panel knowledge-edge-form" onSubmit={createEdge}><label>前置知识<select value={source} onChange={event => setSource(event.target.value)} required><option value="">请选择源节点</option>{nodes.data?.map(node => <option key={node.id} value={node.id}>{node.code} · {node.name}</option>)}</select></label><ArrowRight className="edge-arrow" size={18} /><label>目标知识<select value={target} onChange={event => setTarget(event.target.value)} required><option value="">请选择目标节点</option>{nodes.data?.map(node => <option key={node.id} value={node.id}>{node.code} · {node.name}</option>)}</select></label><label>关系类型<select value={relation} onChange={event => setRelation(event.target.value)}>{Object.entries(relationNames).map(([key, name]) => <option key={key} value={key}>{name}</option>)}</select></label><button className="secondary" type="submit">保存并校验</button></form>}
+    <div className="knowledge-admin-layout"><section className="panel knowledge-admin-list"><div className="knowledge-admin-search"><Search size={15} /><input aria-label="搜索知识点" value={search} onChange={event => setSearch(event.target.value)} placeholder="搜索编码或名称" /></div><small className="muted">已发布知识点 {shown.length} / {nodes.data?.length || 0}</small>{shown.map(node => <button key={node.id} className={selected?.id === node.id ? 'selected' : ''} onClick={() => setSelected(node)}><span>{node.code}</span><strong>{node.name}</strong><small>层级 L{node.level}</small></button>)}</section>
+      <section className="panel knowledge-admin-detail">{selected ? <><div className="section-heading"><div><span className="eyebrow">SELECTED NODE</span><h2>{selected.name}</h2><p className="muted">{selected.code} · {selected.description}</p></div><GitBranch size={24} /></div><div className="knowledge-relation-summary"><span>关联关系 {related.length}</span><span>前置 {related.filter(edge => edge.target_knowledge_id === selected.id && edge.relation_type === 'PREREQUISITE_OF').length}</span><span>后续 {related.filter(edge => edge.source_knowledge_id === selected.id && edge.relation_type === 'PREREQUISITE_OF').length}</span></div><div className="knowledge-edge-list">{related.length ? related.map(edge => { const other = nodes.data?.find(node => node.id === (edge.source_knowledge_id === selected.id ? edge.target_knowledge_id : edge.source_knowledge_id)); return <div key={edge.id}><span className="badge">{relationNames[edge.relation_type] || edge.relation_type}</span><strong>{edge.source_knowledge_id === selected.id ? '→' : '←'} {other?.name || '未知节点'}</strong><small>{other?.code}</small></div>; }) : <p className="inline-empty">这个知识点还没有关系记录。</p>}</div></> : <div className="empty-state"><GitBranch size={34} /><h2>选择一个知识点</h2><p>查看它的前置、后续和相关关系。</p></div>}</section></div>
+  </>;
+}

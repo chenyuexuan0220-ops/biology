@@ -1,0 +1,30 @@
+source_question_no: 5
+question_type: SINGLE_CHOICE
+stem: 把叶片按叶缘分为全缘和锯齿状，分类时最应坚持什么？
+options:
+  A: 每片叶子采用不同标准
+  B: 按采集者喜好分类
+  C: 使用相同且明确的分类标准
+  D: 先按颜色再随意按大小
+answer:
+- C
+explanation: 分类需要一致而明确的标准，这样不同观察者才能复核结果。
+knowledge_points:
+- BIO.SCIENCE.003
+prerequisites: []
+competencies:
+- CLASSIFICATION
+difficulty:
+  learning: 1
+  competition: 1
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 生物分类
+  cognitive_level: 1
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

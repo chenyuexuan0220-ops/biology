@@ -1,0 +1,43 @@
+source_question_no: 13
+question_type: COMPREHENSIVE
+stem: 对以下陈述进行正误判断： 国
+options:
+  A: CHX 处理允许直接测量内源SPR1 蛋白的降解速率，而与合成无关
+  B: MG132 处理导致 SPR1 显著积累，表明蛋白酶体降解是 SPR1 转换的唯一途径
+  C: '通过比较 CHX 单独处理与 CHX+MG132 联合处理的结果，可以推断蛋白酶体途径是 SPR1 蛋白降解的
+
+    重要机制'
+  D: '对照组中检测到的 SPR1 蛋白水平，反映了在稳态条件下其合成速率与总降解速率达到动态平衡时的蛋白
+
+    浓度'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.CELL.027
+prerequisites:
+- BIO.BIOCHEM.004
+- BIO.BRIDGE.284
+competencies:
+- EXPERIMENTAL_DESIGN
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: C
+reasoning_patterns:
+- 实验比较
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 2
+  raw_text: "对以下陈述进行正误判断： 国 A. CHX 处理允许直接测量内源SPR1 蛋白的降解速率，而与合成无关\n B. MG132 处理导致 SPR1\
+    \ 显著积累，表明蛋白酶体降解是 SPR1 转换的唯一途径\n C. 通过比较 CHX 单独处理与 CHX+MG132 联合处理的结果，可以推断蛋白酶体途径是\
+    \ SPR1 蛋白降解的\n重要机制\n D. 对照组中检测到的 SPR1 蛋白水平，反映了在稳态条件下其合成速率与总降解速率达到动态平衡时的蛋白\n浓度"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M1

@@ -1,0 +1,44 @@
+source_question_no: 35
+question_type: COMPREHENSIVE
+stem: '噬菌体是侵染细菌、真菌等微生物的病毒，在环境中广泛存在。对大
+
+  肠杆菌具有特异性侵染能力的噬菌体DY1 属于短尾噬菌体科，其侵染能
+
+  力可以用噬菌体滴度表示（PFU/mL）。右图为该噬菌体的生长曲线。根 国据题干和图示信息，对以下陈述进行正误判断：'
+options:
+  A: 噬菌体DY1 通过二分裂的方式进行繁殖
+  B: 噬菌体DY1 的生长曲线为一步生长曲线
+  C: 该噬菌体为溶原性噬菌体
+  D: 潜伏期大约为20 分钟
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.305
+prerequisites:
+- BIO.MICROBE.003
+- BIO.MICROBE.002
+- BIO.DATA.001
+competencies:
+- DATA_INTERPRETATION
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 曲线解释
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 6
+  raw_text: "噬菌体是侵染细菌、真菌等微生物的病毒，在环境中广泛存在。对大\n肠杆菌具有特异性侵染能力的噬菌体DY1 属于短尾噬菌体科，其侵染能\n力可以用噬菌体滴度表示（PFU/mL）。右图为该噬菌体的生长曲线。根\
+    \ 国据题干和图示信息，对以下陈述进行正误判断：\n A. 噬菌体DY1 通过二分裂的方式进行繁殖\n B. 噬菌体DY1 的生长曲线为一步生长曲线\n C.\
+    \ 该噬菌体为溶原性噬菌体              D. 潜伏期大约为20 分钟"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

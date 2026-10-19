@@ -1,0 +1,47 @@
+source_question_no: 48
+question_type: COMPREHENSIVE
+stem: "对以下关于哺乳类动物细胞静息膜电位的计算的陈述进行正误判断：\n         离子  细胞内浓度 (mM) 细胞外浓度 (mM)  静息膜通透性\
+  \                  K+全140                 4             100%\n                 \
+  \ Na+            15                145            5%\n                         Cl-\
+  \            4                 110            10%\n                    Ca2+    \
+  \      0.0001                5                 0"
+options:
+  A: 钾离子（K+）对静息膜电位的贡献最大，因为它的通透性最高
+  B: 钠离子（Na+）的细胞外浓度远高于细胞内浓度，但其对静息膜电位的贡献较小，因为它的通透性较低
+  C: 根据给定的离子浓度和通透性，计算得到的静息膜电位约为 -90 mV
+  D: 钙离子（Ca2+）对静息膜电位没有贡献，因为它的通透性为零
+answer: null
+explanation: null
+knowledge_points:
+- BIO.CELL.029
+prerequisites:
+- BIO.BRIDGE.326
+- BIO.CELL.017
+competencies:
+- QUANTITATIVE_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: C
+reasoning_patterns:
+- 定量推理
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 8
+  raw_text: "对以下关于哺乳类动物细胞静息膜电位的计算的陈述进行正误判断：\n         离子  细胞内浓度 (mM) 细胞外浓度 (mM)  静息膜通透性\
+    \                  K+全140                 4             100%\n               \
+    \   Na+            15                145            5%\n                     \
+    \    Cl-            4                 110            10%\n                   \
+    \ Ca2+          0.0001                5                 0\n A. 钾离子（K+）对静息膜电位的贡献最大，因为它的通透性最高\n\
+    \ B. 钠离子（Na+）的细胞外浓度远高于细胞内浓度，但其对静息膜电位的贡献较小，因为它的通透性较低\n C. 根据给定的离子浓度和通透性，计算得到的静息膜电位约为\
+    \ -90 mV\n D. 钙离子（Ca2+）对静息膜电位没有贡献，因为它的通透性为零"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M1

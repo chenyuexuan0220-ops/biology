@@ -1,0 +1,30 @@
+source_question_no: 11
+question_type: SINGLE_CHOICE
+stem: 某班发现浇水多的植物长得高，但这批植物也获得了更多光照。能否据此证明浇水导致长高？
+options:
+  A: 能，因为二者相关
+  B: 能，只要样本是植物
+  C: 不能，光照可能是混杂因素
+  D: 不能，因为植物不需要水
+answer:
+- C
+explanation: 水量与光照同时变化，不能区分二者作用；需要控制光照等条件。
+knowledge_points:
+- BIO.SCIENCE.005
+prerequisites: []
+competencies:
+- CAUSAL_REASONING
+difficulty:
+  learning: 2
+  competition: 2
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 假设
+  cognitive_level: 2
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

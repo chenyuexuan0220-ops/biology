@@ -1,0 +1,50 @@
+source_question_no: 19
+question_type: COMPREHENSIVE
+stem: '华北落叶松的学名被确定为 Larix gmelinii var. principis-rupprechtii (Mayr) Pilger。对以下关于该学名构成及相
+
+  关国际植物命名法规的陈述进行正误判断：'
+options:
+  A: '按照命名规则，变种加词 ''principis-rupprechtii'' 在物种 Larix gmelinii 内必须是唯一的，但该加词允许与同
+
+    属或其他属中某个物种的种加词完全相同'
+  B: '变种加词 ''principis-rupprechtii'' 是构成此完整变种学名的三个主要组成部分之一，并且其分类学等级等同于
+
+    种加词 ''gmelinii''全'
+  C: '若未来研究将此变种提升至物种等级，命名法规允许在满足优先权等条件下，将原变种加词  ''principis-
+
+    rupprechtii'' 作为新物种的种加词使用'
+  D: '学名中原命名人Mayr 姓氏外的括号表明，Pilger 对Mayr 最初描述的分类单元的分类地位或名称组合进行
+
+    了修订'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.290
+prerequisites:
+- BIO.SCIENCE.003
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: D
+reasoning_patterns:
+- 分类规则
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 3
+  raw_text: "华北落叶松的学名被确定为 Larix gmelinii var. principis-rupprechtii (Mayr) Pilger。对以下关于该学名构成及相\n\
+    关国际植物命名法规的陈述进行正误判断：\n A. 按照命名规则，变种加词 'principis-rupprechtii' 在物种 Larix gmelinii\
+    \ 内必须是唯一的，但该加词允许与同\n属或其他属中某个物种的种加词完全相同\n B. 变种加词 'principis-rupprechtii' 是构成此完整变种学名的三个主要组成部分之一，并且其分类学等级等同于\n\
+    种加词 'gmelinii'全\n C. 若未来研究将此变种提升至物种等级，命名法规允许在满足优先权等条件下，将原变种加词  'principis-\nrupprechtii'\
+    \ 作为新物种的种加词使用\n D. 学名中原命名人Mayr 姓氏外的括号表明，Pilger 对Mayr 最初描述的分类单元的分类地位或名称组合进行\n了修订"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: 暂缓

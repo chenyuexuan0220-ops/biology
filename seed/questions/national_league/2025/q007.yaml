@@ -1,0 +1,48 @@
+source_question_no: 7
+question_type: COMPREHENSIVE
+stem: 'mRNA 疫苗递送常使用脂质纳米颗粒（LNP），其通常包含可电离阳离子脂质、胆固醇、辅助磷脂和聚乙二醇
+
+  （PEG）修饰脂质。LNP 能保护mRNA，促进其进入细胞，并且其pH 敏感特性对于mRNA 从被细胞吞入形成
+
+  的囊泡中释放到细胞质内这一关键步骤至关重要。对以下关于LNP 结构与功能的陈述进行正误判断：'
+options:
+  A: LNP 中的可电离阳离子脂质在生理血液pH（约7.4）条件下带有显著正电荷，用于结合mRNA
+  B: PEG 修饰的脂质分布在LNP 表面，形成亲水层，有助于延长LNP 在血液中的循环时间
+  C: LNP 进入细胞后，主要依靠胆固醇组分直接破坏内体膜结构，从而释放mRNA 至细胞质
+  D: '若将LNP 中的辅助磷脂替换为分子链更饱和、刚性更强的脂质，可能会因降低膜的柔韧性而影响mRNA 递
+
+    送效率'
+answer: null
+explanation: null
+knowledge_points:
+- BIO.MOLECULAR.024
+- BIO.BRIDGE.277
+prerequisites:
+- BIO.CELL.004
+- BIO.MOLECULAR.002
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 递送机制
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 1
+  raw_text: "mRNA 疫苗递送常使用脂质纳米颗粒（LNP），其通常包含可电离阳离子脂质、胆固醇、辅助磷脂和聚乙二醇\n（PEG）修饰脂质。LNP 能保护mRNA，促进其进入细胞，并且其pH\
+    \ 敏感特性对于mRNA 从被细胞吞入形成\n的囊泡中释放到细胞质内这一关键步骤至关重要。对以下关于LNP 结构与功能的陈述进行正误判断：\n A. LNP\
+    \ 中的可电离阳离子脂质在生理血液pH（约7.4）条件下带有显著正电荷，用于结合mRNA\n B. PEG 修饰的脂质分布在LNP 表面，形成亲水层，有助于延长LNP\
+    \ 在血液中的循环时间\n C. LNP 进入细胞后，主要依靠胆固醇组分直接破坏内体膜结构，从而释放mRNA 至细胞质\n D. 若将LNP 中的辅助磷脂替换为分子链更饱和、刚性更强的脂质，可能会因降低膜的柔韧性而影响mRNA\
+    \ 递\n送效率"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2

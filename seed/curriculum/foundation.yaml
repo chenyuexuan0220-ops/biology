@@ -1,0 +1,446 @@
+code: foundation_template_v1
+title: 生物学核心知识与竞赛桥接模板
+template_weeks: 48
+units:
+- sequence: 1
+  title: 科学观察
+  content: '-   D1：生命现象与生物学观察；记录10条直接事实。
+
+    -   D2：分类标准；将10种对象按两种标准分类。
+
+    -   D3：叶片观察；记录形状、颜色、叶脉、边缘、厚度。
+
+    -   D4：事实/解释判断题10题。
+
+    -   D5：10题+观察题；知识≥85%、观察≥80%。'
+  knowledge_points:
+  - BIO.SCIENCE.001
+  - BIO.SCIENCE.002
+  - BIO.PLANT.005
+  - BIO.EXP.010
+- sequence: 2
+  title: 假设与证据
+  content: '-   D1：假设与问题。
+
+    -   D2：证据与结论。
+
+    -   D3：观察"光照与植物生长"。
+
+    -   D4：判断结论是否被数据支持。
+
+    -   D5：周测；能提出可检验假设。'
+  knowledge_points:
+  - BIO.SCIENCE.005
+  - BIO.SCIENCE.014
+  - BIO.SCIENCE.015
+  - BIO.EXP.010
+  - BIO.BRIDGE.303
+  - BIO.BRIDGE.304
+- sequence: 3
+  title: 实验变量
+  content: '-   D1：自变量/因变量。
+
+    -   D2：控制变量/对照组。
+
+    -   D3：设计豆苗光照实验。
+
+    -   D4：寻找实验设计错误。
+
+    -   D5：周测；变量识别≥90%。'
+  knowledge_points:
+  - BIO.SCIENCE.006
+  - BIO.SCIENCE.007
+  - BIO.SCIENCE.008
+  - BIO.SCIENCE.009
+  - BIO.SCIENCE.010
+  - BIO.EXP.003
+  - BIO.EXP.004
+  - BIO.EXP.005
+  - BIO.EXP.006
+  - BIO.BRIDGE.303
+- sequence: 4
+  title: 图表基础
+  content: '-   D1：表格。
+
+    -   D2：坐标轴与单位。
+
+    -   D3：折线图。
+
+    -   D4：趋势与组间比较。
+
+    -   D5：月测；≥80%。'
+  knowledge_points:
+  - BIO.SCIENCE.004
+  - BIO.SCIENCE.017
+  - BIO.SCIENCE.018
+  - BIO.SCIENCE.019
+  - BIO.SCIENCE.020
+  - BIO.DATA.002
+  - BIO.DATA.003
+  - BIO.DATA.006
+  - BIO.DATA.015
+- sequence: 5
+  title: 细胞是什么
+  content: D1细胞概念；D2动物/植物细胞；D3显微观察；D4结构识别；D5测验。关联Q9、Q16。
+  knowledge_points:
+  - BIO.CELL.001
+  - BIO.CELL.003
+  - BIO.PLANT.001
+  - BIO.EXP.010
+- sequence: 6
+  title: 细胞器
+  content: D1细胞核；D2线粒体/叶绿体；D3画结构图；D4结构功能匹配；D5测验。
+  knowledge_points:
+  - BIO.CELL.006
+  - BIO.CELL.007
+  - BIO.CELL.008
+  - BIO.PLANT.005
+- sequence: 7
+  title: 细胞膜
+  content: D1膜功能；D2选择透过性；D3渗透观察；D4物质进出解释；D5测验。关联Q7、Q10、Q48。
+  knowledge_points:
+  - BIO.CELL.004
+  - BIO.CELL.012
+  - BIO.CELL.014
+  - BIO.EXP.010
+  - BIO.BRIDGE.326
+  - BIO.BRIDGE.342
+- sequence: 8
+  title: 细胞综合
+  content: D1结构网络；D2植物/动物比较；D3显微镜复习；D4综合题；D5月测。目标：细胞基础M3。
+  knowledge_points:
+  - BIO.SCIENCE.004
+- sequence: 9
+  title: 扩散与渗透
+  content: D1浓度梯度；D2扩散；D3渗透实验；D4数据分析；D5测验。关联Q32、Q48。
+  knowledge_points:
+  - BIO.CELL.013
+  - BIO.CELL.014
+  - BIO.CELL.016
+- sequence: 10
+  title: 主动运输
+  content: D1主动运输概念；D2主动/被动比较；D3设计运输实验；D4情境题；D5测验。
+  knowledge_points:
+  - BIO.SCIENCE.004
+  - BIO.CELL.015
+- sequence: 11
+  title: 细胞分裂
+  content: D1分裂意义；D2有丝分裂；D3观察分裂图；D4有丝/减数概念比较；D5测验。关联Q2、Q17。
+  knowledge_points:
+  - BIO.SCIENCE.004
+  - BIO.CELL.022
+  - BIO.EXP.010
+  - BIO.BRIDGE.288
+- sequence: 12
+  title: 细胞能量
+  content: D1能量；D2呼吸；D3酵母发酵观察；D4解释CO2；D5月测。关联Q11。
+  knowledge_points:
+  - BIO.BIOCHEM.016
+  - BIO.EXP.010
+  - BIO.BRIDGE.280
+- sequence: 13
+  title: 根
+  content: D1根结构；D2根毛；D3根吸水观察；D4吸水条件；D5测验。
+  knowledge_points:
+  - BIO.BIOCHEM.001
+  - BIO.PLANT.002
+  - BIO.PLANT.003
+  - BIO.EXP.010
+- sequence: 14
+  title: 茎
+  content: D1茎结构；D2木质部/韧皮部；D3芹菜/白花水运观察；D4结构功能；D5测验。关联Q23、Q32。
+  knowledge_points:
+  - BIO.BIOCHEM.001
+  - BIO.PLANT.004
+  - BIO.PLANT.006
+  - BIO.PLANT.014
+  - BIO.PLANT.015
+  - BIO.EXP.010
+  - BIO.BRIDGE.296
+- sequence: 15
+  title: 叶
+  content: D1叶片结构；D2气孔；D3叶片观察；D4结构与环境；D5测验。关联Q20、Q26、Q50。
+  knowledge_points:
+  - BIO.PLANT.005
+  - BIO.PLANT.011
+  - BIO.EXP.010
+- sequence: 16
+  title: 花果实种子
+  content: D1花；D2果实；D3种子；D4传播方式；D5月测。关联Q22、Q25。
+  knowledge_points:
+  - BIO.PLANT.006
+  - BIO.PLANT.007
+  - BIO.PLANT.008
+  - BIO.BRIDGE.297
+- sequence: 17
+  title: 光合作用
+  content: D1概念；D2原料/产物；D3叶片淀粉实验演示/观察；D4变量分析；D5测验。
+  knowledge_points:
+  - BIO.SCIENCE.006
+  - BIO.PLANT.005
+  - BIO.PLANTPHYS.001
+  - BIO.EXP.010
+  - BIO.BRIDGE.303
+- sequence: 18
+  title: 呼吸作用
+  content: D1植物呼吸；D2动物呼吸；D3种子呼吸观察；D4光合/呼吸比较；D5测验。
+  knowledge_points:
+  - BIO.SCIENCE.004
+  - BIO.BIOCHEM.015
+  - BIO.PLANT.008
+  - BIO.PLANTPHYS.005
+  - BIO.EXP.010
+  - BIO.BRIDGE.280
+  - BIO.BRIDGE.303
+- sequence: 19
+  title: 蒸腾作用
+  content: D1蒸腾；D2气孔；D3蒸腾观察；D4蒸腾与水运输；D5测验。关联Q20、Q32。
+  knowledge_points:
+  - BIO.BIOCHEM.001
+  - BIO.PLANT.011
+  - BIO.PLANTPHYS.006
+  - BIO.EXP.010
+- sequence: 20
+  title: 水分运输
+  content: D1根→茎→叶；D2木质部；D3水运实验；D4蒸腾拉力直观模型；D5月测。关联Q32。
+  knowledge_points:
+  - BIO.BIOCHEM.001
+  - BIO.PLANT.002
+  - BIO.PLANT.004
+  - BIO.PLANT.005
+  - BIO.PLANT.014
+  - BIO.PLANTPHYS.008
+  - BIO.PLANTPHYS.009
+- sequence: 21
+  title: 植物适应
+  content: D1适应；D2旱生；D3水生；D4结构→环境；D5测验。关联Q20、Q50、Q51。
+  knowledge_points:
+  - BIO.BIOCHEM.001
+  - BIO.EVOLUTION.004
+- sequence: 22
+  title: 盐胁迫
+  content: D1盐胁迫；D2Na+与离子平衡；D3不同盐浓度下植物状态观察；D4盐胁迫数据；D5测验。关联Q27。
+  knowledge_points:
+  - BIO.PLANTPHYS.012
+  - BIO.EXP.010
+- sequence: 23
+  title: 植物激素
+  content: D1激素概念；D2生长素；D3向光性观察；D4生长素→生长因果链；D5测验。关联Q31、Q33。
+  knowledge_points:
+  - BIO.PLANTPHYS.014
+  - BIO.PLANTPHYS.015
+  - BIO.PLANTPHYS.016
+  - BIO.EXP.010
+  - BIO.DATA.010
+  - BIO.BRIDGE.303
+- sequence: 24
+  title: 光周期与C4
+  content: D1光周期；D2长日植物；D3光照数据；D4C3/C4直观比较；D5月测。关联Q34、Q51。
+  knowledge_points:
+  - BIO.SCIENCE.004
+  - BIO.PLANTPHYS.017
+  - BIO.PLANTPHYS.018
+  - BIO.PLANTPHYS.019
+  - BIO.BRIDGE.303
+- sequence: 25
+  title: 动物组织
+  content: D1上皮/肌肉/神经/结缔；D2结构功能；D3组织图像；D4比较；D5测验。
+  knowledge_points:
+  - BIO.SCIENCE.004
+  - BIO.ANIMAL.001
+  - BIO.BRIDGE.320
+- sequence: 26
+  title: 循环系统
+  content: D1血液；D2心脏；D3心脏图；D4肺循环/体循环；D5测验。关联Q40。
+  knowledge_points:
+  - BIO.ANIMAL.006
+  - BIO.ANIMAL.011
+  - BIO.ANIMAL.012
+  - BIO.BRIDGE.311
+  - BIO.BRIDGE.316
+  - BIO.BRIDGE.321
+- sequence: 27
+  title: 消化与呼吸
+  content: D1消化；D2吸收；D3呼吸模型/观察；D4消化与呼吸联系；D5测验。
+  knowledge_points:
+  - BIO.EXP.010
+  - BIO.BRIDGE.280
+- sequence: 28
+  title: 排泄与肾
+  content: D1排泄；D2肾；D3尿液形成模型；D4滤过/重吸收直观理解；D5月测。关联Q42。
+  knowledge_points:
+  - BIO.ANIMAL.014
+  - BIO.ANIMAL.015
+  - BIO.ANIMAL.016
+  - BIO.BRIDGE.315
+- sequence: 29
+  title: 神经系统
+  content: D1神经元；D2神经系统；D3反射观察；D4刺激→反应；D5测验。关联Q37、Q44。
+  knowledge_points:
+  - BIO.ANIMAL.002
+  - BIO.EXP.010
+  - BIO.BRIDGE.320
+- sequence: 30
+  title: 感觉系统
+  content: D1视觉；D2痛觉；D3感觉实验；D4受体→信号；D5测验。关联Q43、Q44。
+  knowledge_points:
+  - BIO.CELL.019
+  - BIO.ANIMAL.021
+- sequence: 31
+  title: 稳态与体温
+  content: D1稳态；D2体温；D3温度观察；D4血管收缩/舒张；D5测验。关联Q45、Q46。
+  knowledge_points:
+  - BIO.ANIMAL.024
+  - BIO.EXP.010
+  - BIO.BRIDGE.322
+- sequence: 32
+  title: 动物行为
+  content: D1行为；D2捕食/防御；D3行为观察；D4生态陷阱/恐惧行为；D5月测。关联Q49、Q52。
+  knowledge_points:
+  - BIO.ECOLOGY.012
+  - BIO.ECOLOGY.014
+  - BIO.ECOLOGY.018
+  - BIO.EXP.010
+  - BIO.BRIDGE.324
+  - BIO.BRIDGE.327
+- sequence: 33
+  title: 种群
+  content: D1种群；D2种群密度；D3校园植物计数；D4种群变化；D5测验。关联Q53。
+  knowledge_points:
+  - BIO.ECOLOGY.002
+- sequence: 34
+  title: 群落
+  content: D1群落；D2种间关系；D3校园生物调查；D4竞争/捕食/互利；D5测验。
+  knowledge_points:
+  - BIO.ECOLOGY.003
+  - BIO.ECOLOGY.012
+- sequence: 35
+  title: 食物链与食物网
+  content: D1食物链；D2食物网；D3建立校园食物网；D4营养级；D5测验。
+  knowledge_points:
+  - BIO.ECOLOGY.007
+  - BIO.ECOLOGY.008
+  - BIO.ECOLOGY.009
+- sequence: 36
+  title: 生态系统
+  content: D1能量流动；D2初级生产力；D3生态实验数据；D4蝙蝠---森林因果链；D5月测。关联Q54。
+  knowledge_points:
+  - BIO.ECOLOGY.004
+  - BIO.ECOLOGY.010
+  - BIO.ECOLOGY.011
+  - BIO.ECOLOGY.019
+  - BIO.DATA.010
+  - BIO.DATA.017
+  - BIO.BRIDGE.324
+- sequence: 37
+  title: DNA与遗传信息
+  content: D1DNA；D2DNA与染色体；D3DNA模型；D4遗传信息；D5测验。关联Q55、Q59。
+  knowledge_points:
+  - BIO.CELL.024
+  - BIO.MOLECULAR.001
+  - BIO.GENETICS.001
+  - BIO.GENETICS.003
+  - BIO.EVOLUTION.002
+- sequence: 38
+  title: 基因与性状
+  content: D1基因；D2基因型/表现型；D3性状调查；D4环境与表现型；D5测验。关联Q30、Q56。
+  knowledge_points:
+  - BIO.MOLECULAR.006
+  - BIO.GENETICS.004
+  - BIO.GENETICS.006
+  - BIO.GENETICS.007
+- sequence: 39
+  title: 基础遗传
+  content: D1等位基因；D2纯合/杂合；D3遗传模拟；D4遗传推理；D5测验。关联Q58。
+  knowledge_points:
+  - BIO.MOLECULAR.006
+  - BIO.GENETICS.001
+  - BIO.GENETICS.004
+  - BIO.GENETICS.005
+  - BIO.GENETICS.010
+  - BIO.GENETICS.011
+  - BIO.EVOLUTION.002
+- sequence: 40
+  title: 遗传与变异
+  content: D1变异；D2遗传变异；D3群体数据；D4线粒体遗传直观介绍；D5月测。关联Q56、Q58、Q59。
+  knowledge_points:
+  - BIO.CELL.007
+  - BIO.GENETICS.001
+  - BIO.GENETICS.002
+  - BIO.GENETICS.014
+  - BIO.EVOLUTION.001
+  - BIO.EVOLUTION.002
+- sequence: 41
+  title: 自然选择
+  content: D1变异；D2选择；D3模拟捕食；D4适应形成；D5测验。
+  knowledge_points:
+  - BIO.ECOLOGY.012
+  - BIO.GENETICS.002
+  - BIO.EVOLUTION.001
+  - BIO.EVOLUTION.003
+  - BIO.EVOLUTION.004
+  - BIO.BRIDGE.342
+- sequence: 42
+  title: 适应与协同进化
+  content: D1适应；D2捕食者---猎物；D3花---传粉者观察；D4协同进化；D5测验。关联Q67。
+  knowledge_points:
+  - BIO.PLANT.006
+  - BIO.ECOLOGY.012
+  - BIO.EVOLUTION.004
+  - BIO.EVOLUTION.014
+  - BIO.EXP.010
+- sequence: 43
+  title: 系统发生树
+  content: D1共同祖先；D2系统发生树；D3树图练习；D4姐妹群/外群；D5测验。关联Q21、Q65。
+  knowledge_points:
+  - BIO.EVOLUTION.005
+  - BIO.EVOLUTION.006
+  - BIO.EVOLUTION.007
+  - BIO.EVOLUTION.008
+  - BIO.BRIDGE.293
+- sequence: 44
+  title: 进化综合
+  content: D1自然选择；D2适应；D3系统发生；D4不等交换/基因重复直观概念；D5月测。关联Q65、Q67、Q68。
+  knowledge_points:
+  - BIO.MOLECULAR.006
+  - BIO.GENETICS.004
+  - BIO.GENETICS.019
+  - BIO.GENETICS.020
+  - BIO.EVOLUTION.003
+  - BIO.EVOLUTION.004
+  - BIO.EVOLUTION.006
+  - BIO.EXP.008
+  - BIO.BRIDGE.342
+- sequence: 45
+  title: 实验推理
+  content: D1变量；D2对照；D3实验缺陷；D4从竞赛题找变量；D5实验专项测。重点Q11、Q20、Q29、Q31、Q33、Q34、Q46、Q49、Q52、Q54、Q62。
+  knowledge_points:
+  - BIO.SCIENCE.006
+  - BIO.EXP.015
+- sequence: 46
+  title: 数据与图表
+  content: D1坐标轴；D2趋势；D3组间差异；D4相关/因果；D5数据专项测。重点Q17、Q27、Q30、Q33、Q34、Q35、Q46、Q48、Q52、Q53、Q54。
+  knowledge_points:
+  - BIO.SCIENCE.018
+  - BIO.SCIENCE.019
+  - BIO.DATA.002
+  - BIO.DATA.006
+  - BIO.DATA.007
+  - BIO.DATA.009
+  - BIO.DATA.010
+- sequence: 47
+  title: 真题降维
+  content: 选择Q20、Q25、Q32、Q40、Q45、Q49、Q50、Q52、Q53、Q54、Q65。每天：原题背景→七年级知识→简化实验/图表→尝试原题可理解部分→综合测。
+  knowledge_points:
+  - BIO.BRIDGE.342
+- sequence: 48
+  title: 年度综合
+  content: 'D1细胞+植物；D2植物+动物；D3动物+生态；D4遗传+进化；D5年度能力测试。
+
+
+    年度目标：基础知识≥85%；概念解释≥80%；新情境应用≥75%；实验变量识别≥90%；基础图表≥80%；综合题≥70%。'
+  knowledge_points:
+  - BIO.SCIENCE.006
+  - BIO.GENETICS.001
+  - BIO.EVOLUTION.002
+  - BIO.BRIDGE.324

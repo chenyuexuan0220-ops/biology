@@ -1,0 +1,39 @@
+source_question_no: 53
+question_type: COMPREHENSIVE
+stem: "对一个野生鸟类种群的研究发现，在一个繁殖季中繁殖的雌性个体数量与每只雌性能够养育成功的幼鸟数量\n呈反比关系。这种关系直接影响了单位个体的增长贡献。右图展示了不同种群增长模型的特征。图中，横坐标\
+  \ N\n代表种群数量，纵坐标为种群增长率 (dN/dt) 或单位个体增长率 ((1/N)×(dN/dt))。请判断每个图所代表的种群\n增长模型或模型特征是否与题干所描述的密度制约现象相符。在相符的图对应选项后标注T，不相符的标注F。\n\
+  \n\n\n\n\n                 A               B             C           D\n\n\n   \
+  \                                               9"
+options: {}
+answer: null
+explanation: null
+knowledge_points:
+- BIO.ECOLOGY.016
+prerequisites:
+- BIO.ECOLOGY.002
+- BIO.DATA.001
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: A
+reasoning_patterns:
+- 模型解释
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 9
+  raw_text: "对一个野生鸟类种群的研究发现，在一个繁殖季中繁殖的雌性个体数量与每只雌性能够养育成功的幼鸟数量\n呈反比关系。这种关系直接影响了单位个体的增长贡献。右图展示了不同种群增长模型的特征。图中，横坐标\
+    \ N\n代表种群数量，纵坐标为种群增长率 (dN/dt) 或单位个体增长率 ((1/N)×(dN/dt))。请判断每个图所代表的种群\n增长模型或模型特征是否与题干所描述的密度制约现象相符。在相符的图对应选项后标注T，不相符的标注F。\n\
+    \n\n\n\n\n                 A               B             C           D\n\n\n \
+    \                                                 9"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M3

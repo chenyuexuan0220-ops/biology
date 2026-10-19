@@ -1,0 +1,30 @@
+source_question_no: 3
+question_type: SINGLE_CHOICE
+stem: 研究光照对幼苗生长的影响，哪一个假设可以通过实验检验？
+options:
+  A: 幼苗很喜欢阳光
+  B: 阳光是最美的
+  C: 不同光照时长会影响幼苗高度
+  D: 所有植物都很神奇
+answer:
+- C
+explanation: 可检验的假设应包含可操作的因素与可测量的结果，例如光照时长与幼苗高度。
+knowledge_points:
+- BIO.SCIENCE.005
+prerequisites: []
+competencies:
+- HYPOTHESIS_GENERATION
+difficulty:
+  learning: 1
+  competition: 1
+status: PUBLISHED
+metadata:
+  source_type: ORIGINAL_DEVELOPMENT_FIXTURE
+  diagnostic_domain: 假设
+  cognitive_level: 1
+  target_grade: 8
+  goals:
+  - NATIONAL_LEAGUE
+  - IBO
+  review_notes:
+  - 用于软件验收的原创练习，正式教学前请教研复核

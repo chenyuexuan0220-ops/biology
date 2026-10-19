@@ -1,0 +1,41 @@
+source_question_no: 42
+question_type: COMPREHENSIVE
+stem: '某人进行了葡萄糖耐受测试，结果显示他的血糖水平增高，并且高于肾的最大转运极限，据此对以下陈述
+
+  进行正误判断：'
+options:
+  A: 肾对葡萄糖的排出率与滤过率相等
+  B: 肾对葡萄糖的重吸收率与滤过率相等
+  C: 肾对葡萄糖的排出率随血糖水平的增高而增大
+  D: 肾静脉与肾动脉的血浆葡萄糖浓度相等
+answer: null
+explanation: null
+knowledge_points:
+- BIO.BRIDGE.314
+prerequisites:
+- BIO.BRIDGE.315
+- BIO.BRIDGE.316
+competencies:
+- MECHANISM_REASONING
+difficulty:
+  competition: 4
+  learning: 4
+grade_suitability:
+  grade7: B
+reasoning_patterns:
+- 生理推理
+status: REVIEW_REQUIRED
+metadata:
+  source_pages:
+  - 7
+  raw_text: "某人进行了葡萄糖耐受测试，结果显示他的血糖水平增高，并且高于肾的最大转运极限，据此对以下陈述\n进行正误判断：\n A. 肾对葡萄糖的排出率与滤过率相等\
+    \                        B. 肾对葡萄糖的重吸收率与滤过率相等\n C. 肾对葡萄糖的排出率随血糖水平的增高而增大       \
+    \     D. 肾静脉与肾动脉的血浆葡萄糖浓度相等"
+  source_type: PDF_TEXT_EXTRACTION
+  answer_source: null
+  review_notes:
+  - 缺少官方答案
+  - 需核对图表、跨题共用题干、排版和水印混入
+  - 知识映射来自规格书，需教研确认
+  original_format: STATEMENT_TRUE_FALSE
+  first_year_target: M2
